@@ -4,8 +4,9 @@
 
 import subprocess
 
-def main():
-    subprocess.call("sysbench --test=cpu --cpu-max-prime=20000 run", shell=True)
+def main(option):
+    command = "sysbench --test=cpu --cpu-max-prime=" + str(option) + " run"
+    subprocess.call(command, shell=True)
 
 if __name__ == '__main__':
     main()

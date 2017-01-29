@@ -5,8 +5,9 @@
 import subprocess
 
 
-def main():
-    subprocess.call("dd if=/dev/zero of=sb-io-test bs=1M count=1k conv=fdatasync", shell=True)
+def main(bs, count):
+    command = "dd if=/dev/zero of=sb-io-test bs=" + str(bs) + " count=" + str(count) + " conv=fdatasync"
+    subprocess.call(command, shell=True)
 
 if __name__ == '__main__':
     main()
