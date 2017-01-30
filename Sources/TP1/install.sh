@@ -7,7 +7,7 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 ### Create folder to output result ###
-mkdir result
+mkdir -m 777 result
 
 
 ### Install dependency to run test ###
