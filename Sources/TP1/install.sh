@@ -14,6 +14,8 @@ mkdir -m 777 result
 
 # For the IOPS
 apt-get install bonnie++
+chmod +x run_bonnie.sh
 
 # For the Memory
 apt-get install stress-ng
+chmod +x run_stress.sh
