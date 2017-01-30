@@ -4,6 +4,7 @@
 
 import subprocess
 import os
+from utils import checkDirectory
 
 def test():
     runBonnie("test", 2048, "result", "iops")
