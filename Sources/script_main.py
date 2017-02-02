@@ -22,10 +22,10 @@ def main():
         options.count = '1k'
 
     print '\nSTARTING CPU BENCHMARKING \n'
-    script_CPU.main(options.cpu)
+    script_CPU.main(options.cpu, "result", "cpu")
 
     print '\nSTARTING IO BENCHMARKING \n'
-    script_IO.main(options.bs, options.count)
+    script_IO.main(options.bs, options.count, "result", "io")
 
 if __name__ == '__main__':
     main()
