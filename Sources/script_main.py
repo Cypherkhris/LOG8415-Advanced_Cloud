@@ -5,7 +5,6 @@
 
 import script_CPU
 import script_IO
-import sys
 import argparse
 
 def main():
