@@ -15,4 +15,4 @@ do
         esac
 done
 
-hdparm -Tt /dev/sda >> $RESULT.txt
+hdparm -Tt /xdva/xdva >> $RESULT.txt
