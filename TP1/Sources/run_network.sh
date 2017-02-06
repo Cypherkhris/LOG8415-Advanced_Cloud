@@ -9,4 +9,4 @@ do
         esac
 done
 
-speedtest-cli > $RESULT.txt
+speedtest-cli >> $RESULT.txt

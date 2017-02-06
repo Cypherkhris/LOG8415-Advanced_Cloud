@@ -17,4 +17,4 @@ do
         esac
 done
 
-bonnie++ -d $DIR -r $MEMORY -u 0 | bon_csv2html > $RESULT.html
+bonnie++ -d $DIR -r $MEMORY -u 0 | bon_csv2html >> $RESULT.html

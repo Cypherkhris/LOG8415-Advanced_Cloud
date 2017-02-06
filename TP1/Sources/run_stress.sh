@@ -10,4 +10,4 @@ do
         esac
 done
 
-stress-ng --vm $MEMORY_SIZE --timeout 10 --metrics-brief > $RESULT.txt
+stress-ng --vm $MEMORY_SIZE --timeout 10 --metrics-brief >> $RESULT.txt
