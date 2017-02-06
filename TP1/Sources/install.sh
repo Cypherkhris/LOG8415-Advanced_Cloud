@@ -9,6 +9,9 @@ fi
 ### Create folder to output result ###
 mkdir -m 777 result
 
+### Set main script executatble
+
+chmod +x script_main.py
 
 ### Install dependency to run test ###
 
