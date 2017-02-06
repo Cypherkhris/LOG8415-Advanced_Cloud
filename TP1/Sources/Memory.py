@@ -6,10 +6,10 @@ import subprocess
 from utils import checkDirectory
 
 def test():
-    runStress(1, "result", "memory")
+    runMemoryBenchmark(1, "result", "memory")
 
 
-def runStress(workerCount, outputDirectory, fileName):
+def runMemoryBenchmark(workerCount, outputDirectory, fileName):
 
     checkDirectory(outputDirectory)
 

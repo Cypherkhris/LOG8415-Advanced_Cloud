@@ -7,14 +7,9 @@ import os
 from utils import checkDirectory
 
 def test():
-    runBonnie("test", 2048, "result", "iops")
+    runIopsBenchmark("test", 2048, "result", "iops")
 
-def checkDirectory(directoryPath):
-    if not os.path.exists(directoryPath):
-        os.makedirs(directoryPath)
-
-
-def runBonnie(testDirectoryPath, ramSize, outputDirectory, fileName):
+def runIopsBenchmark(testDirectoryPath, ramSize, outputDirectory, fileName):
 
     checkDirectory(testDirectoryPath)
     checkDirectory(outputDirectory)
