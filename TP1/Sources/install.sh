@@ -29,4 +29,4 @@ chmod +x run_disk.sh
 
 # For network
 apt-get install speedtest-cli
-chmod +x run_network
+chmod +x run_network.sh
