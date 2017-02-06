@@ -1,0 +1,5 @@
+stress-ng: info:  [3603] dispatching hogs: 1 vm
+stress-ng: info:  [3603] successful run completed in 10.05s
+stress-ng: info:  [3603] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [3603]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [3603] vm              270612     10.05      7.60      2.44     26926.46     26953.39
