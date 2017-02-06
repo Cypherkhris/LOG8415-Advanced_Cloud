@@ -12,6 +12,9 @@ mkdir -m 777 result
 
 ### Install dependency to run test ###
 
+# For the CPU
+apt-get install sysbench
+
 # For the IOPS
 apt-get install bonnie++
 chmod +x run_bonnie.sh
