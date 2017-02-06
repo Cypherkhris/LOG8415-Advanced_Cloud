@@ -10,4 +10,4 @@ do
         esac
 done
 
-stress-ng --vm 10 --timeout 10 --metrics-brief > $RESULT.txt
+stress-ng --vm $WORKER_COUNT --timeout 10 --metrics-brief > $RESULT.txt
