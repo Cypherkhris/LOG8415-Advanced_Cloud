@@ -3,7 +3,6 @@
 # IO benchmarking
 
 import subprocess
-import os
 from utils import checkDirectory
 
 def test():
@@ -12,6 +11,5 @@ def test():
 def runIopsBenchmark(testDirectoryPath, ramSize, outputDirectory, fileName):
 
     checkDirectory(testDirectoryPath)
-    checkDirectory(outputDirectory)
 
     subprocess.call("./run_bonnie.sh -d {} -m {} -r {}/{}".format(testDirectoryPath, ramSize, outputDirectory, fileName), shell=True)
