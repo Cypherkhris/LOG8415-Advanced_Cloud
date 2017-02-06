@@ -8,6 +8,6 @@ def test():
     runMemoryBenchmark(1, "result", "memory")
 
 
-def runMemoryBenchmark(workerCount, outputDirectory, fileName):
+def runMemoryBenchmark(memorySize, outputDirectory, fileName):
 
-    subprocess.call("./run_stress.sh -n {} -r {}/{}".format(workerCount, outputDirectory, fileName), shell=True)
+    subprocess.call("./run_stress.sh -n {} -r {}/{}".format(memorySize, outputDirectory, fileName), shell=True)

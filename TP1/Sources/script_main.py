@@ -20,7 +20,7 @@ def main():
     parser.add_argument('--bs', dest='bs', help='dd bs option')
     parser.add_argument('--count', dest='count', help='dd count option')
     parser.add_argument('--ram', dest='ram', help='RAM size for IOPS benchmark')
-    parser.add_argument('--worker', dest='worker', help='Worker count for memory benchmark')
+    parser.add_argument('--memory', dest='memory', help='Gig size of virtual memory for memory benchmark')
     options = parser.parse_args()
     if options.cpu is None:
         options.cpu = '20000'
@@ -30,8 +30,8 @@ def main():
         options.count = '1k'
     if options.ram is None:
         options.ram = 1024
-    if options.worker is None:
-        options.worker = 1
+    if options.memory is None:
+        options.memory = 1
 
     resultDirectory = "result"
 
@@ -47,7 +47,7 @@ def main():
     runIopsBenchmark("test", options.ram, resultDirectory, "iops")
 
     print '\nSTARTING MEMORY BENCHMARKING \n'
-    runMemoryBenchmark(options.worker, resultDirectory, "memory")
+    runMemoryBenchmark(options.memory, resultDirectory, "memory")
 
     print '\nSTARTING DISK BENCHMARKING \n'
     runDiskBenchmark(resultDirectory, "disk")

@@ -5,9 +5,9 @@ while getopts n:r: option
 do
         case "${option}"
         in
-                n) WORKER_COUNT=$OPTARG;;
+                n) MEMORY_SIZE=$OPTARG;;
                 r) RESULT=$OPTARG;;
         esac
 done
 
-stress-ng --vm $WORKER_COUNT --timeout 10 --metrics-brief > $RESULT.txt
+stress-ng --vm $MEMORY_SIZE --timeout 10 --metrics-brief > $RESULT.txt
