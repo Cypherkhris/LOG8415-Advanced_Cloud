@@ -9,6 +9,10 @@ fi
 ### Create folder to output result ###
 mkdir -m 777 result
 
+### Update
+
+apt-get update
+
 ### Set main script executatble
 
 chmod +x script_main.py
