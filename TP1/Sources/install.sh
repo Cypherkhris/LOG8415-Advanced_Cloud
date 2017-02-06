@@ -22,3 +22,11 @@ chmod +x run_bonnie.sh
 # For the Memory
 apt-get install stress-ng
 chmod +x run_stress.sh
+
+# For Disk
+apt-get install hdparm
+chmod +x run_disk.sh
+
+# For network
+apt-get install speedtest-cli
+chmod +x run_network

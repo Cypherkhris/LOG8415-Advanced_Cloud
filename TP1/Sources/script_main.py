@@ -9,6 +9,10 @@ import script_CPU
 import script_IO
 from IOPS import runIopsBenchmark
 from Memory import runMemoryBenchmark
+from disk import runDiskBenchmark
+from network import runNetworkBenchmark
+from utils import checkDirectory
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -31,6 +35,8 @@ def main():
 
     resultDirectory = "result"
 
+    checkDirectory(resultDirectory)
+
     print '\nSTARTING CPU BENCHMARKING \n'
     script_CPU.main(options.cpu, resultDirectory, "cpu")
 
@@ -42,6 +48,12 @@ def main():
 
     print '\nSTARTING MEMORY BENCHMARKING \n'
     runMemoryBenchmark(options.worker, resultDirectory, "memory")
+
+    print '\nSTARTING DISK BENCHMARKING \n'
+    runDiskBenchmark(resultDirectory, "disk")
+
+    print '\nSTARTING DISK NETWORK \n'
+    runNetworkBenchmark(resultDirectory, "network")
 
 
 if __name__ == '__main__':
