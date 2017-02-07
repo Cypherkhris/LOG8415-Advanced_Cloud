@@ -1,0 +1,25 @@
+stress-ng: info:  [33842] dispatching hogs: 1 vm
+stress-ng: info:  [33842] successful run completed in 10.06s
+stress-ng: info:  [33842] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [33842]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [33842] vm               270612     10.06      7.70      2.32     26911.34     27007.19
+stress-ng: info:  [33981] dispatching hogs: 1 vm
+stress-ng: info:  [33981] successful run completed in 10.05s
+stress-ng: info:  [33981] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [33981]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [33981] vm               270612     10.05      7.87      2.16     26931.51     26980.26
+stress-ng: info:  [34120] dispatching hogs: 1 vm
+stress-ng: info:  [34120] successful run completed in 10.06s
+stress-ng: info:  [34120] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [34120]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [34120] vm               270612     10.05      7.70      2.30     26925.45     27061.20
+stress-ng: info:  [34260] dispatching hogs: 1 vm
+stress-ng: info:  [34260] successful run completed in 10.06s
+stress-ng: info:  [34260] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [34260]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [34260] vm               270612     10.06      7.75      2.27     26911.59     27007.19
+stress-ng: info:  [34398] dispatching hogs: 1 vm
+stress-ng: info:  [34398] successful run completed in 10.05s
+stress-ng: info:  [34398] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [34398]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [34398] vm               270612     10.05      7.67      2.35     26929.22     27007.19
