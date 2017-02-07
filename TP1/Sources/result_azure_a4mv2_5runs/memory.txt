@@ -1,0 +1,25 @@
+stress-ng: info:  [2522] dispatching hogs: 1 vm
+stress-ng: info:  [2522] successful run completed in 10.05s
+stress-ng: info:  [2522] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2522]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2522] vm              270612     10.05      7.69      2.34     26930.26     26980.26
+stress-ng: info:  [2664] dispatching hogs: 1 vm
+stress-ng: info:  [2664] successful run completed in 10.05s
+stress-ng: info:  [2664] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2664]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2664] vm              270612     10.05      7.76      2.28     26927.92     26953.39
+stress-ng: info:  [2799] dispatching hogs: 1 vm
+stress-ng: info:  [2799] successful run completed in 10.05s
+stress-ng: info:  [2799] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2799]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2799] vm              270612     10.05      7.71      2.33     26934.14     26953.39
+stress-ng: info:  [2937] dispatching hogs: 1 vm
+stress-ng: info:  [2937] successful run completed in 10.05s
+stress-ng: info:  [2937] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2937]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2937] vm              270612     10.05      7.63      2.40     26930.01     26980.26
+stress-ng: info:  [3077] dispatching hogs: 1 vm
+stress-ng: info:  [3077] successful run completed in 10.04s
+stress-ng: info:  [3077] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [3077]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [3077] vm              270612     10.04      7.72      2.31     26944.17     26980.26
