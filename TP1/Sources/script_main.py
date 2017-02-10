@@ -73,10 +73,10 @@ def main():
     disk.runDiskBenchmark(resultDirectory, "disk", diskMount)
     results.append("Disk: " + disk.getResult(resultDirectory, "disk.txt"))
 
-    print '\nSTARTING DISK NETWORK \n'
+    print '\nSTARTING NETWORK BENCHMARKING \n'
 
     network.runNetworkBenchmark(resultDirectory, "network")
-    results.append("Network: " + network.getResult(resultDirectory, "network"))
+    results.append("Network: " + network.getResult(resultDirectory, "network.txt"))
 
     resultFile = open(resultDirectory + "/resultCompilation.txt", "w")
     

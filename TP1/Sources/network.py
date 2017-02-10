@@ -19,7 +19,7 @@ def getResult(outputDirectory, fileName):
     regexPattern = r'([0-9]*\.[0-9]*) Mbit\/s'
     matchObjList = extractResult(outputDirectory, fileName, regexPattern)
 
-    downloadSpeed = "Download speed (Mb/s): {}".format(matchObjList[0].group(1))
-    uploadSpeed = "Upload speed (Mb/s): {}".format(matchObjList[1].group(1))
+    downloadSpeed = "Download speed (Mb/s): {}".format(matchObjList[0])
+    uploadSpeed = "Upload speed (Mb/s): {}".format(matchObjList[1])
 
     return "{}, {}".format(downloadSpeed, uploadSpeed)
