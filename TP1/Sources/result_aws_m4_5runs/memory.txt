@@ -1,0 +1,30 @@
+stress-ng: info:  [25749] dispatching hogs: 1 vm
+stress-ng: info:  [25749] successful run completed in 10.02s
+stress-ng: info:  [25749] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [25749]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [25749] vm              347668     10.02      8.19      1.82     34694.19     34732.07
+stress-ng: info:  [2058] dispatching hogs: 1 vm
+stress-ng: info:  [2058] successful run completed in 10.02s
+stress-ng: info:  [2058] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2058]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2058] vm              347668     10.02      8.26      1.75     34690.61     34732.07
+stress-ng: info:  [2182] dispatching hogs: 1 vm
+stress-ng: info:  [2182] successful run completed in 10.02s
+stress-ng: info:  [2182] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2182]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2182] vm              347668     10.02      8.20      1.82     34690.34     34697.41
+stress-ng: info:  [2306] dispatching hogs: 1 vm
+stress-ng: info:  [2306] successful run completed in 10.02s
+stress-ng: info:  [2306] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2306]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2306] vm              347668     10.02      8.20      1.82     34690.50     34697.41
+stress-ng: info:  [2442] dispatching hogs: 1 vm
+stress-ng: info:  [2442] successful run completed in 10.02s
+stress-ng: info:  [2442] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2442]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2442] vm              347668     10.02      8.19      1.82     34689.90     34732.07
+stress-ng: info:  [2567] dispatching hogs: 1 vm
+stress-ng: info:  [2567] successful run completed in 10.02s
+stress-ng: info:  [2567] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [2567]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [2567] vm              347668     10.02      8.19      1.82     34690.53     34732.07
