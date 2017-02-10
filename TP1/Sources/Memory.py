@@ -18,6 +18,6 @@ def getResult(outputDirectory, fileName):
     regexPattern = r'([0-9]*\.[0-9]*) *([0-9]*\.[0-9]*)$'
     matchObjList = extractResult(outputDirectory, fileName, regexPattern)
 
-    performance = "Bogo (real time) ops/s: {}".format(matchObjList[0])
+    performance = "Bogo (real time, total) : {} ops/s".format(matchObjList[0])
 
     return "{}".format(performance)

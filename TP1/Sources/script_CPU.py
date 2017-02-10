@@ -17,6 +17,6 @@ def getResult(outputDirectory, fileName):
     regexPattern = r'([0-9]*\.[0-9]*)s'
     matchObjList = extractResult(outputDirectory, fileName, regexPattern)
     
-    result = "Total time (s): {}".format(matchObjList[0])
+    result = "Total time: {}(s)".format(matchObjList[0])
 
     return "{}".format(result)

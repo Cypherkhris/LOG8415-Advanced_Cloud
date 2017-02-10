@@ -22,7 +22,7 @@ def getResult(outputDirectory, fileName):
 
     print(matchObjList)
 
-    cachedPerformance = "Cached reads: {}".format(matchObjList[0])
-    bufferedPerformance = "Buffered reads: {}".format(matchObjList[1])
+    cachedPerformance = "Cached reads: {}(Mb/s)".format(matchObjList[0])
+    bufferedPerformance = "Buffered reads: {}(Mb/s)".format(matchObjList[1])
 
-    return "{}, {}".format(cachedPerformance, bufferedPerformance)
+    return "{} || {}".format(cachedPerformance, bufferedPerformance)
