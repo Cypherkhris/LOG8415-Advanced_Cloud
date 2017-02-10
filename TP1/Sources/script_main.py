@@ -12,8 +12,8 @@ import Memory
 import disk
 import network
 
-import utils
-import IOPS
+from utils import checkDirectory
+
 
 
 
