@@ -78,6 +78,11 @@ def main():
     network.runNetworkBenchmark(resultDirectory, "network")
     results.append("Network: " + network.getResult(resultDirectory, "network"))
 
+    resultFile = open(resultDirectory + "/resultCompilation.txt", "w"
+    
+    for item in results:
+        resultFile.write("%s\n" %item)
+
 
 if __name__ == '__main__':
     main()
