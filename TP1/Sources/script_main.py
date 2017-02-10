@@ -72,7 +72,7 @@ def main():
 
     print '\nSTARTING DISK BENCHMARKING \n'
 
-    diskMount = "/xdva/xdva" if options.provider == "azure" else "/dev/sda"
+    diskMount = "/xvda/xvda" if options.provider == "azure" else "/dev/sda"
     disk.runDiskBenchmark(resultDirectory, "disk", diskMount)
     results.append("Disk: " + disk.getResult(resultDirectory, "disk.txt"))
 
