@@ -1,0 +1,20 @@
+
+/dev/xvda:
+ Timing cached reads:   22970 MB in  2.00 seconds = 11498.34 MB/sec
+ Timing buffered disk reads: 522 MB in  3.00 seconds = 173.99 MB/sec
+
+/dev/xvda:
+ Timing cached reads:   22966 MB in  2.00 seconds = 11496.78 MB/sec
+ Timing buffered disk reads: 524 MB in  3.01 seconds = 173.84 MB/sec
+
+/dev/xvda:
+ Timing cached reads:   22928 MB in  2.00 seconds = 11477.85 MB/sec
+ Timing buffered disk reads: 524 MB in  3.01 seconds = 173.88 MB/sec
+
+/dev/xvda:
+ Timing cached reads:   22876 MB in  2.00 seconds = 11451.71 MB/sec
+ Timing buffered disk reads: 524 MB in  3.01 seconds = 173.89 MB/sec
+
+/dev/xvda:
+ Timing cached reads:   23022 MB in  2.00 seconds = 11524.59 MB/sec
+ Timing buffered disk reads: 524 MB in  3.01 seconds = 173.89 MB/sec
