@@ -43,8 +43,10 @@ def main():
         options.provider = "azure"
 
     resultDirectory = "result"
+    compiledResult = "compiled_result"
 
     checkDirectory(resultDirectory)
+    checkDirectory(compiledResult)
 
     results = []
 
@@ -81,7 +83,7 @@ def main():
     network.runNetworkBenchmark(resultDirectory, "network")
     results.append("Network: " + network.getResult(resultDirectory, "network.txt"))
 
-    resultFile = open("compiled_result/" + options.name  + ".txt", "w")
+    resultFile = open(compiledResult + "/" + options.name + ".txt", "w")
     
     for item in results:
         resultFile.write("%s\n" %item)
