@@ -50,28 +50,28 @@ def main():
     print '\nSTARTING CPU BENCHMARKING \n'
 
     script_CPU.main(options.cpu, resultDirectory, "cpu")
-    results.append("CPU: " + script_CPU.getResult(resultDirectory, "cpu"))
+    results.append("CPU: " + script_CPU.getResult(resultDirectory, "cpu.txt"))
 
     print '\nSTARTING IO BENCHMARKING \n'
 
     script_IO.main(options.bs, options.count, resultDirectory, "io")
-    results.append("IO: " + script_IO.getResult(resultDirectory, "io"))
+    results.append("IO: " + script_IO.getResult(resultDirectory, "io.txt"))
 
     print '\nSTARTING IOPS BENCHMARKING \n'
 
     IOPS.runIopsBenchmark("test", options.ram, resultDirectory, "iops")
-    results.append("IOPS: " + IOPS.getResult(resultDirectory, "iops"))
+    results.append("IOPS: " + IOPS.getResult(resultDirectory, "iops.txt"))
 
     print '\nSTARTING MEMORY BENCHMARKING \n'
 
     Memory.runMemoryBenchmark(options.memory, resultDirectory, "memory")
-    results.append("Memory: " + Memory.getResult(resultDirectory, "memory"))
+    results.append("Memory: " + Memory.getResult(resultDirectory, "memory.txt"))
 
     print '\nSTARTING DISK BENCHMARKING \n'
 
     diskMount = "/xdva/xdva" if options.provider == "azure" else "/dev/sda"
     disk.runDiskBenchmark(resultDirectory, "disk", diskMount)
-    results.append("Disk: " + disk.getResult(resultDirectory, "disk"))
+    results.append("Disk: " + disk.getResult(resultDirectory, "disk.txt"))
 
     print '\nSTARTING DISK NETWORK \n'
 
