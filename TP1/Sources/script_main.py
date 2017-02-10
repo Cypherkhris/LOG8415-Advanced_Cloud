@@ -7,11 +7,14 @@ import argparse
 
 import script_CPU
 import script_IO
-from IOPS import runIopsBenchmark
-from Memory import runMemoryBenchmark
-from disk import runDiskBenchmark
-from network import runNetworkBenchmark
-from utils import checkDirectory
+import IOPS
+import Memory
+import disk
+import network
+
+import utils
+import IOPS
+
 
 
 def main():
@@ -21,6 +24,7 @@ def main():
     parser.add_argument('--count', dest='count', help='dd count option')
     parser.add_argument('--ram', dest='ram', help='RAM size for IOPS benchmark')
     parser.add_argument('--memory', dest='memory', help='Gig size of virtual memory for memory benchmark')
+    parser.add_argument('--provider', dest='provider', help='Gig size of virtual memory for memory benchmark')
     options = parser.parse_args()
     if options.cpu is None:
         options.cpu = '20000'
@@ -32,28 +36,47 @@ def main():
         options.ram = 1024
     if options.memory is None:
         options.memory = 1
+    if options.provider is None:
+        options.provider = "azure"
 
     resultDirectory = "result"
 
     checkDirectory(resultDirectory)
 
+    results = []
+
+    results.append("Result for command --cpu {} -- bs {}  -- count {} -- ram {} --memory {}  --provider {}".format(options.cpu, options.bs, options.count, options.ram, options.memory, options.provider))
+
     print '\nSTARTING CPU BENCHMARKING \n'
+
     script_CPU.main(options.cpu, resultDirectory, "cpu")
+    results.append("CPU: " + script_CPU.getResult(resultDirectory, "cpu"))
 
     print '\nSTARTING IO BENCHMARKING \n'
+
     script_IO.main(options.bs, options.count, resultDirectory, "io")
+    results.append("IO: " + script_IO.getResult(resultDirectory, "io"))
 
     print '\nSTARTING IOPS BENCHMARKING \n'
-    runIopsBenchmark("test", options.ram, resultDirectory, "iops")
+
+    IOPS.runIopsBenchmark("test", options.ram, resultDirectory, "iops")
+    results.append("IOPS: " + IOPS.getResult(resultDirectory, "iops"))
 
     print '\nSTARTING MEMORY BENCHMARKING \n'
-    runMemoryBenchmark(options.memory, resultDirectory, "memory")
+
+    Memory.runMemoryBenchmark(options.memory, resultDirectory, "memory")
+    results.append("Memory: " + Memory.getResult(resultDirectory, "memory"))
 
     print '\nSTARTING DISK BENCHMARKING \n'
-    runDiskBenchmark(resultDirectory, "disk")
+
+    diskMount = "/xdva/xdva" if options.provider == "azure" else "/dev/sda"
+    disk.runDiskBenchmark(resultDirectory, "disk", diskMount)
+    results.append("Disk: " + disk.getResult(resultDirectory, "disk"))
 
     print '\nSTARTING DISK NETWORK \n'
-    runNetworkBenchmark(resultDirectory, "network")
+
+    network.runNetworkBenchmark(resultDirectory, "network")
+    results.append("Network: " + network.getResult(resultDirectory, "network"))
 
 
 if __name__ == '__main__':
