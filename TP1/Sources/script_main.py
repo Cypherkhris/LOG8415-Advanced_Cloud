@@ -19,13 +19,16 @@ from utils import checkDirectory
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('--name', dest='name', help='Name of the test (will be the file name of compiled result)')
     parser.add_argument('--cpu', dest='cpu', help='SysBench cpu-max-prime option')
     parser.add_argument('--bs', dest='bs', help='dd bs option')
     parser.add_argument('--count', dest='count', help='dd count option')
     parser.add_argument('--ram', dest='ram', help='RAM size for IOPS benchmark')
     parser.add_argument('--memory', dest='memory', help='Gig size of virtual memory for memory benchmark')
-    parser.add_argument('--provider', dest='provider', help='Gig size of virtual memory for memory benchmark')
+    parser.add_argument('--provider', dest='provider', help='Cloud provider aws or azure')
     options = parser.parse_args()
+    if options.name is None:
+        options.name = "Default"
     if options.cpu is None:
         options.cpu = '20000'
     if options.bs is None:
@@ -78,7 +81,7 @@ def main():
     network.runNetworkBenchmark(resultDirectory, "network")
     results.append("Network: " + network.getResult(resultDirectory, "network.txt"))
 
-    resultFile = open(resultDirectory + "/resultCompilation.txt", "w")
+    resultFile = open("compiled_result/" + options.name  + ".txt", "w")
     
     for item in results:
         resultFile.write("%s\n" %item)
