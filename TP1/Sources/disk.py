@@ -4,11 +4,25 @@
 
 import subprocess
 import os
-from utils import checkDirectory
+from utils import extractResult
+
 
 def test():
-    runDiskBenchmark("result" ,"disk")
+    runDiskBenchmark("result" ,"disk", "/sda/dev")
 
-def runDiskBenchmark(outputDirectory, fileName):
+def runDiskBenchmark(outputDirectory, fileName, diskMount):
 
-    subprocess.call("./run_disk.sh -r {}/{}".format( outputDirectory, fileName), shell=True)
+    subprocess.call("./run_disk.sh -r {}/{} -o {}".format( outputDirectory, fileName, diskMount), shell=True)
+
+
+def getResult(outputDirectory, fileName):
+
+    regexPattern = r'([0-9]*\.[0-9]*) MB\/sec'
+    matchObjList = extractResult(outputDirectory, fileName, regexPattern)	
+
+    print(matchObjList)
+
+    cachedPerformance = "Cached reads: {}(Mb/s)".format(matchObjList[0])
+    bufferedPerformance = "Buffered reads: {}(Mb/s)".format(matchObjList[1])
+
+    return "{} || {}".format(cachedPerformance, bufferedPerformance)

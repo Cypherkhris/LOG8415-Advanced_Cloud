@@ -7,12 +7,13 @@ if [[ $EUID -ne 0 ]]; then
    exit 1
 fi
 
-while getopts r: option
+while getopts r:o: option
 do
         case "${option}"
         in
                 r) RESULT=$OPTARG;;
+                o) MOUNT=$OPTARG;;
         esac
 done
 
-hdparm -Tt /xdva/xdva >> $RESULT.txt
+hdparm -Tt $MOUNT >> $RESULT.txt
