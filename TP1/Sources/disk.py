@@ -10,9 +10,9 @@ from utils import extractResult
 def test():
     runDiskBenchmark("result" ,"disk", "/sda/dev")
 
-def runDiskBenchmark(outputDirectory, fileName, ./pudiskMount):
+def runDiskBenchmark(outputDirectory, fileName, diskMount):
 
-    subprocess.call("./run_disk.sh -r {}/{}".format( outputDirectory, fileName), shell=True)
+    subprocess.call("./run_disk.sh -r {}/{} -o".format( outputDirectory, fileName, diskMount), shell=True)
 
 
 def getResult(outputDirectory, fileName):
