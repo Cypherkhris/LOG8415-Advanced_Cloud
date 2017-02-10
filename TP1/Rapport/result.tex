@@ -15,3 +15,24 @@ Limit: 1500M
 
 
 # Instance 
+
+Stress-ng : explication des métriques
+\begin{itemize}
+  \item bogo ops : nombre d'itérations du stresseur effectuées
+  \item real time : durée 'wall clock' (moyenne) du stresseur (s)
+  \item usr time : durée utilisateur totale (s)
+  \item sys time : durée système totale (s)
+  \item bogo ops/s (real time) : "total bogo operations per second based on wall clock run time. The wall clock time reflects the apparent run time. The more processors one has on a system the more the work load can be distributed onto these and hence the wall clock time will reduce and the bogo ops rate will increase. This is essentially the "apparent" bogo ops rate of the system."
+  \item bogo ops/s (usr+sys time) : "total bogo operations per second based on cumulative user and system time. This is the real bogo ops rate of the system taking into consideration the actual time execution time of the stressor across all the processors. Generally this will decrease as one adds more concurrent stressors due to contention on cache, memory, execution units, buses and I/O devices."
+\end{itemize}
+
+Bonnie++ : explication des métriques
+\begin{itemize}
+  \item \%CPU : pourcentage du CPU utilisé pour le test
+  \item create, read, delete : création, lecture puis suppression de fichiers de zéro octet
+  \item Sequential Create : les opérations sont réalisées sur des fichiers avec un nom trié numériquement (accès séquentiel)
+  \item Random Create : les opérations sont réalisées sur des fichiers avec un nom aléatoire (accès aléatoire)
+  \item +++++ : opération trop rapide pour être mesurée
+\end{itemize}
+
+Source : https://www.linux.com/news/using-bonnie-filesystem-performance-benchmarking
