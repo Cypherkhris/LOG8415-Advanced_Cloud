@@ -11,8 +11,11 @@ IO :
 	
 IOPS :
 	Sequential output per char : (481 +	478 + 494 + 499 + 497) / 5 = 490 K/s
+	Sequential output latency per char : (25876 + 22849 + 21978 + 21999 + 19477) / 5 = 22436 us
 	Sequential input per char : (1887 + 1756 + 1833 + 1872 + 1691) / 5 = 1808 K/s
+	Sequential input latency per char : (8008 + 12104 + 8297 + 8000 + 133000) / 5 = 33882 us
 	Random seeks : (917.4 + 817.5 + 938.3 + 909.7 + 830.7) / 5 = 882.7 /s
+	Random seeks latency : (205 + 204 + 203 + 204 + 200) / 5 = 203 ms
 	
 Memory : 
 	bogo ops/s (usr+sys time) : (27007.19 + 26980.26 + 27061.20 + 27007.19 + 27007.19) / 5 = 27012.61 bogo ops/s
