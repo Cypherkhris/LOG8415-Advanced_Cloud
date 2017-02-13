@@ -3,9 +3,9 @@ import numpy
 
 # inspired by http://people.duke.edu/~ccc14/pcfb/numpympl/MatplotlibBarPlots.html
 
-xTickMarks = ["azure A1", "azure A4"]
-N = 2
-memory_bogo_ops = [27012.61, 26969.51]
+xTickMarks = ["azure A1", "azure A4", "amazon T2", "amazon C4", "amazon M4", "amazon R4"]
+N = 6
+memory_bogo_ops = [27012.61, 26969.51, 34745.96, 34739.016, 34718.206, 34725.14]
 
 ind = numpy.arange(N)
 width = 0.35

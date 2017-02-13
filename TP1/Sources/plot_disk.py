@@ -3,10 +3,10 @@ import numpy
 
 # inspired by http://people.duke.edu/~ccc14/pcfb/numpympl/MatplotlibBarPlots.html
 
-xTickMarks = ["azure A1", "azure A4"]
-N = 2
-disk_cached_reads = [3966.54, 4329.98]
-disk_buffered_disk_reads = [21.96, 43.87]
+xTickMarks = ["azure A1", "azure A4", "amazon T2", "amazon C4", "amazon M4", "amazon R4"]
+N = 6
+disk_cached_reads = [3966.54, 4329.98, 9974.22, 11489.85, 9990.05, 9950.078]
+disk_buffered_disk_reads = [21.96, 43.87, 78.59, 173.898, 158.78, 127.14]
 
 ind = numpy.arange(N)
 width = 0.35

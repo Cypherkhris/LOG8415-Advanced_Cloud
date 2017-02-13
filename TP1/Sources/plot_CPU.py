@@ -3,10 +3,10 @@ import numpy
 
 # inspired by http://people.duke.edu/~ccc14/pcfb/numpympl/MatplotlibBarPlots.html
 
-xTickMarks = ["azure A1", "azure A4"]
-N = 2
-CPU_total_time = [66.8626, 66.6122]
-CPU_avg_request = [6.69, 6.66]
+xTickMarks = ["azure A1", "azure A4", "amazon T2", "amazon C4", "amazon M4", "amazon R4"]
+N = 6
+CPU_total_time = [66.8626, 66.6122, 29.8535, 25.0010, 29.3211, 27.8841]
+CPU_avg_request = [6.69, 6.66, 2.986, 2.50, 2.93, 2.79]
 
 ind = numpy.arange(N)
 width = 0.35

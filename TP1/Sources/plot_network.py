@@ -3,10 +3,10 @@ import numpy
 
 # inspired by http://people.duke.edu/~ccc14/pcfb/numpympl/MatplotlibBarPlots.html
 
-xTickMarks = ["azure A1", "azure A4"]
-N = 2
-network_download = [1080.68, 1638.51]
-network_upload = [390.24, 266.74]
+xTickMarks = ["azure A1", "azure A4", "amazon T2", "amazon C4", "amazon M4", "amazon R4"]
+N = 6
+network_download = [1080.68, 1638.51, 370.52, 881.72, 804.7, 421.53]
+network_upload = [390.24, 266.74, 166.03, 145, 166.70, 172.51]
 
 ind = numpy.arange(N)
 width = 0.35

@@ -3,14 +3,14 @@ import numpy
 
 # inspired by http://people.duke.edu/~ccc14/pcfb/numpympl/MatplotlibBarPlots.html
 
-xTickMarks = ["azure A1", "azure A4"]
-N = 2
-iops_sequential_output = [490, 501]
-iops_sequential_output_latency = [22436, 22702]
-iops_sequential_input = [1808, 2082]
-iops_sequential_input_latency = [33882, 10888]
-iops_random_seeks = [882.7, 2843]
-iops_random_seeks_latency = [203000, 19529]
+xTickMarks = ["azure A1", "azure A4", "amazon T2", "amazon C4", "amazon M4", "amazon R4"]
+N = 6
+iops_sequential_output = [490, 501, 1201.2, 1296.2, 1088.8, 1119.8]
+iops_sequential_output_latency = [22436, 22702, 7137, 6217.4, 7403.4, 7245.6]
+iops_sequential_input = [1808, 2082, 4872.2, 5900.6, 4998.4, 4888.2]
+iops_sequential_input_latency = [33882, 10888, 2317.6, 1395.2, 1635.6, 1700.4]
+iops_random_seeks = [882.7, 2843, 9387, 0, 0, 0]
+iops_random_seeks_latency = [203000, 19529, 4638.4, 34, 1055.2, 319.4]
 
 ind = numpy.arange(N)
 width = 0.35
