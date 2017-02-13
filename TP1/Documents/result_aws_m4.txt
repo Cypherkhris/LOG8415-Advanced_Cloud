@@ -1,0 +1,26 @@
+CPU:
+	Total time: (27.780 + 29.7056 + 29.7095 + 29.7033 + 29.7073)/5 = 29.3211 s
+	Avg per request: (2.78 + 2.97 + 2.97 + 2.97 + 2.97)/5 = 2.93 ms
+
+Disk:
+
+	Timing cached reads:(9930.20 + 10054.66 + 10038.79 + 9925.69 + 10000.93)/5= 9990.05 MB/sec
+	Timing buffered disk reads:(158.76 + 158.79 + 158.79 + 158.79 + 158.79)/5= 158.78 MB/sec
+
+IO:
+	(131 + 131 + 131 + 131 + 131)/5= 131 MB/s
+
+IOPS:
+	Sequential out per char: (1090 + 1093 + 1091 + 1087 + 1083)/5 = 1088.8 k/s
+	Sequential output latency per char:(7492 + 7374 + 7355 + 7411 + 7385)/5 = 7403.4 us
+	Sequential input per char: (4945 + 5028 + 5022 + 4993 + 5004)/5 = 4998.4 k/s
+	Sequential input latency per char: (1661 + 1632 + 1622 + 1632 + 1631)/5 = 1635.6 us
+	Random seeks:
+	Random seeks latency: (33 + 34 + 5143 + 36 + 30)/5 = 1055.2 us
+
+Memory:
+	bogo ops/s (usr+sys time): (34732.07 + 34732.07 + 34697.41 + 34697.41 + 34732.07)/5 = 34718.206 bogo ops/s
+
+Network:
+	Download:(797.46 + 672.26 + 1066.85 + 374.89 + 1112.04)/5 = 804.7 Mbit/s
+	Upload:(144.50 + 173.05 + 172.69 + 166.86 + 176.42)/5 = 166.70 Mbit/s
