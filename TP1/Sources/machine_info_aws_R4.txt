@@ -1,0 +1,163 @@
+#### CPU info #### 
+
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 79
+model name	: Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+stepping	: 1
+microcode	: 0xb00001b
+cpu MHz		: 2696.390
+cache size	: 46080 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology aperfmperf eagerfpu pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx xsaveopt
+bugs		:
+bogomips	: 4600.04
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 79
+model name	: Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+stepping	: 1
+microcode	: 0xb00001b
+cpu MHz		: 2700.074
+cache size	: 46080 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 2
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology aperfmperf eagerfpu pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx xsaveopt
+bugs		:
+bogomips	: 4600.04
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 79
+model name	: Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+stepping	: 1
+microcode	: 0xb00001b
+cpu MHz		: 2699.984
+cache size	: 46080 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology aperfmperf eagerfpu pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx xsaveopt
+bugs		:
+bogomips	: 4600.04
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 79
+model name	: Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+stepping	: 1
+microcode	: 0xb00001b
+cpu MHz		: 2699.984
+cache size	: 46080 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 2
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology aperfmperf eagerfpu pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm rdseed adx xsaveopt
+bugs		:
+bogomips	: 4600.04
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+
+ 
+#### memory size #### 
+
+              total        used        free      shared  buff/cache   available
+Mem:            29G        113M         29G        8.6M        437M         29G
+Swap:            0B          0B          0B
+
+ 
+#### memory info #### 
+
+# dmidecode 3.0
+Getting SMBIOS data from sysfs.
+SMBIOS 2.4 present.
+
+Handle 0x1100, DMI type 17, 21 bytes
+Memory Device
+	Array Handle: 0x1000
+	Error Information Handle: 0x0000
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 16384 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 0
+	Bank Locator: Not Specified
+	Type: RAM
+	Type Detail: None
+
+Handle 0x1101, DMI type 17, 21 bytes
+Memory Device
+	Array Handle: 0x1000
+	Error Information Handle: 0x0000
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 14848 MB
+	Form Factor: DIMM
+	Set: None
+	Locator: DIMM 1
+	Bank Locator: Not Specified
+	Type: RAM
+	Type Detail: None
+
+
+ 
+#### disk info #### 
+
+
+ 
+#### network info #### 
+
+Settings for eth0:
+	Link detected: yes
