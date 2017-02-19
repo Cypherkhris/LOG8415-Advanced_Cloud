@@ -1,0 +1,43 @@
+ \chapter{Problème}
+
+Dans la mise en situation, la compagnie Alpha X désire créer une application pour traiter des données. Notre rôle est donc de suggérer quel type d'instance serait le plus approprié pour les différentes parties de l'application. Nos recommandations devront être basées sur le résultat des benchmarks des machines.
+
+\section{Analyse initiale}
+ 
+\subsection{Storage}
+
+Ce module est responsable de garder les données historiques de l'application. On est donc intéressé par une VM possédant beaucoup d'espace disque et qui est aussi performante pour la lecture et écriture sur disque. Dans ce cas, les benchmarks qui vont influencer notre décision sont ceux sur le disque par \textit{hdparm}.
+ 
+\subsection{Data Extraction}
+
+Ce module est responsable d'extraire des données ainsi que de les rendre disponibles aux autres modules. Il communique donc avec le module des données historiques pour extraire ces données. Ce module exige beaucoup de I/O, donc le benchmark fait par \textit{dd} va le plus influencer notre décision.
+
+
+\subsection{Business Intelligent Services}
+
+Ce module est responsable de traiter toutes les données qu'il va obtenir du module d'extraction de données. Ce module demande beaucoup de puissance CPU et puisque les données vont être en mémoire, il faut s'assurer qu'elle soit performante. Les résultats du benchmark sur le CPU, fait par \textit{sysbench}, et celui sur la mémoire par \textit{stress-ng}, vont être les plus déterminants pour le choix des instances. Puisqu'il s'agit du coeur de l'application, les coûts vont avoir un plus faible facteur dans notre décision.
+
+
+\section{Recommandation}
+
+\subsection{Storage}
+
+Pour le storage, on recommande d'avoir au moins 2 instances, cela permettrait d'avoir une redondance des données historiques et ainsi avoir une meilleure tolérance aux pannes. 
+
+Pour ce module, selon le résultat des benchmarks, nous recommandons une instance AWS de type R4.xlarge puisque bien que la C4 a de meilleures performances en disque, la différence est minime et la R4 coûte 3 fois moins que la C4 (0.266\$/h vs 0.796\$/h). Pour ce qui est de la taille du disque, la R4 utilise un autre service AWS nommé le "Elastic Block Store" ce qui permet d'ignorer la contrainte de la taille du disque. \newline
+
+De plus, ce choix concorde avec Amazon qui recommande la R4 pour les bases de données hautement performantes.
+
+\subsection{Data Extraction}
+
+Pour ce module, les performances au benchmark de I/0 ainsi que le coût ont été pris en compte. Nous recommandons donc l'instance AWS de type M4.2xlarge, puisque bien qu'il soit 7\% inférieur au C4, il coûte 2 fois moins (0.431\$/h vs 0.796\$/h) que celui-ci, performe au moins 3 fois mieux que les instances Azure et 30\% mieux que R4 qui est plus économique.\newline 
+
+Selon Amazon, l'instance M4 est versatile et possède des composantes équilibrées, ce qui est idéal selon la nature des tâches effectuées par ce module (extraire des données, les transformer et les charger dans une base de données). 
+
+\subsection{Business Intelligent Services}
+
+Pour le module de "Business Intelligent Services", selon les résultats du benchmark de CPU, le meilleur choix est l'instance AWS de type C4.4xlarge puisqu'elle est en moyenne 20\% plus rapide que les autres instances AWS et 4 fois plus rapide que les instances Azure. Bien qu'il s'agisse de l'instance la plus chère, le fait que ce module soit la partie critique de l'application nécessite qu'il faille s'assurer d'avoir la meilleure performance possible. \newline
+
+Notre décision suit la description de Amazon, qui décrit les instances C4 comme étant optimisées pour la puissance de calcul.
+
+

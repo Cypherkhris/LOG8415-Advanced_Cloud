@@ -1,12 +1,57 @@
-\section{Sources}
+\appendix
+\chapter{Tableau récapitulatif des données collectées avec les benchmarks}
 
-https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench [consulté le 29/01]
+\begin{table}[h]
+  \caption{Résultats des benchmarks}
+  \label{tab_recap}
+  \begin{center}
+  \begin{adjustbox}{width=1.5\textwidth,center=\textwidth}
+    \begin{tabular}{c|cccccc}
+    & azure A1 & azure A4 & amazon T2 & amazon C4 & amazon M4 & amazon R4 \\ \hline
+    CPU total time (s) & 66.8626 & 66.6122 & 29.8535 & 25.0010 & 29.3211 & 27.8841 \\
+	CPU avg request (ms) & 6.69 & 6.66 & 2.986 & 2.50 & 2.93 & 2.79 \\ \hline
+    disk cached reads (MB/s) & 3966.54 & 4329.98 & 9974.22 & 11489.85 & 9990.05 & 9950.078 \\
+	disk buffered disk reads (MB/s) & 21.96 & 43.87 & 78.59 & 173.898 & 158.78 & 127.14 \\ \hline
+    io (MB/s) & 39.9 & 33.5 & 74.44 & 145 & 131 & 103 \\ \hline
+    iops sequential output (K/s) & 490 & 501 & 1201.2 & 1296.2 & 1088.8 & 1119.8 \\
+    iops sequential output latency (us) & 22436 & 22702 & 7137 & 6217.4 & 7403.4 & 7245.6 \\
+    iops sequential input (K/s) & 1808 & 2082 & 4872.2 & 5900.6 & 4998.4 & 4888.2 \\
+    iops sequential input latency (us) & 33882 & 10888 & 2317.6 & 1395.2 & 1635.6 & 1700.4 \\
+    iops random seeks (op/s) & 882.7 & 2843 & 9387 & x & x & x \\
+    iops random seeks latency (us) & 203000 & 19529 & 4638.4 & 34 & 1055.2 & 319.4 \\ \hline
+    memory bogo ops (op/s) & 27012.61 & 26969.51 & 34745.96 & 34739.016 & 34718.206 & 34725.14 \\ \hline
+    network download (Mbit/s) & 1080.68 & 1638.51 & 370.52 & 881.72 & 804.7 & 421.53 \\
+	network upload (Mbit/s) & 390.24 & 266.74 & 166.03 & 145 & 166.70 & 172.51 \\
+    \end{tabular}
+    \end{adjustbox}
+    \end{center}
+\end{table}
+
+\chapter{Sources}
+
+Falko Timme, "How To Benchmark Your System (CPU, File IO, MySQL) With sysbench", [En ligne.] Disponible : https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench [consulté le 29/01]
 sysbench --help [consulté le 29/01]
-https://wiki.gentoo.org/wiki/Sysbench [consulté le 29/01]
 
-man dd [consulté le 29/01]
+"Sysbench - Gentoo Wiki", [En ligne.] Disponible : \\ https://wiki.gentoo.org/wiki/Sysbench [consulté le 29/01]
 
-https://docs.python.org/3.5/library/argparse.html#module-argparse [consulté le 29/01]
-https://docs.python.org/3.5/howto/argparse.html#id1 [consulté le 29/01]
+Paul Rubin, David MacKenzie, Stuart Kemp, "dd(1) - Linux man page", man dd [consulté le 29/01]
 
-http://www.binarytides.com/linux-commands-hardware-info/ [consult/ le 06/02]
+"argparse — Parser for command-line options, arguments and sub-commands", in \textit{Python 3.5.3 documentation}, [En ligne.] Disponible : \\ https://docs.python.org/3.5/library/argparse.html [consulté le 29/01]
+
+Tshepang Lekhonkhobe, "Argparse Tutorial", in \textit{Python 3.5.3 documentation}, [En ligne.] Disponible : https://docs.python.org/3.5/howto/argparse.html [consulté le 29/01]
+
+Silver Moon, "16 commands to check hardware information on Linux", [En ligne.] Disponible : http://www.binarytides.com/linux-commands-hardware-info/ [consulté le 06/02]
+
+Konerak (utilisateur stackexchange), réponse à "Purpose of /dev/zero?" https://unix.stackexchange.com/questions/63238/purpose-of-dev-zero [consulté le 12/02]
+
+"Linux Virtual Machines Pricing", [En ligne.] Disponible : \\ https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/\#linux [consulté le 14/02]
+
+"Tarification Amazon EC2", [En ligne.] Disponible : \\ https://aws.amazon.com/fr/ec2/pricing/on-demand/ [consulté le 14/02]
+
+Russell Coker, "bonnie++(8) - Linux man page", [En ligne.] Disponible : https://linux.die.net/man/8/bonnie++
+
+"Stress-ng", [En ligne.] Disponible : http://kernel.ubuntu.com/~cking/stress-ng/
+
+"stress-ng", in \textit{Ubuntu Wiki}, [En ligne.] Disponible : \\ https://wiki.ubuntu.com/Kernel/Reference/stress-ng
+
+Ben Martin, "Using Bonnie++ for filesystem performance benchmarking", [En ligne.] Disponible : https://www.linux.com/news/using-bonnie-filesystem-performance-benchmarking

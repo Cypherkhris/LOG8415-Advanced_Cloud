@@ -1,0 +1,69 @@
+\chapter{Caractéristiques des machines}\label{machines}
+
+Avant de commencer l'analyse de performance, nous devons connaître les caractéristiques principales des instances créées sur les plateformes Azure et Amazon AWS. Nous allons nous intéresser aux caractéristiques du CPU, de la mémoire, du disque et du réseau de chaque instance. \newline
+
+Suite à quelques problèmes avec la disponibilité des instances Azure, nous avons dû revoir les types proposés dans l'énoncé du laboratoire. Les machines que nous avons choisies sont les suivantes :
+
+\begin{table}[h]
+  \caption{Instances sélectionnées}
+  \label{tab:machines_select}
+  \begin{center}
+    \begin{tabular}{c|c}
+    Amazon AWS & Microsoft Azure \\ \hline
+    t2.small & A1 \\
+    r4.xlarger & A4 \\
+    m4.2xlarge & \\
+    c4.4xlarge & \\
+    \end{tabular}
+    \end{center}
+\end{table}
+
+Nous avons écrit un script Python permettant de récupérer de façon automatisée des informations sur les machines. Dans ce script, nous utilisons les commandes suivantes : 
+\begin{verbatim}
+hdparm -I </dev/sda ou dev/xdva>
+free -h
+dmidecode --type 17
+cat /proc/cpuinfo
+ethtool <nom de l'interface>
+\end{verbatim}
+Ces commandes permettent de récupérer, respectivement, des informations sur le disque dur, la taille de la mémoire, la vitesse de la mémoire, le CPU et le réseau.
+
+Voici un exemple de lancement du script :
+\begin{verbatim}
+sudo ./instance_info_script.py --interface eth0 --output
+machine_info_azure_A1.txt
+\end{verbatim}
+
+Malheureusement, toutes les commandes ne fonctionnent pas correctement avec les machines virtuelles et nous ne pouvons donc pas récupérer certaines informations à partir de l'exécution du script. 
+
+Alternativement au script, nous pouvons utiliser la commande :
+\begin{verbatim}
+inxi -F
+\end{verbatim}
+qui nous permet d'obtenir des informations générales sur la machine. \newline
+
+Nous avons résumé les informations collectées avec le script et d'après celles fournies par Amazon AWS et Microsoft Azure dans le tableau \ref{tab:machines_caract}.
+
+\begin{table}[h]
+  \caption{Caractéristiques des machines}
+  \label{tab:machines_caract}
+  \begin{center}
+  \begin{adjustbox}{width=1.5\textwidth,center=\textwidth}
+    \begin{tabular}{c||cc|cccc}
+    & Azure A1 & Azure A4 & Amazon C4.4xlarge & Amazon M4.2xlarge & Amazon R4.xlarge & Amazon T2.small \\ \hline
+	Modèle CPU & AMD Opteron 4171 HE & Intel Xeon E5-2673 v3 & Intel Xeon E5-2666 v3 & Intel Xeon E5-2676 v3 & Intel XeonE5-2686 v4 & Intel Xeon E5-2676 v3 \\
+    Vitesse du CPU (MHz) & 2094.728 & 2394.443 & 2900.100 & 2400.046 & 2696.390 & 2400.048 \\
+    Nombre de coeurs & 1 & 4 & 16 & 8 & 4 & 1 \\
+    Taille du cache (KB) & 30720 & 30720 & 25600 & 46080 & 46080 & 30720 \\ \hline
+    Taille de la RAM (Go) & 1.6 & 14 & 30 & 32 & 30.5 & 2.0 \\
+    Type de disque & HDD & HDD & EBS(SSD)  & EBS(SSD) & EBS(SSD)\\ 
+    Taille du disque (GB) & 106.6 & 74.4 & 8.6 HDD & 8.6 HDD & 8.6 HDD & 8.6 HDD \\  \hline
+    Carte réseau & Non détectée & Non détectée & Intel 82599 Ethernet Controller VF & Intel 82599 Ethernet Controller VF & Non détectée & Non détectée \\
+    Vitesse du réseau (Mb/s) & Moderate & High & 10000 & 10000 & Inconnue & Inconnue \\
+    Duplex & Inconnue & Inconnue & Full & Full & Inconnue & Inconnue \\ \hline
+    Coût (\$CA/h) & 0.028 & 0.428 & 0.796 & 0.431 & 0.266 & 0.023 \\ 
+    Système de virtualisation & Microsoft Virtual Machine 7.0 & Microsoft Virtual Machine 7.0 & Xen & Xen & Xen & Xen \\
+    \end{tabular}
+    \end{adjustbox}
+    \end{center}
+\end{table}

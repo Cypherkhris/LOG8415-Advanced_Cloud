@@ -1,0 +1,110 @@
+\chapter{Benchmarking}
+
+Pour ce laboratoire, nous désirons évaluer différents types de machines virtuelles et différents cloud providers. Nous avons donc sélectionné une série d'outils de benchmarking pour tester différents types de performances. 
+
+Dans cette partie, nous allons présenter les outils qui seront utilisés par la suite, et nous expliquerons quelles informations nous pouvons obtenir en les exécutant.
+
+\section{CPU}
+Pour évaluer le CPU, nous avons décidé d'utiliser l'outil \textit{Sysbench}, qui permet de tester le CPU en mesurant sa rapidité à générer des nombres premiers et de calculer la moyenne de temps pour les générer. Ce test est intéressant car il permet de forcer le CPU à utiliser toutes ses ressources pour générer les nombres. \newline
+
+Le benchmark cherche des nombres premiers en divisant le nombre choisi par tous les nombres entre 2 et sa racine carrée. Si le résultat de la division est 0, on passe au calcul suivant. \newline
+
+Syntaxe : 
+\begin{verbatim}
+sysbench [options générales] --test=<nom> [options test] command
+\end{verbatim}
+avec : 
+\begin{itemize}
+\item [<nom>] : fileio, cpu, memory... \\
+Nous utilisons \textit{Sysbench} pour benchmarker le CPU, donc il faut utiliser \textit{--test=cpu}.
+\item [options test] : options pour un test spécifique \\ 
+Pour le test cpu, les options possibles sont : \textit{--cpu-max-prime=N}  qui représente la limite maximum du générateur de nombres premiers. \newline
+\end{itemize}
+
+La commande utilisée ici est \textit{run}, ce qui indique qu'il faut exécuter le test spécifié.
+
+Nous avons conservé la valeur par défaut de N=20000 pour le générateur de nombres premiers. Nous pouvons utiliser plusieurs threads mais nous avons choisi de garder un thread (comme par défaut).
+
+\section{IO}
+Pour tester les IO de la VM, nous avons utilisé l'outil \textit{dd}. Cet outil permet de copier un fichier, avec une conversion (si spécifiée). Il est intéressant dans la mesure où il est possible de spécifier des options comme le nombre d'octets à copier, selon quelle taille maximale de bloc, etc. Il donne également des informations sur l'exécution du test une fois celui-ci terminé, ce qui est essentiel pour notre collecte de données.
+
+Nous l'utilisons pour simuler des opérations de lecture et d'écriture intensives. \newline
+
+Syntaxe : 
+\begin{verbatim}
+dd options
+\end{verbatim}
+Les options sont : 
+\begin{itemize}
+  \item [bs=BYTES] : lit et écrit jusqu'à BYTES octets à la fois
+  \item [conv=CONVS] : liste d'options de conversion
+  \item [count=N] : copie seulement N blocs d'entrée
+  \item [if=FILE] : lecture dans le fichier FILE
+  \item [of=FILE] : écriture dans le fichier FILE \newline
+\end{itemize}
+	
+Avec l'option \textit{conv=fdatasync}, nous forçons l'écriture physique dans le fichier de destination avant la fin de l'opération. Cela est nécessaire pour avoir une mesure correcte du temps d'exécution de l'opération.
+
+Le fichier d'entrée est \textit{$\backslash$dev$\backslash$zero} qui est fichier spécial générant un flux infini de caractères \textit{null}, ce qui est pratique à utiliser avec \textit{dd}.
+
+Nous avons conservé les valeurs par défaut de bs=1M et count=1k.
+
+\section{IOPS}
+
+Pour ce qui est des IOPS, nous avons utilisé Bonnie++ qui fournit plusieurs tests simples pour évaluer les opérations du système de fichiers. \newline
+
+Les données que nous avons gardées pour les comparaisons sont le débit de caractères par seconde, et la latence pour les écritures et lectures séquentielles ainsi que pour les recherches aléatoires. \newline
+
+Syntaxe : 
+\begin{verbatim}
+bonnie++ options
+\end{verbatim}
+Les options sont : 
+\begin{itemize}
+  \item [r] : Taille de la RAM disponible (si pas spécifié, va détecter la taille disponible automatiquement)
+  \item [d] : Dossier à utiliser pour les tests
+  \item [s] : Taille du fichier en Mb si on veut faire des tests de IO (si on ne spécifie pas, le test est ignoré)
+  \item [n] : Nombre de fichiers à créer pour le "Test de création de fichiers" (si on ne spécifie pas, le test est ignoré) \newline
+\end{itemize}
+
+
+\section{Memory}
+
+Pour le benchmark de la mémoire, on utilise stress-ng. Cet outil vise principalement à vérifier si le système est capable de bien fonctionner s'il est soumis à un fort stress. Plus précisément, il permet de stresser le CPU et la mémoire virtuelle et vérifier qu'il n'y a pas d'erreur qui se produit. L'outil permet aussi d'obtenir le débit de plusieurs de ces tests (en mesurant sa capacité de bogo opérations par secondes), bien que ce n'est pas son objectif et qu'on mentionne que ces données ne sont pas si précises, il s'agit de valeurs qui nous intéressent tout de même pour savoir comment se comportent les VMs sous forte charge. \newline
+
+Nous avons donc utilisé cet outil pour mesurer la performance de la mémoire virtuelle. Pour y parvenir, on part un stressor sur la mémoire virtuelle et mesure la vitesse du Bogo Sort. \newline
+
+Syntaxe : 
+\begin{verbatim}
+stress-ng options
+\end{verbatim}
+Les options sont: 
+\begin{itemize}
+  \item [vm] : Indique le nombre de stressors à effectuer sur la mémoire virtuelle
+  \item [verify] : Indique qu'on souhaite vérifier la validité des opérations, voir si le système est correct même sous stress. \newline
+\end{itemize}
+
+\section{Disque}
+
+Pour ce qui est du disque, on est interessé par la vitesse de lecture. L'outil \textit{hdparm} est idéal car il permet non seulement de mesurer les "buffered reads" mais aussi les "cached reads". \newline
+
+Syntaxe : 
+\begin{verbatim}
+hdparm options
+\end{verbatim}
+Les options sont: 
+\begin{itemize}
+  \item [Tt] : Nom du disque à tester \newline
+\end{itemize}
+
+
+\section{Réseau}
+
+Finalement pour tester le réseau, nous utilisons l'outil SpeedTest qui permet de mesurer la vitesse de "Download" et "Upload". \newline
+
+Syntaxe : 
+\begin{verbatim}
+speedtest-cli
+\end{verbatim}
+
+Les options sont surtout au niveau de l'affichage des résultats.
