@@ -3,7 +3,7 @@ from pyspark.sql import SparkSession
 
 if __name__ == "__main__": 
 
-    spark = SparkSession.builder.appName("DistincMember").getOrCreate()
+    spark = SparkSession.builder.appName("SparkQuery").getOrCreate()
 
     # Convert data to Spark Dataset
     salesDataset = spark.read.option("header","true").csv("hdfs:////user/maria_dev/tp-data/data_dump.csv")
