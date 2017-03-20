@@ -1,6 +1,6 @@
 # Comprend un SparkSession mais aussi SparkContext que avant
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import desc
+from pyspark.sql.functions import desc, sum
 
 if __name__ == "__main__": 
 
@@ -9,11 +9,17 @@ if __name__ == "__main__":
     # Convert data to Spark Dataset
     salesDataset = spark.read.option("header","true").csv("hdfs:////user/maria_dev/tp-data/data_dump.csv")
 
-    # Find max price
-    orderedByPrice = salesDataset.orderBy(desc("amount")).select("product_id", "amount")
+    # Convert column to float
+    saledDatasetConverted = salesDataset.withColumn("intAmount", salesDataset.amount.cast("float") )
 
-    orderedByPrice.show(1)
-    # Answer: id: 330092 at 9999.87$
+    # Sum command valur for each product
+    sumByProduct = saledDatasetConverted.groupBy("product_id").agg(sum("intAmount").alias("sum"))
+
+    # Order by sum
+    highestSum = sumByProduct.orderBy(desc("sum")).select("product_id", "sum")
+
+    highestSum.show(1)
+    # Answer: id: 330111 at 1 559 315.79$
 
 
 
