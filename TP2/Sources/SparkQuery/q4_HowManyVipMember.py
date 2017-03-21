@@ -1,6 +1,6 @@
 # Comprend un SparkSession mais aussi SparkContext que avant
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col
+from pyspark.sql.functions import col, max
 
 if __name__ == "__main__": 
 
@@ -9,12 +9,15 @@ if __name__ == "__main__":
     # Convert data to Spark Dataset
     salesDataset = spark.read.option("header","true").csv("hdfs:////user/maria_dev/tp-data/data_dump.csv")
 
+    # Get latest order of every member
+    latestOrderDateByMember = salesDataset.groupBy("member_id").agg(max("date").alias("date"))
+    latestORderByMember = salesDataset.join(latestOrderDateByMember, ["member_id", "date"])
+
     # Count the number of distinc member who is VIP
-    # TODO: Is a user always VIP??? (doesn't seem so because number of not VIP is 2489)
-    count = salesDataset.where((col("vip") == "true")).select("member_id").distinct().count()
+    count = latestORderByMember.where((col("vip") == "true")).select("member_id").distinct().count()
 
     print("Distinct vip: " + str(count))
-    # Answer = 2486
+    # Answer = 1245
 
 
 
