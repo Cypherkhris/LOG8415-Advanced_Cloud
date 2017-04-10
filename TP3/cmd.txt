@@ -1,0 +1,110 @@
+Hostnames (avec : hostname -f):
+  * master : ip-172-31-18-230.us-west-2.compute.internal
+  * slave1 : ip-172-31-16-114.us-west-2.compute.internal
+  * slave2 : ip-172-31-20-127.us-west-2.compute.internal
+  * slave3 : ip-172-31-29-150.us-west-2.compute.internal
+
+lien de téléchargement mysql : https://dev.mysql.com/get/Downloads/MySQL-Cluster-7.5/mysql-cluster-gpl-7.5.5-linux-glibc2.5-x86_64.tar.gz
+
+INSTALLATION
+
+Installation en mode cluster (tous) :
+sudo mkdir -p /opt/mysqlcluster/home
+cd /opt/mysqlcluster/home/
+sudo wget https://dev.mysql.com/get/Downloads/MySQL-Cluster-7.5/mysql-cluster-gpl-7.5.5-linux-glibc2.5-x86_64.tar.gz
+sudo tar xvf mysql-cluster-gpl-7.5.5-linux-glibc2.5-x86_64.tar.gz
+sudo ln -s mysql-cluster-gpl-7.5.5-linux-glibc2.5-x86_64 mysqlc
+sudo nano /etc/profile.d/mysqlc.sh
+  export MYSQLC_HOME=/opt/mysqlcluster/home/mysqlc
+  export PATH=$MYSQLC_HOME/bin:$PATH
+source /etc/profile.d/mysqlc.sh
+
+Master :
+sudo mkdir -p /opt/mysqlcluster/deploy
+cd /opt/mysqlcluster/deploy
+sudo mkdir conf
+sudo mkdir mysqld_data
+sudo mkdir ndb_data
+cd conf
+sudo nano my.cnf
+sudo nano config.ini
+
+my.cnf :
+[mysqld]
+ndbcluster
+datadir=/opt/mysqlcluster/deploy/mysqld_data
+basedir=/opt/mysqlcluster/home/mysqlc
+port=3306
+
+config.ini :
+[ndb_mgmd]
+###hostname=ip-172-31-18-230.us-west-2.compute.internal
+### new master
+hostname=ip-172-31-24-52.us-west-2.compute.internal
+datadir=/opt/mysqlcluster/deploy/ndb_data
+nodeid=1
+
+[ndbd default]
+noofreplicas=3
+datadir=/opt/mysqlcluster/deploy/ndb_data
+
+[ndbd]
+hostname=ip-172-31-16-114.us-west-2.compute.internal
+nodeid=3
+serverport=50501
+
+[ndbd]
+hostname=ip-172-31-20-127.us-west-2.compute.internal
+nodeid=4
+serverport=50502
+
+[ndbd]
+hostname=ip-172-31-29-150.us-west-2.compute.internal
+nodeid=5
+serverport=50503
+
+[mysqld]
+nodeid=50
+
+Slave :
+sudo mkdir -p /opt/mysqlcluster/deploy/ndb_data
+
+
+INSTALLATION SAKILA (standalone)
+sudo service mysql restart (si pas lancé)
+sudo wget http://downloads.mysql.com/docs/sakila-db.tar.gz
+sudo tar xvf sakila-db.tar.gz -C /tmp/
+sudo mysql -u root -p
+  SOURCE /tmp/sakila-db/sakila-schema.sql;
+  SOURCE /tmp/sakila-db/sakila-data.sql;
+  USE sakila;
+
+LANCEMENT
+
+installation Sakila sur le master
+Master : sudo env "PATH=$PATH" ndb_mgmd -f /opt/mysqlcluster/deploy/conf/config.ini --initial --configdir=/opt/mysqlcluster/deploy/conf
+(voir https://superuser.com/questions/709515/command-not-found-when-using-sudo#892849)
+ouverture des ports 1186 et MySQL (3306) en règle sortante dans les groupes de sécurité du master (launch-wizard-16)
+Slaves :
+ouverture des ports 50501 (slave1), 50502 (slave1), 50503 (slave1)
+(voir https://blogs.oracle.com/jsmyth/entry/connection_failures_between_nodes_in)
+sudo env "PATH=$PATH" ndbd -c ip-172-31-24-52.us-west-2.compute.internal:1186
+Master : sudo env "PATH=$PATH" mysqld --defaults-file=/opt/mysqlcluster/deploy/conf/my.cnf --user=root &
+installation Sakila
+mysql -h 127.0.0.1 -u root -p
+GRANT ALL ON *.* TO 'slave1'@'ip-172-31-16-114.us-west-2.compute.internal' IDENTIFIED BY "<password>"; (pour slave1)
+GRANT ALL ON *.* TO 'slave2'@'ip-172-31-20-127.us-west-2.compute.internal' IDENTIFIED BY "<password>"; (pour slave2)
+GRANT ALL ON *.* TO 'slave3'@'ip-172-31-29-150.us-west-2.compute.internal' IDENTIFIED BY "<password>"; (pour slave3)
+(voir https://serverfault.com/questions/650234/error-1130-hy000-host-host-is-not-allowed-to-connect-to-this-mysql-server)
+Slaves : mysql -h ip-172-31-24-52.us-west-2.compute.internal -u slaveX -p (avec X = {1,2,3})
+
+SORTIE
+
+mysqladmin -u root -h 127.0.0.1 -p shutdown
+ndb_mgm -e shutdown
+
+BENCHMARKING
+Standalone :
+sysbench --test=oltp --oltp-table-size=10000 --oltp-test-mode=complex --oltp-read-only=off --num-threads=6 --max-time=60 --max-requests=0 --mysql-db=sakila --mysql-user='root' --mysql-password=<password> prepare
+Cluster :
+sudo sysbench --test=oltp --oltp-table-size=10000 --oltp-test-mode=complex --oltp-read-only=off --num-threads=6 --max-time=60 --max-requests=0 --mysql-user='root' --mysql-password=<password> --mysql-host=127.0.0.1 --mysql-db=sakila --mysql-table-engine=ndbcluster prepare
