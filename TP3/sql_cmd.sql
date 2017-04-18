@@ -3,7 +3,7 @@ CREATE DATABASE tp3;
 
 USE tp3;
 
-CREATE TABLE data (
+CREATE TABLE transactions (
   member_id INT(6),
   date DATE,
   country CHAR(2),
@@ -19,8 +19,8 @@ CREATE TABLE data (
 
 
 # Exemples :
-INSERT INTO data VALUES (102468, '2012-09-18', 'ID', 'Female', '86.118.89.64', 9308.53, FALSE, 330124, 'jcb', '690-11-9719', 'zone1');
-SELECT * FROM data WHERE serial = '690-11-9719';
+INSERT INTO transactions VALUES (102468, '2012-09-18', 'ID', 'Female', '86.118.89.64', 9308.53, FALSE, 330124, 'jcb', '690-11-9719', 'zone1');
+SELECT * FROM transactions WHERE serial = '690-11-9719';
 
 # DATA_DUMP.CSV :
 # suppression première ligne d'entête

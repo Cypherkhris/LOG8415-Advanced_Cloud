@@ -6,8 +6,8 @@ from time import sleep
 
 host = 'ec2-52-89-34-120.us-west-2.compute.amazonaws.com' # DNS public du master
 port = 5001
-insert = 'INSERT INTO data VALUES ('
-select = 'SELECT * FROM data WHERE serial = '
+insert = 'INSERT INTO transactions VALUES ('
+select = 'SELECT * FROM transactions WHERE serial = '
 
 
 def main():
