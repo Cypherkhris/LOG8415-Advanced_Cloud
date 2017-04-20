@@ -15,7 +15,7 @@ mode = modeConfig.get('ProxyMode', 'mode')
 
 clusterConfig = ConfigParser.ConfigParser()
 clusterConfig.readfp(open(r'cluster.config'))
-slaveCount = clusterConfig.get('ClusterInfo', 'slaveCount')
+slaveCount = int(clusterConfig.get('ClusterInfo', 'slaveCount'))
 
 
 
