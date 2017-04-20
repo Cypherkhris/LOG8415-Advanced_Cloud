@@ -4,6 +4,7 @@
 import socket
 import ConfigParser
 from random import randint
+from pingHelper import get_ping_time
 
 
 
@@ -14,9 +15,8 @@ clusterConfig.readfp(open(r'cluster.config'))
 """ We supporse that the proxy run on master """
 port = int(clusterConfig.get("Master", 'port'))
 slaveCount = int(clusterConfig.get('ClusterInfo', 'slaveCount'))
-mode = clusterConfig.get('ProxyMode', 'mode')
-
-
+mode = clusterConfig.get('ProxyInfo', 'mode')
+pingCount = int(clusterConfig.get('ProxyInfo', 'pingCount'))
 
 
 
@@ -90,7 +90,19 @@ def random_mode():
     return randint(1, slaveCount)
 
 def balancing_mode():
-    return 0
+    selectedSlave = 0
+    minTiming = 999999
+    
+    for slaveIndex in range (0, slaveCount):
+        slaveConfigName = 'Slave' + str(slaveIndex)
+        host = clusterConfig.get(slaveConfigName, 'host')
+        time = get_ping_time(host, pingCount)
+        print 'Slave-' + str(slaveIndex) + ' timing: ' + str(time)
+        if time < minTiming:
+            minTiming = time
+            selectedSlave = slaveIndex
+
+    return selectedSlave
 
 
 def my_pattern():
