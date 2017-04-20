@@ -6,16 +6,16 @@ import ConfigParser
 from random import randint
 
 
-port = 5001
 
 """Load config"""
-modeConfig = ConfigParser.ConfigParser()
-modeConfig.readfp(open(r'mode.config'))
-mode = modeConfig.get('ProxyMode', 'mode')
-
 clusterConfig = ConfigParser.ConfigParser()
 clusterConfig.readfp(open(r'cluster.config'))
+
+""" We supporse that the proxy run on master """
+port = int(clusterConfig.get("Master", 'port'))
 slaveCount = int(clusterConfig.get('ClusterInfo', 'slaveCount'))
+mode = clusterConfig.get('ProxyMode', 'mode')
+
 
 
 
@@ -52,7 +52,8 @@ def main():
         response = 'Command of type ' + type + ' handle by node ' + str(target)
         c.send(response)
 
-    # c.close()
+    print 'Will close socket'
+    c.close()
 
 
 def parse_data(data):

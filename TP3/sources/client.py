@@ -17,8 +17,9 @@ def main():
     """Load config"""
     config = ConfigParser.ConfigParser()
     config.readfp(open(r'cluster.config'))
-    host = config.get('Master', 'host')
-    port = int(config.get('Master', 'port'))
+    target = config.get('Client', 'target')
+    host = config.get(target, 'host')
+    port = int(config.get(target, 'port'))
 
     print 'Will connect to ' + host + ':' + str(port)
 
@@ -40,10 +41,10 @@ def main():
                 cmd = select + "'" + serial + "';"
                 do_insert = True;
             s.send(cmd)
-            sleep(0.1)
             data = s.recv(1024)
             print 'Received from server: ' + str(data)
 
+    print 'Will close socket'
     s.close()
 
 
