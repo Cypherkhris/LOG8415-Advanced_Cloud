@@ -18,14 +18,16 @@ def main():
     config = ConfigParser.ConfigParser()
     config.readfp(open(r'cluster.config'))
     host = config.get('Master', 'host')
-    port = config.get('Master', 'port')
+    port = int(config.get('Master', 'port'))
 
-
+    print 'Will connect to ' + host + ':' + str(port)
 
     s = socket.socket()
     s.connect((host, port))
 
-    with open('data_dump.csv', 'r') as f:
+
+
+    with open('data/data_dump.csv', 'r') as f:
         lines = f.readlines()
         do_insert = True;
         for line in lines:

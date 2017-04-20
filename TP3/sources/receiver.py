@@ -5,7 +5,7 @@ import socket
 import ConfigParser
 from random import randint
 
-host = '127.0.0.1'
+
 port = 5001
 
 """Load config"""
@@ -24,6 +24,8 @@ def main():
     """Main."""
     s = socket.socket()
     s.bind(('', port))
+
+    print 'Listening port : ' + str(port)
 
     s.listen(1)  # Listen to one connection
     c, addr = s.accept()
@@ -47,7 +49,7 @@ def main():
         #   my_pattern(command)
         #
 
-        response = str('Command handle by: ' + target)
+        response = 'Command of type ' + type + ' handle by node ' + str(target)
         c.send(response)
 
     # c.close()
