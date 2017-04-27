@@ -39,17 +39,35 @@ def main():
 
         data = str(data)
 
-        """ Sending data """
-        sendingSocket.send(data)
-        response = sendingSocket.recv(1024)
+        if(validate(data)):
 
-        print 'Data sent'
+            """ Sending data """
+            sendingSocket.send(data)
+            response = sendingSocket.recv(1024)
 
-        c.send(response)
+            print 'Data sent'
+
+            c.send(response)
+
+        else:
+            c.send('Invalid request')
 
     print 'Will close socket'
     sendingSocket.close()
     listeningSocket.close()
+
+
+def validate(data):
+    data = data.lower()
+    if data.startswith('insert '):
+        # We can also regex the attribute
+        return True
+    if data.startswith('select '):
+        # We can also regex the attribute
+        return True
+    return False
+
+
 
 
 if __name__ == '__main__':
