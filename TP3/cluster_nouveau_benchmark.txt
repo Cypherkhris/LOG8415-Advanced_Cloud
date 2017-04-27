@@ -1,0 +1,41 @@
+sudo sysbench --test=oltp --oltp-table-size=10000 --oltp-test-mode=complex --oltp-read-only=off --num-threads=6 --max-time=60 --max-requests=0 --mysql-user='root' --mysql-password='mtL86mLm' --mysql-host=127.0.0.1 --mysql-db=sakila --mysql-table-engine=ndbcluster run
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+No DB drivers specified, using mysql
+Running the test with following options:
+Number of threads: 6
+
+Doing OLTP test.
+Running mixed OLTP test
+Using Special distribution (12 iterations,  1 pct of values are returned in 75 pct cases)
+Using "BEGIN" for starting transactions
+Using auto_inc on the id column
+Threads started!
+Time limit exceeded, exiting...
+(last message repeated 5 times)
+Done.
+
+OLTP test statistics:
+    queries performed:
+        read:                            192066
+        write:                           68584
+        other:                           27434
+        total:                           288084
+    transactions:                        13715  (228.51 per sec.)
+    deadlocks:                           4      (0.07 per sec.)
+    read/write requests:                 260650 (4342.70 per sec.)
+    other operations:                    27434  (457.08 per sec.)
+
+Test execution summary:
+    total time:                          60.0202s
+    total number of events:              13715
+    total time taken by event execution: 360.0126
+    per-request statistics:
+         min:                                 16.25ms
+         avg:                                 26.25ms
+         max:                               1838.71ms
+         approx.  95 percentile:              32.40ms
+
+Threads fairness:
+    events (avg/stddev):           2285.8333/11.71
+    execution time (avg/stddev):   60.0021/0.00
