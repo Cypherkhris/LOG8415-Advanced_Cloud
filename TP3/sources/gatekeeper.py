@@ -3,8 +3,11 @@
 
 import socket
 import ConfigParser
+import re
 from time import sleep
 
+selectValidator = re.compile(r"(^select \* from transactions where serial = '\d{3}-\d{2}-\d{4}';)")
+insertValidator = re.compile(r"(^insert into transactions values \([\w|\d|\s|,|'|\-|\.|\$]*\);$)")
 
 def main():
     """Main."""
@@ -35,11 +38,12 @@ def main():
         if not data:
             break
 
-        print 'Will pass data'
+        
 
         data = str(data)
 
         if(validate(data)):
+            print 'Will pass data'
 
             """ Sending data """
             sendingSocket.send(data)
@@ -50,6 +54,7 @@ def main():
             c.send(response)
 
         else:
+            print 'Data denied'
             c.send('Invalid request')
 
     print 'Will close socket'
@@ -59,12 +64,11 @@ def main():
 
 def validate(data):
     data = data.lower()
+    print (data)
     if data.startswith('insert '):
-        # We can also regex the attribute
-        return True
+        return bool(insertValidator.match(data))
     if data.startswith('select '):
-        # We can also regex the attribute
-        return True
+        return bool(selectValidator.match(data))
     return False
 
 

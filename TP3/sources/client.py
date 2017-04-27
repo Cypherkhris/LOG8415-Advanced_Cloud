@@ -32,6 +32,7 @@ def main():
         lines = f.readlines()
         do_insert = True;
         for line in lines:
+            line = line.strip('\n')
             print line
             member_id, date, country, gender, ip_address, amount, vip, product_id, card_type, serial, zone = line.split(",")
             if(do_insert):
