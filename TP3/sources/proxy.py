@@ -33,9 +33,6 @@ def main():
     listeningSocket.listen(1)
     c, addr = listeningSocket.accept()
 
-
-    s.listen(1)  # Listen to one connection
-    c, addr = s.accept()
     print 'connection from: ' + str(addr)
 
     while True:
