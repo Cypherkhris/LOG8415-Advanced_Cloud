@@ -9,13 +9,13 @@ from pingHelper import get_ping_time
 
 
 """Load config"""
-clusterConfig = ConfigParser.ConfigParser()
-clusterConfig.readfp(open(r'cluster.config'))
+config = ConfigParser.ConfigParser()
+config.readfp(open(r'cluster.config'))
 
-listenPort = int(clusterConfig.get("Proxy", 'port'))
-slaveCount = int(clusterConfig.get('ClusterInfo', 'slaveCount'))
-mode = clusterConfig.get('ProxyInfo', 'mode')
-pingCount = int(clusterConfig.get('ProxyInfo', 'pingCount'))
+listenPort = int(config.get("Proxy", 'port'))
+slaveCount = int(config.get('ClusterInfo', 'slaveCount'))
+mode = config.get('ProxyInfo', 'mode')
+pingCount = int(config.get('ProxyInfo', 'pingCount'))
 target = config.get('Proxy', 'target')
 targetHost = config.get(target, 'host')
 targetPort = int(config.get(target, 'port'))
