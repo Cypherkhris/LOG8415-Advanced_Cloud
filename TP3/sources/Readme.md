@@ -21,7 +21,9 @@ There is 3 choices for the proxy:
 ## Start the job
 
 0. Install dependencies: sudo ./install.sh
-1. Start proxy: python proxy.py 
-2. Start gatekeeper (optional): python gatekeeper.py 
+1. Start proxy: python proxy.py
+(on AWS instance : /usr/bin/python2.7 ./proxy.py)
+2. Start gatekeeper (optional): python gatekeeper.py
+(on AWS instance : /usr/bin/python2.7 ./gatekeeper.py)
 3. Start client: python client.py
 4. To stop: kill client to avoid not closing port on listener
