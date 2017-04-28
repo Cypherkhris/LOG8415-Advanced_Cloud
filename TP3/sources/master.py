@@ -36,7 +36,7 @@ def main():
         data = str(data)
 
         # response = 'Command of type ' + type + ' handle by node ' + str(target)
-        respond = 'received' + data
+        response = 'received' + data
         c.send(response)
 
     print 'Will close socket'
