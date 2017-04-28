@@ -104,7 +104,7 @@ def balancing_mode():
 
     for slaveIndex in range (0, slaveCount):
         slaveConfigName = 'Slave' + str(slaveIndex)
-        host = clusterConfig.get(slaveConfigName, 'host')
+        host = config.get(slaveConfigName, 'host')
         time = get_ping_time(host, pingCount)
         print 'Slave-' + str(slaveIndex) + ' timing: ' + str(time)
         if time < minTiming:
