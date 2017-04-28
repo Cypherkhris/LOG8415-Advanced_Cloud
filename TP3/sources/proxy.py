@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""Python module that receives TCP requests."""
+"""Python module that receives and sends TCP requests."""
 
 import socket
 import ConfigParser
@@ -12,20 +12,27 @@ from pingHelper import get_ping_time
 clusterConfig = ConfigParser.ConfigParser()
 clusterConfig.readfp(open(r'cluster.config'))
 
-""" We supporse that the proxy run on master """
-port = int(clusterConfig.get("Master", 'port'))
+listenPort = int(clusterConfig.get("Proxy", 'port'))
 slaveCount = int(clusterConfig.get('ClusterInfo', 'slaveCount'))
 mode = clusterConfig.get('ProxyInfo', 'mode')
 pingCount = int(clusterConfig.get('ProxyInfo', 'pingCount'))
+target = config.get('Proxy', 'target')
+targetHost = config.get(target, 'host')
+targetPort = int(config.get(target, 'port'))
 
 
 
 def main():
     """Main."""
-    s = socket.socket()
-    s.bind(('', port))
+    sendingSocket = socket.socket()
+    sendingSocket.connect((targetHost, targetPort))
 
-    print 'Listening port : ' + str(port)
+    listeningSocket = socket.socket()
+    listeningSocket.bind(('', listenPort))
+    print 'Listening port : ' + str(listenPort)
+    listeningSocket.listen(1)
+    c, addr = listeningSocket.accept()
+
 
     s.listen(1)  # Listen to one connection
     c, addr = s.accept()
@@ -49,11 +56,16 @@ def main():
         #   my_pattern(command)
         #
 
-        response = 'Command of type ' + type + ' handle by node ' + str(target)
+        req = 'Command of type ' + type + ' handle by node ' + str(target)
+        sendingSocket.send(req)
+        response = sendingSocket.recv(1024)
+        print 'Data sent'
+
         c.send(response)
 
     print 'Will close socket'
-    c.close()
+    sendingSocket.close()
+    listeningSocket.close()
 
 
 def parse_data(data):
@@ -92,7 +104,7 @@ def random_mode():
 def balancing_mode():
     selectedSlave = 0
     minTiming = 999999
-    
+
     for slaveIndex in range (0, slaveCount):
         slaveConfigName = 'Slave' + str(slaveIndex)
         host = clusterConfig.get(slaveConfigName, 'host')
