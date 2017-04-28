@@ -2,6 +2,7 @@
 """Python module that receives and sends TCP requests."""
 
 import socket
+import pickle
 import ConfigParser
 from random import randint
 from pingHelper import get_ping_time
@@ -47,14 +48,10 @@ def main():
 
         target = get_target()
 
-        # if type == 'insert':
-        #     hit_master(command)
-        # else:
-        #   my_pattern(command)
-        #
-
-        req = 'Command of type ' + type + ' handle by node ' + str(target)
-        sendingSocket.send(req)
+        obj = {'target': target, 'command': command}
+        pickledobj = pickle.dumps(obj)
+        sendingSocket.send(pickledobj)
+        
         response = sendingSocket.recv(1024)
         print 'Data sent'
 
@@ -112,13 +109,6 @@ def balancing_mode():
             selectedSlave = slaveIndex
 
     return selectedSlave
-
-
-def my_pattern():
-    """Implement algorithm of the pattern here."""
-    # Connect to MySQL Cluster
-    # Hit the database based on the algorithm
-    # TO DO ...
 
 
 if __name__ == '__main__':

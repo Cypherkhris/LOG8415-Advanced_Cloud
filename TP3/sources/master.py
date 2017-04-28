@@ -2,6 +2,7 @@
 """Python module that receives TCP requests."""
 
 import socket
+import pickle
 import ConfigParser
 from random import randint
 from pingHelper import get_ping_time
@@ -32,11 +33,14 @@ def main():
         if not data:
             break
 
-        print 'from connected user: ' + str(data)
         data = str(data)
+        obj = pickle.loads(data)
+        command = obj['command']
+        target = obj['target']
 
-        # response = 'Command of type ' + type + ' handle by node ' + str(target)
-        response = 'received' + data
+        print 'from connected user: ' + str(command) + ' to ' + str(target)
+
+        response = 'Command ' + command + ' handled by node ' + str(target)
         c.send(response)
 
     print 'Will close socket'
