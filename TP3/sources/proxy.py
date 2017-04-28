@@ -44,14 +44,14 @@ def main():
         print 'from connected user: ' + str(data)
         data = str(data)
 
-        type, command = parse_data(data)
+        cmd_type, command = parse_data(data)
 
         target = get_target()
 
-        obj = {'target': target, 'command': command}
+        obj = {'target': target, 'type': cmd_type, 'command': command}
         pickledobj = pickle.dumps(obj)
         sendingSocket.send(pickledobj)
-        
+
         response = sendingSocket.recv(1024)
         print 'Data sent'
 
