@@ -32,9 +32,9 @@ iptables -t filter -A INPUT -p tcp --dport 53 -j ACCEPT
 iptables -t filter -A INPUT -p udp --dport 53 -j ACCEPT
 
 #connexion proxy
-iptables -t filter -A INPUT -p tcp --dport 5001 -j ACCEPT
+iptables -t filter -A INPUT -p tcp --dport 8099 -j ACCEPT
 iptables -t filter -A OUTPUT -p tcp --dport 5001 -j ACCEPT
-
+iptables -t filter -A OUTPUT -p tcp --dport 5011 -j ACCEPT
 
 
 
