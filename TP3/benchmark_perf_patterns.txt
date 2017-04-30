@@ -1,0 +1,37 @@
+Résultats perf : 
+(avec la commande time sur le client)
+(pour 2000 lignes)
+
+gatekeeper + proxy + mode balancing : 
+real	3m10.627s
+user	0m0.215s
+sys		0m0.189s
+gatekeeper + proxy + mode random : 
+real	2m58.958s
+user	0m0.198s
+sys		0m0.202s
+gatekeeper + proxy + mode direct : 
+real	3m0.611s
+user	0m0.231s
+sys	0m0.188s
+proxy + mode balancing : 
+real	3m9.662s
+user	0m0.232s
+sys	0m0.175s
+proxy + mode random : 
+real	2m58.612s
+user	0m0.230s
+sys	0m0.179s
+proxy + mode direct : 
+real	2m59.723s
+user	0m0.212s
+sys	0m0.208s
+gatekeeper : 
+real	2m59.604s
+user	0m0.214s
+sys	0m0.202s
+rien :
+real	2m58.335s
+user	0m0.523s
+sys	0m0.153s
+
