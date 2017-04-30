@@ -2,6 +2,7 @@
 """Python module that sends TCP requests to AWS instance."""
 
 import socket
+import pickle
 import ConfigParser
 import re
 from time import sleep
@@ -31,6 +32,7 @@ def main():
     listeningSocket.bind(('', listenPort))
     listeningSocket.listen(1)
     c, addr = listeningSocket.accept()
+    cmd_type = '';
 
     while True:
         data = c.recv(2048)
@@ -44,9 +46,15 @@ def main():
 
         if(validate(data)):
             print 'Will pass data'
-
+            
             """ Sending data """
-            sendingSocket.send(data)
+            if(target == 'Master'):
+                obj = {'target': target, 'type': cmd_type, 'command': data}
+		        pickledobj = pickle.dumps(obj)
+        		sendingSocket.send(pickledobj)
+        	else:
+	            sendingSocket.send(data)
+
             response = sendingSocket.recv(1024)
 
             print 'Data sent'
@@ -66,8 +74,10 @@ def validate(data):
     data = data.lower()
     print (data)
     if data.startswith('insert '):
+    	cmd_type = 'insert'
         return bool(insertValidator.match(data))
     if data.startswith('select '):
+    	cmd_type = 'select'
         return bool(selectValidator.match(data))
     return False
 
