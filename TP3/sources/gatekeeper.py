@@ -51,7 +51,7 @@ def main():
             if(target == 'Master'):
                 obj = {'target': target, 'type': cmd_type, 'command': data}
 		        pickledobj = pickle.dumps(obj)
-        		sendingSocket.send(pickledobj)
+        	    sendingSocket.send(pickledobj)
         	else:
 	            sendingSocket.send(data)
 
