@@ -1,400 +1,399 @@
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564161854;targets=All;devices=cpu;power=84000.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564162357;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564162867;targets=All;devices=cpu;power=6588.235294117647 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564163367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564163867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564164367;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564164867;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564165367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564165868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564166367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564166867;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564167367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564167867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564168368;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564168867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564169367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564169868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564170367;targets=All;devices=cpu;power=1696.969696969697 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564170868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564171367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564171867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564172367;targets=All;devices=cpu;power=2520.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564172867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564173367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564173867;targets=All;devices=cpu;power=3326.7326732673264 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564174367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564174867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564175367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564175867;targets=All;devices=cpu;power=2495.0495049504952 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564176367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564176867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564177368;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564177867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564178368;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564178867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564179367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564179867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564180368;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564180867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564181367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564181867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564182367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564182867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564183368;targets=All;devices=cpu;power=1680.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564183867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564184367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564184867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564185367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564185868;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564186367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564186867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564187367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564187867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564188358;targets=All;devices=cpu;power=857.1428571428571 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564188867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564189367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564189867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564190367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564190867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564191367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564191868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564192367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564192867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564193367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564193867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564194367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564194867;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564195367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564195868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564196367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564196867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564197367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564197867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564198367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564198867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564199367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564199867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564200367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564200867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564201367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564201867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564202367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564202868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564203367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564203867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564204367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564204867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564205367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564205867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564206367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564206867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564207367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564207867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564208367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564208867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564209367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564209867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564210367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564210867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564211367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564211867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564212367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564212867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564213369;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564213867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564214367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564214867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564215367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564215867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564216368;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564216867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564217368;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564217867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564218367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564218867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564219367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564219867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564220367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564220867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564221367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564221867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564222367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564222867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564223367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564223867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564224367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564224867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564225367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564225857;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564226367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564226867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564227367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564227867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564228367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564228867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564229367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564229867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564230368;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564230867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564231367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564231868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564232367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564232867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564233367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564233867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564234367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564234867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564235367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564235868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564236367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564236867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564237367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564237867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564238367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564238868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564239367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564239867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564240367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564240868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564241367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564241867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564242368;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564242867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564243367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564243867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564244367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564244867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564245367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564245867;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564246367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564246868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564247367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564247867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564248367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564248867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564249367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564249867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564250367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564250867;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564251367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564251867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564252367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564252867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564253367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564253867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564254368;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564254867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564255367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564255867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564256367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564256867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564257367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564257867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564258367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564258867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564259367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564259867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564260367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564260867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564261368;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564261867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564262367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564262868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564263367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564263868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564264367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564264868;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564265367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564265867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564266367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564266867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564267367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564267867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564268367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564268867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564269367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564269867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564270367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564270867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564271367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564271868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564272367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564272867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564273367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564273868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564274367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564274867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564275367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564275867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564276367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564276867;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564277367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564277867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564278367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564278867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564279367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564279867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564280367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564280867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564281367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564281867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564282367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564282868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564283367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564283867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564284367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564284867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564285367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564285867;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564286367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564286868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564287367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564287867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564288367;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564288868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564289367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564289867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564290367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564290867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564291357;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564291867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564292357;targets=All;devices=cpu;power=1696.969696969697 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564292867;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564293367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564293867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564294367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564294867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564295367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564295867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564296367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564296867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564297367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564297868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564298367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564298867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564299367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564299867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564300367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564300867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564301367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564301867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564302367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564302867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564303367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564303867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564304367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564304867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564305367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564305868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564306367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564306868;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564307367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564307867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564308368;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564308867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564309367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564309867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564310367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564310867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564311367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564311868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564312367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564312867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564313367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564313867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564314367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564314868;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564315367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564315867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564316367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564316867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564317367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564317867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564318367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564318867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564319367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564319867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564320367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564320867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564321367;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564321867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564322367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564322867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564323367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564323867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564324367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564324867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564325367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564325867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564326367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564326868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564327367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564327867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564328367;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564328867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564329367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564329867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564330367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564330867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564331367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564331867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564332367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564332867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564333367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564333867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564334368;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564334867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564335367;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564335867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564336368;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564336867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564337367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564337867;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564338367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564338868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564339367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564339868;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564340367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564340867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564341367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564341867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564342367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564342867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564343367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564343867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564344367;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564344867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564345367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564345867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564346367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564346868;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564347367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564347867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564348367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564348867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564349367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564349867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564350367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564350867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564351367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564351867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564352367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564352867;targets=All;devices=cpu;power=840.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564353367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564353858;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564354367;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564354867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564355367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564355867;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564356367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564356868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564357367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564357868;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564358367;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564358867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564359367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564359867;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564360367;targets=All;devices=cpu;power=0.0 mW
-muid=a8ed8325-37b2-4729-bcd7-c8b7ba400580;timestamp=1493564360867;targets=All;devices=cpu;power=0.0 mW
-PowerAPI is shutting down ...
+88325-372-4729-7-87400580;1493564161854;84000.0 
+88325-372-4729-7-87400580;1493564162357;840.0 
+88325-372-4729-7-87400580;1493564162867;6588.235294117647 
+88325-372-4729-7-87400580;1493564163367;840.0 
+88325-372-4729-7-87400580;1493564163867;831.6831683168316 
+88325-372-4729-7-87400580;1493564164367;848.4848484848485 
+88325-372-4729-7-87400580;1493564164867;1647.0588235294117 
+88325-372-4729-7-87400580;1493564165367;0.0 
+88325-372-4729-7-87400580;1493564165868;840.0 
+88325-372-4729-7-87400580;1493564166367;0.0 
+88325-372-4729-7-87400580;1493564166867;1647.0588235294117 
+88325-372-4729-7-87400580;1493564167367;840.0 
+88325-372-4729-7-87400580;1493564167867;0.0 
+88325-372-4729-7-87400580;1493564168368;831.6831683168316 
+88325-372-4729-7-87400580;1493564168867;0.0 
+88325-372-4729-7-87400580;1493564169367;0.0 
+88325-372-4729-7-87400580;1493564169868;840.0 
+88325-372-4729-7-87400580;1493564170367;1696.969696969697 
+88325-372-4729-7-87400580;1493564170868;840.0 
+88325-372-4729-7-87400580;1493564171367;0.0 
+88325-372-4729-7-87400580;1493564171867;831.6831683168316 
+88325-372-4729-7-87400580;1493564172367;2520.0 
+88325-372-4729-7-87400580;1493564172867;0.0 
+88325-372-4729-7-87400580;1493564173367;0.0 
+88325-372-4729-7-87400580;1493564173867;3326.7326732673264 
+88325-372-4729-7-87400580;1493564174367;0.0 
+88325-372-4729-7-87400580;1493564174867;0.0 
+88325-372-4729-7-87400580;1493564175367;840.0 
+88325-372-4729-7-87400580;1493564175867;2495.0495049504952 
+88325-372-4729-7-87400580;1493564176367;831.6831683168316 
+88325-372-4729-7-87400580;1493564176867;0.0 
+88325-372-4729-7-87400580;1493564177368;840.0 
+88325-372-4729-7-87400580;1493564177867;0.0 
+88325-372-4729-7-87400580;1493564178368;1647.0588235294117 
+88325-372-4729-7-87400580;1493564178867;0.0 
+88325-372-4729-7-87400580;1493564179367;0.0 
+88325-372-4729-7-87400580;1493564179867;0.0 
+88325-372-4729-7-87400580;1493564180368;1663.3663366336632 
+88325-372-4729-7-87400580;1493564180867;0.0 
+88325-372-4729-7-87400580;1493564181367;0.0 
+88325-372-4729-7-87400580;1493564181867;0.0 
+88325-372-4729-7-87400580;1493564182367;840.0 
+88325-372-4729-7-87400580;1493564182867;0.0 
+88325-372-4729-7-87400580;1493564183368;1680.0 
+88325-372-4729-7-87400580;1493564183867;831.6831683168316 
+88325-372-4729-7-87400580;1493564184367;840.0 
+88325-372-4729-7-87400580;1493564184867;0.0 
+88325-372-4729-7-87400580;1493564185367;0.0 
+88325-372-4729-7-87400580;1493564185868;1663.3663366336632 
+88325-372-4729-7-87400580;1493564186367;0.0 
+88325-372-4729-7-87400580;1493564186867;840.0 
+88325-372-4729-7-87400580;1493564187367;0.0 
+88325-372-4729-7-87400580;1493564187867;831.6831683168316 
+88325-372-4729-7-87400580;1493564188358;857.1428571428571 
+88325-372-4729-7-87400580;1493564188867;0.0 
+88325-372-4729-7-87400580;1493564189367;840.0 
+88325-372-4729-7-87400580;1493564189867;840.0 
+88325-372-4729-7-87400580;1493564190367;0.0 
+88325-372-4729-7-87400580;1493564190867;840.0 
+88325-372-4729-7-87400580;1493564191367;0.0 
+88325-372-4729-7-87400580;1493564191868;831.6831683168316 
+88325-372-4729-7-87400580;1493564192367;0.0 
+88325-372-4729-7-87400580;1493564192867;0.0 
+88325-372-4729-7-87400580;1493564193367;840.0 
+88325-372-4729-7-87400580;1493564193867;840.0 
+88325-372-4729-7-87400580;1493564194367;831.6831683168316 
+88325-372-4729-7-87400580;1493564194867;1663.3663366336632 
+88325-372-4729-7-87400580;1493564195367;0.0 
+88325-372-4729-7-87400580;1493564195868;831.6831683168316 
+88325-372-4729-7-87400580;1493564196367;0.0 
+88325-372-4729-7-87400580;1493564196867;0.0 
+88325-372-4729-7-87400580;1493564197367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564197867;0.0 
+88325-372-4729-7-87400580;1493564198367;831.6831683168316 
+88325-372-4729-7-87400580;1493564198867;0.0 
+88325-372-4729-7-87400580;1493564199367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564199867;840.0 
+88325-372-4729-7-87400580;1493564200367;0.0 
+88325-372-4729-7-87400580;1493564200867;0.0 
+88325-372-4729-7-87400580;1493564201367;840.0 
+88325-372-4729-7-87400580;1493564201867;0.0 
+88325-372-4729-7-87400580;1493564202367;840.0 
+88325-372-4729-7-87400580;1493564202868;0.0 
+88325-372-4729-7-87400580;1493564203367;0.0 
+88325-372-4729-7-87400580;1493564203867;831.6831683168316 
+88325-372-4729-7-87400580;1493564204367;0.0 
+88325-372-4729-7-87400580;1493564204867;0.0 
+88325-372-4729-7-87400580;1493564205367;0.0 
+88325-372-4729-7-87400580;1493564205867;831.6831683168316 
+88325-372-4729-7-87400580;1493564206367;0.0 
+88325-372-4729-7-87400580;1493564206867;0.0 
+88325-372-4729-7-87400580;1493564207367;831.6831683168316 
+88325-372-4729-7-87400580;1493564207867;840.0 
+88325-372-4729-7-87400580;1493564208367;840.0 
+88325-372-4729-7-87400580;1493564208867;831.6831683168316 
+88325-372-4729-7-87400580;1493564209367;831.6831683168316 
+88325-372-4729-7-87400580;1493564209867;840.0 
+88325-372-4729-7-87400580;1493564210367;840.0 
+88325-372-4729-7-87400580;1493564210867;0.0 
+88325-372-4729-7-87400580;1493564211367;831.6831683168316 
+88325-372-4729-7-87400580;1493564211867;0.0 
+88325-372-4729-7-87400580;1493564212367;840.0 
+88325-372-4729-7-87400580;1493564212867;840.0 
+88325-372-4729-7-87400580;1493564213369;1647.0588235294117 
+88325-372-4729-7-87400580;1493564213867;0.0 
+88325-372-4729-7-87400580;1493564214367;840.0 
+88325-372-4729-7-87400580;1493564214867;0.0 
+88325-372-4729-7-87400580;1493564215367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564215867;840.0 
+88325-372-4729-7-87400580;1493564216368;840.0 
+88325-372-4729-7-87400580;1493564216867;0.0 
+88325-372-4729-7-87400580;1493564217368;831.6831683168316 
+88325-372-4729-7-87400580;1493564217867;0.0 
+88325-372-4729-7-87400580;1493564218367;840.0 
+88325-372-4729-7-87400580;1493564218867;840.0 
+88325-372-4729-7-87400580;1493564219367;0.0 
+88325-372-4729-7-87400580;1493564219867;840.0 
+88325-372-4729-7-87400580;1493564220367;0.0 
+88325-372-4729-7-87400580;1493564220867;0.0 
+88325-372-4729-7-87400580;1493564221367;840.0 
+88325-372-4729-7-87400580;1493564221867;831.6831683168316 
+88325-372-4729-7-87400580;1493564222367;840.0 
+88325-372-4729-7-87400580;1493564222867;840.0 
+88325-372-4729-7-87400580;1493564223367;831.6831683168316 
+88325-372-4729-7-87400580;1493564223867;0.0 
+88325-372-4729-7-87400580;1493564224367;831.6831683168316 
+88325-372-4729-7-87400580;1493564224867;0.0 
+88325-372-4729-7-87400580;1493564225367;0.0 
+88325-372-4729-7-87400580;1493564225857;848.4848484848485 
+88325-372-4729-7-87400580;1493564226367;0.0 
+88325-372-4729-7-87400580;1493564226867;0.0 
+88325-372-4729-7-87400580;1493564227367;831.6831683168316 
+88325-372-4729-7-87400580;1493564227867;0.0 
+88325-372-4729-7-87400580;1493564228367;840.0 
+88325-372-4729-7-87400580;1493564228867;831.6831683168316 
+88325-372-4729-7-87400580;1493564229367;0.0 
+88325-372-4729-7-87400580;1493564229867;840.0 
+88325-372-4729-7-87400580;1493564230368;831.6831683168316 
+88325-372-4729-7-87400580;1493564230867;0.0 
+88325-372-4729-7-87400580;1493564231367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564231868;0.0 
+88325-372-4729-7-87400580;1493564232367;0.0 
+88325-372-4729-7-87400580;1493564232867;831.6831683168316 
+88325-372-4729-7-87400580;1493564233367;0.0 
+88325-372-4729-7-87400580;1493564233867;0.0 
+88325-372-4729-7-87400580;1493564234367;0.0 
+88325-372-4729-7-87400580;1493564234867;0.0 
+88325-372-4729-7-87400580;1493564235367;831.6831683168316 
+88325-372-4729-7-87400580;1493564235868;831.6831683168316 
+88325-372-4729-7-87400580;1493564236367;0.0 
+88325-372-4729-7-87400580;1493564236867;0.0 
+88325-372-4729-7-87400580;1493564237367;0.0 
+88325-372-4729-7-87400580;1493564237867;831.6831683168316 
+88325-372-4729-7-87400580;1493564238367;840.0 
+88325-372-4729-7-87400580;1493564238868;0.0 
+88325-372-4729-7-87400580;1493564239367;0.0 
+88325-372-4729-7-87400580;1493564239867;831.6831683168316 
+88325-372-4729-7-87400580;1493564240367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564240868;0.0 
+88325-372-4729-7-87400580;1493564241367;0.0 
+88325-372-4729-7-87400580;1493564241867;840.0 
+88325-372-4729-7-87400580;1493564242368;831.6831683168316 
+88325-372-4729-7-87400580;1493564242867;0.0 
+88325-372-4729-7-87400580;1493564243367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564243867;0.0 
+88325-372-4729-7-87400580;1493564244367;831.6831683168316 
+88325-372-4729-7-87400580;1493564244867;0.0 
+88325-372-4729-7-87400580;1493564245367;0.0 
+88325-372-4729-7-87400580;1493564245867;1647.0588235294117 
+88325-372-4729-7-87400580;1493564246367;0.0 
+88325-372-4729-7-87400580;1493564246868;840.0 
+88325-372-4729-7-87400580;1493564247367;840.0 
+88325-372-4729-7-87400580;1493564247867;0.0 
+88325-372-4729-7-87400580;1493564248367;0.0 
+88325-372-4729-7-87400580;1493564248867;0.0 
+88325-372-4729-7-87400580;1493564249367;840.0 
+88325-372-4729-7-87400580;1493564249867;831.6831683168316 
+88325-372-4729-7-87400580;1493564250367;0.0 
+88325-372-4729-7-87400580;1493564250867;1663.3663366336632 
+88325-372-4729-7-87400580;1493564251367;0.0 
+88325-372-4729-7-87400580;1493564251867;0.0 
+88325-372-4729-7-87400580;1493564252367;840.0 
+88325-372-4729-7-87400580;1493564252867;0.0 
+88325-372-4729-7-87400580;1493564253367;0.0 
+88325-372-4729-7-87400580;1493564253867;831.6831683168316 
+88325-372-4729-7-87400580;1493564254368;840.0 
+88325-372-4729-7-87400580;1493564254867;0.0 
+88325-372-4729-7-87400580;1493564255367;840.0 
+88325-372-4729-7-87400580;1493564255867;831.6831683168316 
+88325-372-4729-7-87400580;1493564256367;0.0 
+88325-372-4729-7-87400580;1493564256867;831.6831683168316 
+88325-372-4729-7-87400580;1493564257367;840.0 
+88325-372-4729-7-87400580;1493564257867;0.0 
+88325-372-4729-7-87400580;1493564258367;840.0 
+88325-372-4729-7-87400580;1493564258867;0.0 
+88325-372-4729-7-87400580;1493564259367;840.0 
+88325-372-4729-7-87400580;1493564259867;0.0 
+88325-372-4729-7-87400580;1493564260367;0.0 
+88325-372-4729-7-87400580;1493564260867;831.6831683168316 
+88325-372-4729-7-87400580;1493564261368;0.0 
+88325-372-4729-7-87400580;1493564261867;0.0 
+88325-372-4729-7-87400580;1493564262367;831.6831683168316 
+88325-372-4729-7-87400580;1493564262868;840.0 
+88325-372-4729-7-87400580;1493564263367;0.0 
+88325-372-4729-7-87400580;1493564263868;0.0 
+88325-372-4729-7-87400580;1493564264367;0.0 
+88325-372-4729-7-87400580;1493564264868;1647.0588235294117 
+88325-372-4729-7-87400580;1493564265367;0.0 
+88325-372-4729-7-87400580;1493564265867;0.0 
+88325-372-4729-7-87400580;1493564266367;0.0 
+88325-372-4729-7-87400580;1493564266867;0.0 
+88325-372-4729-7-87400580;1493564267367;0.0 
+88325-372-4729-7-87400580;1493564267867;0.0 
+88325-372-4729-7-87400580;1493564268367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564268867;840.0 
+88325-372-4729-7-87400580;1493564269367;831.6831683168316 
+88325-372-4729-7-87400580;1493564269867;0.0 
+88325-372-4729-7-87400580;1493564270367;840.0 
+88325-372-4729-7-87400580;1493564270867;0.0 
+88325-372-4729-7-87400580;1493564271367;0.0 
+88325-372-4729-7-87400580;1493564271868;840.0 
+88325-372-4729-7-87400580;1493564272367;0.0 
+88325-372-4729-7-87400580;1493564272867;0.0 
+88325-372-4729-7-87400580;1493564273367;831.6831683168316 
+88325-372-4729-7-87400580;1493564273868;0.0 
+88325-372-4729-7-87400580;1493564274367;0.0 
+88325-372-4729-7-87400580;1493564274867;831.6831683168316 
+88325-372-4729-7-87400580;1493564275367;0.0 
+88325-372-4729-7-87400580;1493564275867;831.6831683168316 
+88325-372-4729-7-87400580;1493564276367;0.0 
+88325-372-4729-7-87400580;1493564276867;1647.0588235294117 
+88325-372-4729-7-87400580;1493564277367;0.0 
+88325-372-4729-7-87400580;1493564277867;0.0 
+88325-372-4729-7-87400580;1493564278367;0.0 
+88325-372-4729-7-87400580;1493564278867;0.0 
+88325-372-4729-7-87400580;1493564279367;840.0 
+88325-372-4729-7-87400580;1493564279867;0.0 
+88325-372-4729-7-87400580;1493564280367;831.6831683168316 
+88325-372-4729-7-87400580;1493564280867;840.0 
+88325-372-4729-7-87400580;1493564281367;0.0 
+88325-372-4729-7-87400580;1493564281867;840.0 
+88325-372-4729-7-87400580;1493564282367;0.0 
+88325-372-4729-7-87400580;1493564282868;840.0 
+88325-372-4729-7-87400580;1493564283367;0.0 
+88325-372-4729-7-87400580;1493564283867;831.6831683168316 
+88325-372-4729-7-87400580;1493564284367;0.0 
+88325-372-4729-7-87400580;1493564284867;831.6831683168316 
+88325-372-4729-7-87400580;1493564285367;0.0 
+88325-372-4729-7-87400580;1493564285867;1663.3663366336632 
+88325-372-4729-7-87400580;1493564286367;0.0 
+88325-372-4729-7-87400580;1493564286868;840.0 
+88325-372-4729-7-87400580;1493564287367;0.0 
+88325-372-4729-7-87400580;1493564287867;831.6831683168316 
+88325-372-4729-7-87400580;1493564288367;848.4848484848485 
+88325-372-4729-7-87400580;1493564288868;831.6831683168316 
+88325-372-4729-7-87400580;1493564289367;0.0 
+88325-372-4729-7-87400580;1493564289867;840.0 
+88325-372-4729-7-87400580;1493564290367;0.0 
+88325-372-4729-7-87400580;1493564290867;0.0 
+88325-372-4729-7-87400580;1493564291357;0.0 
+88325-372-4729-7-87400580;1493564291867;0.0 
+88325-372-4729-7-87400580;1493564292357;1696.969696969697 
+88325-372-4729-7-87400580;1493564292867;823.5294117647059 
+88325-372-4729-7-87400580;1493564293367;0.0 
+88325-372-4729-7-87400580;1493564293867;840.0 
+88325-372-4729-7-87400580;1493564294367;0.0 
+88325-372-4729-7-87400580;1493564294867;840.0 
+88325-372-4729-7-87400580;1493564295367;0.0 
+88325-372-4729-7-87400580;1493564295867;0.0 
+88325-372-4729-7-87400580;1493564296367;831.6831683168316 
+88325-372-4729-7-87400580;1493564296867;840.0 
+88325-372-4729-7-87400580;1493564297367;0.0 
+88325-372-4729-7-87400580;1493564297868;831.6831683168316 
+88325-372-4729-7-87400580;1493564298367;0.0 
+88325-372-4729-7-87400580;1493564298867;840.0 
+88325-372-4729-7-87400580;1493564299367;0.0 
+88325-372-4729-7-87400580;1493564299867;0.0 
+88325-372-4729-7-87400580;1493564300367;840.0 
+88325-372-4729-7-87400580;1493564300867;0.0 
+88325-372-4729-7-87400580;1493564301367;0.0 
+88325-372-4729-7-87400580;1493564301867;831.6831683168316 
+88325-372-4729-7-87400580;1493564302367;0.0 
+88325-372-4729-7-87400580;1493564302867;0.0 
+88325-372-4729-7-87400580;1493564303367;831.6831683168316 
+88325-372-4729-7-87400580;1493564303867;0.0 
+88325-372-4729-7-87400580;1493564304367;0.0 
+88325-372-4729-7-87400580;1493564304867;840.0 
+88325-372-4729-7-87400580;1493564305367;831.6831683168316 
+88325-372-4729-7-87400580;1493564305868;0.0 
+88325-372-4729-7-87400580;1493564306367;0.0 
+88325-372-4729-7-87400580;1493564306868;1663.3663366336632 
+88325-372-4729-7-87400580;1493564307367;0.0 
+88325-372-4729-7-87400580;1493564307867;0.0 
+88325-372-4729-7-87400580;1493564308368;1647.0588235294117 
+88325-372-4729-7-87400580;1493564308867;0.0 
+88325-372-4729-7-87400580;1493564309367;0.0 
+88325-372-4729-7-87400580;1493564309867;0.0 
+88325-372-4729-7-87400580;1493564310367;0.0 
+88325-372-4729-7-87400580;1493564310867;0.0 
+88325-372-4729-7-87400580;1493564311367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564311868;831.6831683168316 
+88325-372-4729-7-87400580;1493564312367;0.0 
+88325-372-4729-7-87400580;1493564312867;0.0 
+88325-372-4729-7-87400580;1493564313367;0.0 
+88325-372-4729-7-87400580;1493564313867;0.0 
+88325-372-4729-7-87400580;1493564314367;0.0 
+88325-372-4729-7-87400580;1493564314868;1663.3663366336632 
+88325-372-4729-7-87400580;1493564315367;0.0 
+88325-372-4729-7-87400580;1493564315867;0.0 
+88325-372-4729-7-87400580;1493564316367;840.0 
+88325-372-4729-7-87400580;1493564316867;0.0 
+88325-372-4729-7-87400580;1493564317367;0.0 
+88325-372-4729-7-87400580;1493564317867;0.0 
+88325-372-4729-7-87400580;1493564318367;840.0 
+88325-372-4729-7-87400580;1493564318867;831.6831683168316 
+88325-372-4729-7-87400580;1493564319367;0.0 
+88325-372-4729-7-87400580;1493564319867;0.0 
+88325-372-4729-7-87400580;1493564320367;0.0 
+88325-372-4729-7-87400580;1493564320867;0.0 
+88325-372-4729-7-87400580;1493564321367;1663.3663366336632 
+88325-372-4729-7-87400580;1493564321867;0.0 
+88325-372-4729-7-87400580;1493564322367;0.0 
+88325-372-4729-7-87400580;1493564322867;840.0 
+88325-372-4729-7-87400580;1493564323367;0.0 
+88325-372-4729-7-87400580;1493564323867;0.0 
+88325-372-4729-7-87400580;1493564324367;0.0 
+88325-372-4729-7-87400580;1493564324867;0.0 
+88325-372-4729-7-87400580;1493564325367;0.0 
+88325-372-4729-7-87400580;1493564325867;840.0 
+88325-372-4729-7-87400580;1493564326367;831.6831683168316 
+88325-372-4729-7-87400580;1493564326868;0.0 
+88325-372-4729-7-87400580;1493564327367;0.0 
+88325-372-4729-7-87400580;1493564327867;0.0 
+88325-372-4729-7-87400580;1493564328367;1647.0588235294117 
+88325-372-4729-7-87400580;1493564328867;0.0 
+88325-372-4729-7-87400580;1493564329367;0.0 
+88325-372-4729-7-87400580;1493564329867;0.0 
+88325-372-4729-7-87400580;1493564330367;831.6831683168316 
+88325-372-4729-7-87400580;1493564330867;0.0 
+88325-372-4729-7-87400580;1493564331367;0.0 
+88325-372-4729-7-87400580;1493564331867;0.0 
+88325-372-4729-7-87400580;1493564332367;0.0 
+88325-372-4729-7-87400580;1493564332867;0.0 
+88325-372-4729-7-87400580;1493564333367;0.0 
+88325-372-4729-7-87400580;1493564333867;0.0 
+88325-372-4729-7-87400580;1493564334368;831.6831683168316 
+88325-372-4729-7-87400580;1493564334867;0.0 
+88325-372-4729-7-87400580;1493564335367;1647.0588235294117 
+88325-372-4729-7-87400580;1493564335867;0.0 
+88325-372-4729-7-87400580;1493564336368;0.0 
+88325-372-4729-7-87400580;1493564336867;0.0 
+88325-372-4729-7-87400580;1493564337367;0.0 
+88325-372-4729-7-87400580;1493564337867;1647.0588235294117 
+88325-372-4729-7-87400580;1493564338367;0.0 
+88325-372-4729-7-87400580;1493564338868;0.0 
+88325-372-4729-7-87400580;1493564339367;0.0 
+88325-372-4729-7-87400580;1493564339868;840.0 
+88325-372-4729-7-87400580;1493564340367;0.0 
+88325-372-4729-7-87400580;1493564340867;840.0 
+88325-372-4729-7-87400580;1493564341367;0.0 
+88325-372-4729-7-87400580;1493564341867;0.0 
+88325-372-4729-7-87400580;1493564342367;0.0 
+88325-372-4729-7-87400580;1493564342867;840.0 
+88325-372-4729-7-87400580;1493564343367;831.6831683168316 
+88325-372-4729-7-87400580;1493564343867;0.0 
+88325-372-4729-7-87400580;1493564344367;840.0 
+88325-372-4729-7-87400580;1493564344867;0.0 
+88325-372-4729-7-87400580;1493564345367;0.0 
+88325-372-4729-7-87400580;1493564345867;840.0 
+88325-372-4729-7-87400580;1493564346367;0.0 
+88325-372-4729-7-87400580;1493564346868;831.6831683168316 
+88325-372-4729-7-87400580;1493564347367;0.0 
+88325-372-4729-7-87400580;1493564347867;0.0 
+88325-372-4729-7-87400580;1493564348367;831.6831683168316 
+88325-372-4729-7-87400580;1493564348867;0.0 
+88325-372-4729-7-87400580;1493564349367;0.0 
+88325-372-4729-7-87400580;1493564349867;0.0 
+88325-372-4729-7-87400580;1493564350367;831.6831683168316 
+88325-372-4729-7-87400580;1493564350867;0.0 
+88325-372-4729-7-87400580;1493564351367;0.0 
+88325-372-4729-7-87400580;1493564351867;831.6831683168316 
+88325-372-4729-7-87400580;1493564352367;0.0 
+88325-372-4729-7-87400580;1493564352867;840.0 
+88325-372-4729-7-87400580;1493564353367;0.0 
+88325-372-4729-7-87400580;1493564353858;848.4848484848485 
+88325-372-4729-7-87400580;1493564354367;823.5294117647059 
+88325-372-4729-7-87400580;1493564354867;0.0 
+88325-372-4729-7-87400580;1493564355367;0.0 
+88325-372-4729-7-87400580;1493564355867;0.0 
+88325-372-4729-7-87400580;1493564356367;831.6831683168316 
+88325-372-4729-7-87400580;1493564356868;0.0 
+88325-372-4729-7-87400580;1493564357367;0.0 
+88325-372-4729-7-87400580;1493564357868;0.0 
+88325-372-4729-7-87400580;1493564358367;831.6831683168316 
+88325-372-4729-7-87400580;1493564358867;831.6831683168316 
+88325-372-4729-7-87400580;1493564359367;0.0 
+88325-372-4729-7-87400580;1493564359867;831.6831683168316 
+88325-372-4729-7-87400580;1493564360367;0.0 
+88325-372-4729-7-87400580;1493564360867;0.0 

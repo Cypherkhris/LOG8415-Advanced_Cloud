@@ -53,6 +53,7 @@ def main():
         else:
             cursor.execute(command)
             for (member_id, date, country, gender, ip_address, amount, vip, product_id, card_type, serial, zone) in cursor:
+                # TODO : traiter la réponse
                 print str(member_id) + 'is the winner'
 
         response = 'Command ' + command + ' handled by node ' + str(target)

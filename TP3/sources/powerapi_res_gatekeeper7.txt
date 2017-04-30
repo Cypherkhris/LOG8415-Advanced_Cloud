@@ -1,686 +1,685 @@
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566180946;targets=All;devices=cpu;power=84000.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566181456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566181956;targets=All;devices=cpu;power=7485.148514851485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566182456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566182956;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566183456;targets=All;devices=cpu;power=1680.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566183956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566184456;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566184956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566185456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566185956;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566186456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566186956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566187456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566187956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566188456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566188956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566189456;targets=All;devices=cpu;power=2545.4545454545455 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566189956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566190456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566190956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566191456;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566191956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566192455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566192956;targets=All;devices=cpu;power=1680.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566193456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566193956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566194456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566194956;targets=All;devices=cpu;power=1680.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566195456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566195956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566196456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566196956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566197456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566197956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566198456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566198956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566199456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566199956;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566200456;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566200956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566201456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566201955;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566202456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566202956;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566203456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566203956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566204456;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566204956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566205456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566205956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566206456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566206956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566207456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566207956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566208456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566208956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566209456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566209956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566210455;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566210956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566211456;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566211956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566212456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566212955;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566213456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566213956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566214456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566214956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566215456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566215956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566216456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566216956;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566217456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566217956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566218456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566218955;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566219455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566219955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566220456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566220955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566221456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566221956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566222446;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566222955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566223456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566223956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566224456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566224956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566225456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566225956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566226456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566226956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566227456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566227956;targets=All;devices=cpu;power=2446.601941747573 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566228456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566228956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566229456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566229956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566230456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566230956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566231456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566231956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566232458;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566232956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566233456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566233956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566234456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566234956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566235456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566235956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566236456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566236956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566237456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566237956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566238446;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566238956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566239456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566239956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566240456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566240956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566241456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566241956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566242456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566242956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566243455;targets=All;devices=cpu;power=2470.5882352941176 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566243956;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566244456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566244956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566245456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566245956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566246455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566246956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566247456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566247956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566248456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566248955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566249456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566249956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566250456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566250956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566251456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566251956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566252456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566252956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566253456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566253956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566254456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566254956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566255456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566255956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566256456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566256955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566257456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566257955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566258455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566258956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566259456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566259955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566260456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566260956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566261456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566261956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566262456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566262956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566263456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566263956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566264456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566264956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566265456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566265956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566266456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566266956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566267456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566267956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566268456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566268956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566269455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566269956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566270456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566270956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566271456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566271956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566272456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566272956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566273456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566273956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566274456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566274956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566275456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566275956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566276456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566276956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566277456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566277956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566278456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566278956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566279456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566279955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566280456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566280955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566281456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566281956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566282456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566282956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566283456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566283956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566284456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566284956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566285456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566285956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566286456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566286956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566287455;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566287956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566288456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566288956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566289456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566289956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566290456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566290956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566291455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566291956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566292456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566292955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566293456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566293955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566294456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566294956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566295456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566295956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566296455;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566296956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566297456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566297956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566298456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566298955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566299456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566299956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566300456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566300956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566301455;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566301956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566302455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566302956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566303456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566303956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566304456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566304956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566305456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566305956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566306456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566306956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566307456;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566307956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566308456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566308946;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566309456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566309956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566310456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566310955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566311455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566311956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566312456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566312956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566313456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566313955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566314456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566314956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566315456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566315956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566316455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566316956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566317456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566317956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566318456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566318956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566319456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566319956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566320455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566320956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566321456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566321955;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566322456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566322955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566323456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566323956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566324456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566324956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566325456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566325955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566326456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566326956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566327456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566327956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566328456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566328956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566329456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566329956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566330456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566330956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566331456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566331956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566332456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566332956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566333456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566333956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566334455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566334956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566335455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566335956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566336456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566336956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566337456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566337956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566338456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566338956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566339455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566339956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566340456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566340956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566341456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566341956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566342456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566342956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566343456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566343956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566344456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566344956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566345455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566345956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566346455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566346956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566347456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566347956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566348456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566348956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566349456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566349955;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566350456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566350955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566351456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566351956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566352456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566352956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566353456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566353956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566354456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566354956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566355456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566355956;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566356456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566356956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566357456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566357956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566358456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566358956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566359456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566359956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566360456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566360955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566361456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566361956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566362455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566362956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566363456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566363956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566364455;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566364956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566365456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566365956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566366456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566366956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566367456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566367956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566368456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566368956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566369456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566369956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566370456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566370956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566371455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566371956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566372456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566372956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566373455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566373956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566374456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566374956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566375456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566375956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566376456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566376956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566377456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566377956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566378456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566378956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566379456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566379955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566380455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566380956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566381456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566381956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566382456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566382956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566383455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566383956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566384456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566384955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566385456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566385956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566386456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566386956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566387456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566387956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566388456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566388956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566389456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566389956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566390456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566390956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566391456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566391956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566392456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566392956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566393456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566393956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566394455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566394956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566395456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566395955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566396456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566396955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566397456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566397956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566398456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566398956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566399456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566399956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566400455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566400956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566401456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566401956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566402456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566402955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566403456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566403956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566404456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566404956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566405456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566405955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566406456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566406956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566407456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566407955;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566408456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566408956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566409456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566409956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566410456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566410956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566411456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566411956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566412455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566412956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566413456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566413956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566414456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566414956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566415456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566415956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566416455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566416956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566417456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566417956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566418456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566418955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566419456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566419956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566420455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566420956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566421456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566421956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566422456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566422956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566423456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566423956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566424456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566424956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566425456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566425956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566426456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566426956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566427456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566427956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566428456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566428956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566429456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566429956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566430456;targets=All;devices=cpu;power=1680.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566430956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566431456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566431956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566432456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566432956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566433456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566433955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566434456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566434956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566435456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566435956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566436456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566436946;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566437456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566437955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566438456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566438956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566439456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566439956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566440455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566440955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566441455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566441956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566442456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566442956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566443456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566443956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566444456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566444955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566445456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566445956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566446456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566446956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566447456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566447956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566448456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566448956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566449456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566449956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566450455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566450956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566451456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566451955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566452456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566452956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566453456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566453956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566454456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566454955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566455456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566455956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566456456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566456956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566457456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566457956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566458456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566458956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566459456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566459956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566460456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566460956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566461456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566461956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566462456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566462956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566463455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566463956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566464455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566464956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566465456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566465955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566466456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566466956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566467455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566467955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566468456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566468956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566469455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566469956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566470455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566470956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566471456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566471956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566472456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566472956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566473456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566473956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566474456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566474956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566475455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566475956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566476456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566476955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566477456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566477955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566478456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566478955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566479456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566479956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566480456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566480955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566481456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566481956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566482456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566482956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566483455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566483956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566484456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566484956;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566485456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566485955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566486456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566486956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566487456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566487956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566488456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566488956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566489456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566489956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566490456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566490955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566491456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566491956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566492456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566492956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566493456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566493956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566494455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566494956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566495455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566495955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566496456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566496956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566497456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566497956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566498456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566498956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566499456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566499955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566500456;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566500956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566501456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566501956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566502456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566502956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566503456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566503956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566504456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566504956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566505455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566505956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566506456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566506956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566507456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566507956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566508455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566508956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566509456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566509956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566510456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566510956;targets=All;devices=cpu;power=840.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566511456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566511956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566512456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566512956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566513456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566513956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566514456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566514956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566515456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566515955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566516456;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566516956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566517455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566517956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566518456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566518955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566519446;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566519956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566520455;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566520956;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566521456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566521955;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566522456;targets=All;devices=cpu;power=0.0 mW
-muid=4a8f0214-12c3-4eb3-aef3-070a6c10fbd6;timestamp=1493566522956;targets=All;devices=cpu;power=0.0 mW
-PowerAPI is shutting down ...
+480214-123-43-3-0706106;1493566180946;84000.0 
+480214-123-43-3-0706106;1493566181456;0.0 
+480214-123-43-3-0706106;1493566181956;7485.148514851485 
+480214-123-43-3-0706106;1493566182456;0.0 
+480214-123-43-3-0706106;1493566182956;1663.3663366336632 
+480214-123-43-3-0706106;1493566183456;1680.0 
+480214-123-43-3-0706106;1493566183956;831.6831683168316 
+480214-123-43-3-0706106;1493566184456;848.4848484848485 
+480214-123-43-3-0706106;1493566184956;831.6831683168316 
+480214-123-43-3-0706106;1493566185456;0.0 
+480214-123-43-3-0706106;1493566185956;1663.3663366336632 
+480214-123-43-3-0706106;1493566186456;0.0 
+480214-123-43-3-0706106;1493566186956;0.0 
+480214-123-43-3-0706106;1493566187456;831.6831683168316 
+480214-123-43-3-0706106;1493566187956;840.0 
+480214-123-43-3-0706106;1493566188456;840.0 
+480214-123-43-3-0706106;1493566188956;831.6831683168316 
+480214-123-43-3-0706106;1493566189456;2545.4545454545455 
+480214-123-43-3-0706106;1493566189956;0.0 
+480214-123-43-3-0706106;1493566190456;840.0 
+480214-123-43-3-0706106;1493566190956;840.0 
+480214-123-43-3-0706106;1493566191456;848.4848484848485 
+480214-123-43-3-0706106;1493566191956;840.0 
+480214-123-43-3-0706106;1493566192455;0.0 
+480214-123-43-3-0706106;1493566192956;1680.0 
+480214-123-43-3-0706106;1493566193456;840.0 
+480214-123-43-3-0706106;1493566193956;840.0 
+480214-123-43-3-0706106;1493566194456;0.0 
+480214-123-43-3-0706106;1493566194956;1680.0 
+480214-123-43-3-0706106;1493566195456;0.0 
+480214-123-43-3-0706106;1493566195956;840.0 
+480214-123-43-3-0706106;1493566196456;840.0 
+480214-123-43-3-0706106;1493566196956;0.0 
+480214-123-43-3-0706106;1493566197456;831.6831683168316 
+480214-123-43-3-0706106;1493566197956;840.0 
+480214-123-43-3-0706106;1493566198456;0.0 
+480214-123-43-3-0706106;1493566198956;0.0 
+480214-123-43-3-0706106;1493566199456;0.0 
+480214-123-43-3-0706106;1493566199956;1663.3663366336632 
+480214-123-43-3-0706106;1493566200456;1663.3663366336632 
+480214-123-43-3-0706106;1493566200956;0.0 
+480214-123-43-3-0706106;1493566201456;840.0 
+480214-123-43-3-0706106;1493566201955;840.0 
+480214-123-43-3-0706106;1493566202456;0.0 
+480214-123-43-3-0706106;1493566202956;848.4848484848485 
+480214-123-43-3-0706106;1493566203456;0.0 
+480214-123-43-3-0706106;1493566203956;831.6831683168316 
+480214-123-43-3-0706106;1493566204456;848.4848484848485 
+480214-123-43-3-0706106;1493566204956;0.0 
+480214-123-43-3-0706106;1493566205456;840.0 
+480214-123-43-3-0706106;1493566205956;0.0 
+480214-123-43-3-0706106;1493566206456;831.6831683168316 
+480214-123-43-3-0706106;1493566206956;0.0 
+480214-123-43-3-0706106;1493566207456;840.0 
+480214-123-43-3-0706106;1493566207956;0.0 
+480214-123-43-3-0706106;1493566208456;0.0 
+480214-123-43-3-0706106;1493566208956;831.6831683168316 
+480214-123-43-3-0706106;1493566209456;840.0 
+480214-123-43-3-0706106;1493566209956;0.0 
+480214-123-43-3-0706106;1493566210455;840.0 
+480214-123-43-3-0706106;1493566210956;0.0 
+480214-123-43-3-0706106;1493566211456;1663.3663366336632 
+480214-123-43-3-0706106;1493566211956;0.0 
+480214-123-43-3-0706106;1493566212456;0.0 
+480214-123-43-3-0706106;1493566212955;840.0 
+480214-123-43-3-0706106;1493566213456;0.0 
+480214-123-43-3-0706106;1493566213956;0.0 
+480214-123-43-3-0706106;1493566214456;0.0 
+480214-123-43-3-0706106;1493566214956;840.0 
+480214-123-43-3-0706106;1493566215456;840.0 
+480214-123-43-3-0706106;1493566215956;0.0 
+480214-123-43-3-0706106;1493566216456;831.6831683168316 
+480214-123-43-3-0706106;1493566216956;848.4848484848485 
+480214-123-43-3-0706106;1493566217456;831.6831683168316 
+480214-123-43-3-0706106;1493566217956;0.0 
+480214-123-43-3-0706106;1493566218456;840.0 
+480214-123-43-3-0706106;1493566218955;840.0 
+480214-123-43-3-0706106;1493566219455;0.0 
+480214-123-43-3-0706106;1493566219955;0.0 
+480214-123-43-3-0706106;1493566220456;0.0 
+480214-123-43-3-0706106;1493566220955;0.0 
+480214-123-43-3-0706106;1493566221456;0.0 
+480214-123-43-3-0706106;1493566221956;0.0 
+480214-123-43-3-0706106;1493566222446;0.0 
+480214-123-43-3-0706106;1493566222955;0.0 
+480214-123-43-3-0706106;1493566223456;0.0 
+480214-123-43-3-0706106;1493566223956;840.0 
+480214-123-43-3-0706106;1493566224456;0.0 
+480214-123-43-3-0706106;1493566224956;831.6831683168316 
+480214-123-43-3-0706106;1493566225456;0.0 
+480214-123-43-3-0706106;1493566225956;0.0 
+480214-123-43-3-0706106;1493566226456;0.0 
+480214-123-43-3-0706106;1493566226956;0.0 
+480214-123-43-3-0706106;1493566227456;0.0 
+480214-123-43-3-0706106;1493566227956;2446.601941747573 
+480214-123-43-3-0706106;1493566228456;0.0 
+480214-123-43-3-0706106;1493566228956;0.0 
+480214-123-43-3-0706106;1493566229456;831.6831683168316 
+480214-123-43-3-0706106;1493566229956;0.0 
+480214-123-43-3-0706106;1493566230456;840.0 
+480214-123-43-3-0706106;1493566230956;0.0 
+480214-123-43-3-0706106;1493566231456;0.0 
+480214-123-43-3-0706106;1493566231956;840.0 
+480214-123-43-3-0706106;1493566232458;0.0 
+480214-123-43-3-0706106;1493566232956;840.0 
+480214-123-43-3-0706106;1493566233456;0.0 
+480214-123-43-3-0706106;1493566233956;0.0 
+480214-123-43-3-0706106;1493566234456;840.0 
+480214-123-43-3-0706106;1493566234956;840.0 
+480214-123-43-3-0706106;1493566235456;840.0 
+480214-123-43-3-0706106;1493566235956;0.0 
+480214-123-43-3-0706106;1493566236456;0.0 
+480214-123-43-3-0706106;1493566236956;840.0 
+480214-123-43-3-0706106;1493566237456;0.0 
+480214-123-43-3-0706106;1493566237956;831.6831683168316 
+480214-123-43-3-0706106;1493566238446;0.0 
+480214-123-43-3-0706106;1493566238956;0.0 
+480214-123-43-3-0706106;1493566239456;0.0 
+480214-123-43-3-0706106;1493566239956;840.0 
+480214-123-43-3-0706106;1493566240456;840.0 
+480214-123-43-3-0706106;1493566240956;0.0 
+480214-123-43-3-0706106;1493566241456;840.0 
+480214-123-43-3-0706106;1493566241956;0.0 
+480214-123-43-3-0706106;1493566242456;0.0 
+480214-123-43-3-0706106;1493566242956;0.0 
+480214-123-43-3-0706106;1493566243455;2470.5882352941176 
+480214-123-43-3-0706106;1493566243956;1663.3663366336632 
+480214-123-43-3-0706106;1493566244456;831.6831683168316 
+480214-123-43-3-0706106;1493566244956;840.0 
+480214-123-43-3-0706106;1493566245456;0.0 
+480214-123-43-3-0706106;1493566245956;0.0 
+480214-123-43-3-0706106;1493566246455;0.0 
+480214-123-43-3-0706106;1493566246956;0.0 
+480214-123-43-3-0706106;1493566247456;0.0 
+480214-123-43-3-0706106;1493566247956;0.0 
+480214-123-43-3-0706106;1493566248456;831.6831683168316 
+480214-123-43-3-0706106;1493566248955;0.0 
+480214-123-43-3-0706106;1493566249456;0.0 
+480214-123-43-3-0706106;1493566249956;831.6831683168316 
+480214-123-43-3-0706106;1493566250456;840.0 
+480214-123-43-3-0706106;1493566250956;0.0 
+480214-123-43-3-0706106;1493566251456;0.0 
+480214-123-43-3-0706106;1493566251956;0.0 
+480214-123-43-3-0706106;1493566252456;0.0 
+480214-123-43-3-0706106;1493566252956;0.0 
+480214-123-43-3-0706106;1493566253456;0.0 
+480214-123-43-3-0706106;1493566253956;0.0 
+480214-123-43-3-0706106;1493566254456;0.0 
+480214-123-43-3-0706106;1493566254956;0.0 
+480214-123-43-3-0706106;1493566255456;0.0 
+480214-123-43-3-0706106;1493566255956;0.0 
+480214-123-43-3-0706106;1493566256456;0.0 
+480214-123-43-3-0706106;1493566256955;0.0 
+480214-123-43-3-0706106;1493566257456;831.6831683168316 
+480214-123-43-3-0706106;1493566257955;0.0 
+480214-123-43-3-0706106;1493566258455;0.0 
+480214-123-43-3-0706106;1493566258956;0.0 
+480214-123-43-3-0706106;1493566259456;0.0 
+480214-123-43-3-0706106;1493566259955;0.0 
+480214-123-43-3-0706106;1493566260456;0.0 
+480214-123-43-3-0706106;1493566260956;840.0 
+480214-123-43-3-0706106;1493566261456;840.0 
+480214-123-43-3-0706106;1493566261956;0.0 
+480214-123-43-3-0706106;1493566262456;0.0 
+480214-123-43-3-0706106;1493566262956;0.0 
+480214-123-43-3-0706106;1493566263456;840.0 
+480214-123-43-3-0706106;1493566263956;0.0 
+480214-123-43-3-0706106;1493566264456;0.0 
+480214-123-43-3-0706106;1493566264956;0.0 
+480214-123-43-3-0706106;1493566265456;0.0 
+480214-123-43-3-0706106;1493566265956;0.0 
+480214-123-43-3-0706106;1493566266456;831.6831683168316 
+480214-123-43-3-0706106;1493566266956;0.0 
+480214-123-43-3-0706106;1493566267456;0.0 
+480214-123-43-3-0706106;1493566267956;0.0 
+480214-123-43-3-0706106;1493566268456;831.6831683168316 
+480214-123-43-3-0706106;1493566268956;840.0 
+480214-123-43-3-0706106;1493566269455;0.0 
+480214-123-43-3-0706106;1493566269956;0.0 
+480214-123-43-3-0706106;1493566270456;831.6831683168316 
+480214-123-43-3-0706106;1493566270956;0.0 
+480214-123-43-3-0706106;1493566271456;840.0 
+480214-123-43-3-0706106;1493566271956;831.6831683168316 
+480214-123-43-3-0706106;1493566272456;0.0 
+480214-123-43-3-0706106;1493566272956;0.0 
+480214-123-43-3-0706106;1493566273456;0.0 
+480214-123-43-3-0706106;1493566273956;0.0 
+480214-123-43-3-0706106;1493566274456;0.0 
+480214-123-43-3-0706106;1493566274956;0.0 
+480214-123-43-3-0706106;1493566275456;0.0 
+480214-123-43-3-0706106;1493566275956;0.0 
+480214-123-43-3-0706106;1493566276456;0.0 
+480214-123-43-3-0706106;1493566276956;831.6831683168316 
+480214-123-43-3-0706106;1493566277456;0.0 
+480214-123-43-3-0706106;1493566277956;840.0 
+480214-123-43-3-0706106;1493566278456;0.0 
+480214-123-43-3-0706106;1493566278956;0.0 
+480214-123-43-3-0706106;1493566279456;0.0 
+480214-123-43-3-0706106;1493566279955;0.0 
+480214-123-43-3-0706106;1493566280456;0.0 
+480214-123-43-3-0706106;1493566280955;0.0 
+480214-123-43-3-0706106;1493566281456;0.0 
+480214-123-43-3-0706106;1493566281956;0.0 
+480214-123-43-3-0706106;1493566282456;0.0 
+480214-123-43-3-0706106;1493566282956;0.0 
+480214-123-43-3-0706106;1493566283456;0.0 
+480214-123-43-3-0706106;1493566283956;840.0 
+480214-123-43-3-0706106;1493566284456;0.0 
+480214-123-43-3-0706106;1493566284956;0.0 
+480214-123-43-3-0706106;1493566285456;0.0 
+480214-123-43-3-0706106;1493566285956;0.0 
+480214-123-43-3-0706106;1493566286456;0.0 
+480214-123-43-3-0706106;1493566286956;840.0 
+480214-123-43-3-0706106;1493566287455;840.0 
+480214-123-43-3-0706106;1493566287956;0.0 
+480214-123-43-3-0706106;1493566288456;0.0 
+480214-123-43-3-0706106;1493566288956;0.0 
+480214-123-43-3-0706106;1493566289456;0.0 
+480214-123-43-3-0706106;1493566289956;0.0 
+480214-123-43-3-0706106;1493566290456;0.0 
+480214-123-43-3-0706106;1493566290956;840.0 
+480214-123-43-3-0706106;1493566291455;0.0 
+480214-123-43-3-0706106;1493566291956;0.0 
+480214-123-43-3-0706106;1493566292456;0.0 
+480214-123-43-3-0706106;1493566292955;0.0 
+480214-123-43-3-0706106;1493566293456;0.0 
+480214-123-43-3-0706106;1493566293955;0.0 
+480214-123-43-3-0706106;1493566294456;0.0 
+480214-123-43-3-0706106;1493566294956;0.0 
+480214-123-43-3-0706106;1493566295456;0.0 
+480214-123-43-3-0706106;1493566295956;0.0 
+480214-123-43-3-0706106;1493566296455;831.6831683168316 
+480214-123-43-3-0706106;1493566296956;0.0 
+480214-123-43-3-0706106;1493566297456;0.0 
+480214-123-43-3-0706106;1493566297956;0.0 
+480214-123-43-3-0706106;1493566298456;831.6831683168316 
+480214-123-43-3-0706106;1493566298955;0.0 
+480214-123-43-3-0706106;1493566299456;840.0 
+480214-123-43-3-0706106;1493566299956;0.0 
+480214-123-43-3-0706106;1493566300456;0.0 
+480214-123-43-3-0706106;1493566300956;840.0 
+480214-123-43-3-0706106;1493566301455;840.0 
+480214-123-43-3-0706106;1493566301956;0.0 
+480214-123-43-3-0706106;1493566302455;0.0 
+480214-123-43-3-0706106;1493566302956;0.0 
+480214-123-43-3-0706106;1493566303456;0.0 
+480214-123-43-3-0706106;1493566303956;831.6831683168316 
+480214-123-43-3-0706106;1493566304456;840.0 
+480214-123-43-3-0706106;1493566304956;0.0 
+480214-123-43-3-0706106;1493566305456;0.0 
+480214-123-43-3-0706106;1493566305956;0.0 
+480214-123-43-3-0706106;1493566306456;0.0 
+480214-123-43-3-0706106;1493566306956;0.0 
+480214-123-43-3-0706106;1493566307456;1663.3663366336632 
+480214-123-43-3-0706106;1493566307956;0.0 
+480214-123-43-3-0706106;1493566308456;0.0 
+480214-123-43-3-0706106;1493566308946;0.0 
+480214-123-43-3-0706106;1493566309456;0.0 
+480214-123-43-3-0706106;1493566309956;0.0 
+480214-123-43-3-0706106;1493566310456;0.0 
+480214-123-43-3-0706106;1493566310955;0.0 
+480214-123-43-3-0706106;1493566311455;0.0 
+480214-123-43-3-0706106;1493566311956;0.0 
+480214-123-43-3-0706106;1493566312456;0.0 
+480214-123-43-3-0706106;1493566312956;0.0 
+480214-123-43-3-0706106;1493566313456;0.0 
+480214-123-43-3-0706106;1493566313955;0.0 
+480214-123-43-3-0706106;1493566314456;831.6831683168316 
+480214-123-43-3-0706106;1493566314956;0.0 
+480214-123-43-3-0706106;1493566315456;831.6831683168316 
+480214-123-43-3-0706106;1493566315956;0.0 
+480214-123-43-3-0706106;1493566316455;0.0 
+480214-123-43-3-0706106;1493566316956;0.0 
+480214-123-43-3-0706106;1493566317456;0.0 
+480214-123-43-3-0706106;1493566317956;840.0 
+480214-123-43-3-0706106;1493566318456;0.0 
+480214-123-43-3-0706106;1493566318956;0.0 
+480214-123-43-3-0706106;1493566319456;0.0 
+480214-123-43-3-0706106;1493566319956;0.0 
+480214-123-43-3-0706106;1493566320455;0.0 
+480214-123-43-3-0706106;1493566320956;0.0 
+480214-123-43-3-0706106;1493566321456;0.0 
+480214-123-43-3-0706106;1493566321955;831.6831683168316 
+480214-123-43-3-0706106;1493566322456;0.0 
+480214-123-43-3-0706106;1493566322955;0.0 
+480214-123-43-3-0706106;1493566323456;0.0 
+480214-123-43-3-0706106;1493566323956;0.0 
+480214-123-43-3-0706106;1493566324456;0.0 
+480214-123-43-3-0706106;1493566324956;0.0 
+480214-123-43-3-0706106;1493566325456;0.0 
+480214-123-43-3-0706106;1493566325955;0.0 
+480214-123-43-3-0706106;1493566326456;0.0 
+480214-123-43-3-0706106;1493566326956;0.0 
+480214-123-43-3-0706106;1493566327456;840.0 
+480214-123-43-3-0706106;1493566327956;0.0 
+480214-123-43-3-0706106;1493566328456;0.0 
+480214-123-43-3-0706106;1493566328956;0.0 
+480214-123-43-3-0706106;1493566329456;0.0 
+480214-123-43-3-0706106;1493566329956;0.0 
+480214-123-43-3-0706106;1493566330456;0.0 
+480214-123-43-3-0706106;1493566330956;0.0 
+480214-123-43-3-0706106;1493566331456;0.0 
+480214-123-43-3-0706106;1493566331956;0.0 
+480214-123-43-3-0706106;1493566332456;0.0 
+480214-123-43-3-0706106;1493566332956;0.0 
+480214-123-43-3-0706106;1493566333456;831.6831683168316 
+480214-123-43-3-0706106;1493566333956;0.0 
+480214-123-43-3-0706106;1493566334455;0.0 
+480214-123-43-3-0706106;1493566334956;0.0 
+480214-123-43-3-0706106;1493566335455;0.0 
+480214-123-43-3-0706106;1493566335956;0.0 
+480214-123-43-3-0706106;1493566336456;0.0 
+480214-123-43-3-0706106;1493566336956;0.0 
+480214-123-43-3-0706106;1493566337456;0.0 
+480214-123-43-3-0706106;1493566337956;0.0 
+480214-123-43-3-0706106;1493566338456;831.6831683168316 
+480214-123-43-3-0706106;1493566338956;840.0 
+480214-123-43-3-0706106;1493566339455;0.0 
+480214-123-43-3-0706106;1493566339956;0.0 
+480214-123-43-3-0706106;1493566340456;840.0 
+480214-123-43-3-0706106;1493566340956;0.0 
+480214-123-43-3-0706106;1493566341456;0.0 
+480214-123-43-3-0706106;1493566341956;0.0 
+480214-123-43-3-0706106;1493566342456;0.0 
+480214-123-43-3-0706106;1493566342956;0.0 
+480214-123-43-3-0706106;1493566343456;0.0 
+480214-123-43-3-0706106;1493566343956;0.0 
+480214-123-43-3-0706106;1493566344456;0.0 
+480214-123-43-3-0706106;1493566344956;0.0 
+480214-123-43-3-0706106;1493566345455;0.0 
+480214-123-43-3-0706106;1493566345956;0.0 
+480214-123-43-3-0706106;1493566346455;0.0 
+480214-123-43-3-0706106;1493566346956;0.0 
+480214-123-43-3-0706106;1493566347456;0.0 
+480214-123-43-3-0706106;1493566347956;0.0 
+480214-123-43-3-0706106;1493566348456;0.0 
+480214-123-43-3-0706106;1493566348956;0.0 
+480214-123-43-3-0706106;1493566349456;0.0 
+480214-123-43-3-0706106;1493566349955;840.0 
+480214-123-43-3-0706106;1493566350456;0.0 
+480214-123-43-3-0706106;1493566350955;0.0 
+480214-123-43-3-0706106;1493566351456;0.0 
+480214-123-43-3-0706106;1493566351956;0.0 
+480214-123-43-3-0706106;1493566352456;0.0 
+480214-123-43-3-0706106;1493566352956;831.6831683168316 
+480214-123-43-3-0706106;1493566353456;0.0 
+480214-123-43-3-0706106;1493566353956;0.0 
+480214-123-43-3-0706106;1493566354456;0.0 
+480214-123-43-3-0706106;1493566354956;0.0 
+480214-123-43-3-0706106;1493566355456;0.0 
+480214-123-43-3-0706106;1493566355956;848.4848484848485 
+480214-123-43-3-0706106;1493566356456;831.6831683168316 
+480214-123-43-3-0706106;1493566356956;0.0 
+480214-123-43-3-0706106;1493566357456;0.0 
+480214-123-43-3-0706106;1493566357956;0.0 
+480214-123-43-3-0706106;1493566358456;0.0 
+480214-123-43-3-0706106;1493566358956;0.0 
+480214-123-43-3-0706106;1493566359456;831.6831683168316 
+480214-123-43-3-0706106;1493566359956;0.0 
+480214-123-43-3-0706106;1493566360456;0.0 
+480214-123-43-3-0706106;1493566360955;0.0 
+480214-123-43-3-0706106;1493566361456;0.0 
+480214-123-43-3-0706106;1493566361956;0.0 
+480214-123-43-3-0706106;1493566362455;0.0 
+480214-123-43-3-0706106;1493566362956;0.0 
+480214-123-43-3-0706106;1493566363456;0.0 
+480214-123-43-3-0706106;1493566363956;0.0 
+480214-123-43-3-0706106;1493566364455;840.0 
+480214-123-43-3-0706106;1493566364956;0.0 
+480214-123-43-3-0706106;1493566365456;0.0 
+480214-123-43-3-0706106;1493566365956;0.0 
+480214-123-43-3-0706106;1493566366456;831.6831683168316 
+480214-123-43-3-0706106;1493566366956;0.0 
+480214-123-43-3-0706106;1493566367456;0.0 
+480214-123-43-3-0706106;1493566367956;0.0 
+480214-123-43-3-0706106;1493566368456;0.0 
+480214-123-43-3-0706106;1493566368956;0.0 
+480214-123-43-3-0706106;1493566369456;0.0 
+480214-123-43-3-0706106;1493566369956;0.0 
+480214-123-43-3-0706106;1493566370456;0.0 
+480214-123-43-3-0706106;1493566370956;0.0 
+480214-123-43-3-0706106;1493566371455;0.0 
+480214-123-43-3-0706106;1493566371956;831.6831683168316 
+480214-123-43-3-0706106;1493566372456;0.0 
+480214-123-43-3-0706106;1493566372956;831.6831683168316 
+480214-123-43-3-0706106;1493566373455;0.0 
+480214-123-43-3-0706106;1493566373956;0.0 
+480214-123-43-3-0706106;1493566374456;0.0 
+480214-123-43-3-0706106;1493566374956;0.0 
+480214-123-43-3-0706106;1493566375456;0.0 
+480214-123-43-3-0706106;1493566375956;0.0 
+480214-123-43-3-0706106;1493566376456;0.0 
+480214-123-43-3-0706106;1493566376956;0.0 
+480214-123-43-3-0706106;1493566377456;0.0 
+480214-123-43-3-0706106;1493566377956;0.0 
+480214-123-43-3-0706106;1493566378456;0.0 
+480214-123-43-3-0706106;1493566378956;0.0 
+480214-123-43-3-0706106;1493566379456;0.0 
+480214-123-43-3-0706106;1493566379955;0.0 
+480214-123-43-3-0706106;1493566380455;0.0 
+480214-123-43-3-0706106;1493566380956;0.0 
+480214-123-43-3-0706106;1493566381456;0.0 
+480214-123-43-3-0706106;1493566381956;0.0 
+480214-123-43-3-0706106;1493566382456;0.0 
+480214-123-43-3-0706106;1493566382956;0.0 
+480214-123-43-3-0706106;1493566383455;0.0 
+480214-123-43-3-0706106;1493566383956;0.0 
+480214-123-43-3-0706106;1493566384456;0.0 
+480214-123-43-3-0706106;1493566384955;0.0 
+480214-123-43-3-0706106;1493566385456;0.0 
+480214-123-43-3-0706106;1493566385956;0.0 
+480214-123-43-3-0706106;1493566386456;0.0 
+480214-123-43-3-0706106;1493566386956;0.0 
+480214-123-43-3-0706106;1493566387456;0.0 
+480214-123-43-3-0706106;1493566387956;0.0 
+480214-123-43-3-0706106;1493566388456;0.0 
+480214-123-43-3-0706106;1493566388956;0.0 
+480214-123-43-3-0706106;1493566389456;0.0 
+480214-123-43-3-0706106;1493566389956;840.0 
+480214-123-43-3-0706106;1493566390456;0.0 
+480214-123-43-3-0706106;1493566390956;831.6831683168316 
+480214-123-43-3-0706106;1493566391456;0.0 
+480214-123-43-3-0706106;1493566391956;0.0 
+480214-123-43-3-0706106;1493566392456;0.0 
+480214-123-43-3-0706106;1493566392956;831.6831683168316 
+480214-123-43-3-0706106;1493566393456;0.0 
+480214-123-43-3-0706106;1493566393956;0.0 
+480214-123-43-3-0706106;1493566394455;0.0 
+480214-123-43-3-0706106;1493566394956;0.0 
+480214-123-43-3-0706106;1493566395456;0.0 
+480214-123-43-3-0706106;1493566395955;0.0 
+480214-123-43-3-0706106;1493566396456;0.0 
+480214-123-43-3-0706106;1493566396955;0.0 
+480214-123-43-3-0706106;1493566397456;0.0 
+480214-123-43-3-0706106;1493566397956;0.0 
+480214-123-43-3-0706106;1493566398456;0.0 
+480214-123-43-3-0706106;1493566398956;0.0 
+480214-123-43-3-0706106;1493566399456;0.0 
+480214-123-43-3-0706106;1493566399956;0.0 
+480214-123-43-3-0706106;1493566400455;0.0 
+480214-123-43-3-0706106;1493566400956;0.0 
+480214-123-43-3-0706106;1493566401456;0.0 
+480214-123-43-3-0706106;1493566401956;0.0 
+480214-123-43-3-0706106;1493566402456;0.0 
+480214-123-43-3-0706106;1493566402955;0.0 
+480214-123-43-3-0706106;1493566403456;0.0 
+480214-123-43-3-0706106;1493566403956;0.0 
+480214-123-43-3-0706106;1493566404456;840.0 
+480214-123-43-3-0706106;1493566404956;0.0 
+480214-123-43-3-0706106;1493566405456;0.0 
+480214-123-43-3-0706106;1493566405955;0.0 
+480214-123-43-3-0706106;1493566406456;0.0 
+480214-123-43-3-0706106;1493566406956;840.0 
+480214-123-43-3-0706106;1493566407456;0.0 
+480214-123-43-3-0706106;1493566407955;840.0 
+480214-123-43-3-0706106;1493566408456;0.0 
+480214-123-43-3-0706106;1493566408956;0.0 
+480214-123-43-3-0706106;1493566409456;0.0 
+480214-123-43-3-0706106;1493566409956;0.0 
+480214-123-43-3-0706106;1493566410456;0.0 
+480214-123-43-3-0706106;1493566410956;0.0 
+480214-123-43-3-0706106;1493566411456;0.0 
+480214-123-43-3-0706106;1493566411956;0.0 
+480214-123-43-3-0706106;1493566412455;0.0 
+480214-123-43-3-0706106;1493566412956;0.0 
+480214-123-43-3-0706106;1493566413456;0.0 
+480214-123-43-3-0706106;1493566413956;0.0 
+480214-123-43-3-0706106;1493566414456;0.0 
+480214-123-43-3-0706106;1493566414956;0.0 
+480214-123-43-3-0706106;1493566415456;0.0 
+480214-123-43-3-0706106;1493566415956;0.0 
+480214-123-43-3-0706106;1493566416455;0.0 
+480214-123-43-3-0706106;1493566416956;0.0 
+480214-123-43-3-0706106;1493566417456;0.0 
+480214-123-43-3-0706106;1493566417956;0.0 
+480214-123-43-3-0706106;1493566418456;0.0 
+480214-123-43-3-0706106;1493566418955;0.0 
+480214-123-43-3-0706106;1493566419456;0.0 
+480214-123-43-3-0706106;1493566419956;0.0 
+480214-123-43-3-0706106;1493566420455;0.0 
+480214-123-43-3-0706106;1493566420956;0.0 
+480214-123-43-3-0706106;1493566421456;0.0 
+480214-123-43-3-0706106;1493566421956;0.0 
+480214-123-43-3-0706106;1493566422456;0.0 
+480214-123-43-3-0706106;1493566422956;0.0 
+480214-123-43-3-0706106;1493566423456;0.0 
+480214-123-43-3-0706106;1493566423956;0.0 
+480214-123-43-3-0706106;1493566424456;0.0 
+480214-123-43-3-0706106;1493566424956;0.0 
+480214-123-43-3-0706106;1493566425456;0.0 
+480214-123-43-3-0706106;1493566425956;0.0 
+480214-123-43-3-0706106;1493566426456;0.0 
+480214-123-43-3-0706106;1493566426956;0.0 
+480214-123-43-3-0706106;1493566427456;0.0 
+480214-123-43-3-0706106;1493566427956;840.0 
+480214-123-43-3-0706106;1493566428456;0.0 
+480214-123-43-3-0706106;1493566428956;0.0 
+480214-123-43-3-0706106;1493566429456;0.0 
+480214-123-43-3-0706106;1493566429956;0.0 
+480214-123-43-3-0706106;1493566430456;1680.0 
+480214-123-43-3-0706106;1493566430956;0.0 
+480214-123-43-3-0706106;1493566431456;0.0 
+480214-123-43-3-0706106;1493566431956;0.0 
+480214-123-43-3-0706106;1493566432456;0.0 
+480214-123-43-3-0706106;1493566432956;0.0 
+480214-123-43-3-0706106;1493566433456;0.0 
+480214-123-43-3-0706106;1493566433955;0.0 
+480214-123-43-3-0706106;1493566434456;0.0 
+480214-123-43-3-0706106;1493566434956;0.0 
+480214-123-43-3-0706106;1493566435456;840.0 
+480214-123-43-3-0706106;1493566435956;0.0 
+480214-123-43-3-0706106;1493566436456;831.6831683168316 
+480214-123-43-3-0706106;1493566436946;0.0 
+480214-123-43-3-0706106;1493566437456;0.0 
+480214-123-43-3-0706106;1493566437955;0.0 
+480214-123-43-3-0706106;1493566438456;0.0 
+480214-123-43-3-0706106;1493566438956;0.0 
+480214-123-43-3-0706106;1493566439456;0.0 
+480214-123-43-3-0706106;1493566439956;0.0 
+480214-123-43-3-0706106;1493566440455;0.0 
+480214-123-43-3-0706106;1493566440955;0.0 
+480214-123-43-3-0706106;1493566441455;0.0 
+480214-123-43-3-0706106;1493566441956;0.0 
+480214-123-43-3-0706106;1493566442456;0.0 
+480214-123-43-3-0706106;1493566442956;0.0 
+480214-123-43-3-0706106;1493566443456;0.0 
+480214-123-43-3-0706106;1493566443956;0.0 
+480214-123-43-3-0706106;1493566444456;0.0 
+480214-123-43-3-0706106;1493566444955;0.0 
+480214-123-43-3-0706106;1493566445456;0.0 
+480214-123-43-3-0706106;1493566445956;0.0 
+480214-123-43-3-0706106;1493566446456;840.0 
+480214-123-43-3-0706106;1493566446956;831.6831683168316 
+480214-123-43-3-0706106;1493566447456;0.0 
+480214-123-43-3-0706106;1493566447956;0.0 
+480214-123-43-3-0706106;1493566448456;0.0 
+480214-123-43-3-0706106;1493566448956;0.0 
+480214-123-43-3-0706106;1493566449456;0.0 
+480214-123-43-3-0706106;1493566449956;0.0 
+480214-123-43-3-0706106;1493566450455;0.0 
+480214-123-43-3-0706106;1493566450956;0.0 
+480214-123-43-3-0706106;1493566451456;0.0 
+480214-123-43-3-0706106;1493566451955;0.0 
+480214-123-43-3-0706106;1493566452456;0.0 
+480214-123-43-3-0706106;1493566452956;0.0 
+480214-123-43-3-0706106;1493566453456;0.0 
+480214-123-43-3-0706106;1493566453956;0.0 
+480214-123-43-3-0706106;1493566454456;0.0 
+480214-123-43-3-0706106;1493566454955;0.0 
+480214-123-43-3-0706106;1493566455456;0.0 
+480214-123-43-3-0706106;1493566455956;840.0 
+480214-123-43-3-0706106;1493566456456;0.0 
+480214-123-43-3-0706106;1493566456956;0.0 
+480214-123-43-3-0706106;1493566457456;0.0 
+480214-123-43-3-0706106;1493566457956;0.0 
+480214-123-43-3-0706106;1493566458456;0.0 
+480214-123-43-3-0706106;1493566458956;0.0 
+480214-123-43-3-0706106;1493566459456;0.0 
+480214-123-43-3-0706106;1493566459956;840.0 
+480214-123-43-3-0706106;1493566460456;0.0 
+480214-123-43-3-0706106;1493566460956;0.0 
+480214-123-43-3-0706106;1493566461456;0.0 
+480214-123-43-3-0706106;1493566461956;0.0 
+480214-123-43-3-0706106;1493566462456;0.0 
+480214-123-43-3-0706106;1493566462956;0.0 
+480214-123-43-3-0706106;1493566463455;0.0 
+480214-123-43-3-0706106;1493566463956;0.0 
+480214-123-43-3-0706106;1493566464455;0.0 
+480214-123-43-3-0706106;1493566464956;0.0 
+480214-123-43-3-0706106;1493566465456;0.0 
+480214-123-43-3-0706106;1493566465955;0.0 
+480214-123-43-3-0706106;1493566466456;0.0 
+480214-123-43-3-0706106;1493566466956;0.0 
+480214-123-43-3-0706106;1493566467455;0.0 
+480214-123-43-3-0706106;1493566467955;0.0 
+480214-123-43-3-0706106;1493566468456;0.0 
+480214-123-43-3-0706106;1493566468956;0.0 
+480214-123-43-3-0706106;1493566469455;0.0 
+480214-123-43-3-0706106;1493566469956;0.0 
+480214-123-43-3-0706106;1493566470455;0.0 
+480214-123-43-3-0706106;1493566470956;0.0 
+480214-123-43-3-0706106;1493566471456;0.0 
+480214-123-43-3-0706106;1493566471956;0.0 
+480214-123-43-3-0706106;1493566472456;0.0 
+480214-123-43-3-0706106;1493566472956;0.0 
+480214-123-43-3-0706106;1493566473456;0.0 
+480214-123-43-3-0706106;1493566473956;0.0 
+480214-123-43-3-0706106;1493566474456;0.0 
+480214-123-43-3-0706106;1493566474956;0.0 
+480214-123-43-3-0706106;1493566475455;0.0 
+480214-123-43-3-0706106;1493566475956;0.0 
+480214-123-43-3-0706106;1493566476456;0.0 
+480214-123-43-3-0706106;1493566476955;0.0 
+480214-123-43-3-0706106;1493566477456;840.0 
+480214-123-43-3-0706106;1493566477955;0.0 
+480214-123-43-3-0706106;1493566478456;0.0 
+480214-123-43-3-0706106;1493566478955;0.0 
+480214-123-43-3-0706106;1493566479456;0.0 
+480214-123-43-3-0706106;1493566479956;0.0 
+480214-123-43-3-0706106;1493566480456;0.0 
+480214-123-43-3-0706106;1493566480955;0.0 
+480214-123-43-3-0706106;1493566481456;0.0 
+480214-123-43-3-0706106;1493566481956;0.0 
+480214-123-43-3-0706106;1493566482456;0.0 
+480214-123-43-3-0706106;1493566482956;0.0 
+480214-123-43-3-0706106;1493566483455;0.0 
+480214-123-43-3-0706106;1493566483956;0.0 
+480214-123-43-3-0706106;1493566484456;0.0 
+480214-123-43-3-0706106;1493566484956;831.6831683168316 
+480214-123-43-3-0706106;1493566485456;0.0 
+480214-123-43-3-0706106;1493566485955;0.0 
+480214-123-43-3-0706106;1493566486456;0.0 
+480214-123-43-3-0706106;1493566486956;0.0 
+480214-123-43-3-0706106;1493566487456;0.0 
+480214-123-43-3-0706106;1493566487956;0.0 
+480214-123-43-3-0706106;1493566488456;0.0 
+480214-123-43-3-0706106;1493566488956;0.0 
+480214-123-43-3-0706106;1493566489456;0.0 
+480214-123-43-3-0706106;1493566489956;0.0 
+480214-123-43-3-0706106;1493566490456;0.0 
+480214-123-43-3-0706106;1493566490955;0.0 
+480214-123-43-3-0706106;1493566491456;0.0 
+480214-123-43-3-0706106;1493566491956;0.0 
+480214-123-43-3-0706106;1493566492456;0.0 
+480214-123-43-3-0706106;1493566492956;0.0 
+480214-123-43-3-0706106;1493566493456;0.0 
+480214-123-43-3-0706106;1493566493956;0.0 
+480214-123-43-3-0706106;1493566494455;0.0 
+480214-123-43-3-0706106;1493566494956;0.0 
+480214-123-43-3-0706106;1493566495455;0.0 
+480214-123-43-3-0706106;1493566495955;0.0 
+480214-123-43-3-0706106;1493566496456;0.0 
+480214-123-43-3-0706106;1493566496956;0.0 
+480214-123-43-3-0706106;1493566497456;0.0 
+480214-123-43-3-0706106;1493566497956;0.0 
+480214-123-43-3-0706106;1493566498456;0.0 
+480214-123-43-3-0706106;1493566498956;0.0 
+480214-123-43-3-0706106;1493566499456;0.0 
+480214-123-43-3-0706106;1493566499955;0.0 
+480214-123-43-3-0706106;1493566500456;840.0 
+480214-123-43-3-0706106;1493566500956;0.0 
+480214-123-43-3-0706106;1493566501456;831.6831683168316 
+480214-123-43-3-0706106;1493566501956;0.0 
+480214-123-43-3-0706106;1493566502456;0.0 
+480214-123-43-3-0706106;1493566502956;0.0 
+480214-123-43-3-0706106;1493566503456;0.0 
+480214-123-43-3-0706106;1493566503956;0.0 
+480214-123-43-3-0706106;1493566504456;0.0 
+480214-123-43-3-0706106;1493566504956;0.0 
+480214-123-43-3-0706106;1493566505455;0.0 
+480214-123-43-3-0706106;1493566505956;0.0 
+480214-123-43-3-0706106;1493566506456;0.0 
+480214-123-43-3-0706106;1493566506956;0.0 
+480214-123-43-3-0706106;1493566507456;0.0 
+480214-123-43-3-0706106;1493566507956;0.0 
+480214-123-43-3-0706106;1493566508455;0.0 
+480214-123-43-3-0706106;1493566508956;0.0 
+480214-123-43-3-0706106;1493566509456;0.0 
+480214-123-43-3-0706106;1493566509956;0.0 
+480214-123-43-3-0706106;1493566510456;0.0 
+480214-123-43-3-0706106;1493566510956;840.0 
+480214-123-43-3-0706106;1493566511456;0.0 
+480214-123-43-3-0706106;1493566511956;0.0 
+480214-123-43-3-0706106;1493566512456;0.0 
+480214-123-43-3-0706106;1493566512956;0.0 
+480214-123-43-3-0706106;1493566513456;0.0 
+480214-123-43-3-0706106;1493566513956;0.0 
+480214-123-43-3-0706106;1493566514456;0.0 
+480214-123-43-3-0706106;1493566514956;0.0 
+480214-123-43-3-0706106;1493566515456;0.0 
+480214-123-43-3-0706106;1493566515955;0.0 
+480214-123-43-3-0706106;1493566516456;831.6831683168316 
+480214-123-43-3-0706106;1493566516956;0.0 
+480214-123-43-3-0706106;1493566517455;0.0 
+480214-123-43-3-0706106;1493566517956;0.0 
+480214-123-43-3-0706106;1493566518456;0.0 
+480214-123-43-3-0706106;1493566518955;0.0 
+480214-123-43-3-0706106;1493566519446;0.0 
+480214-123-43-3-0706106;1493566519956;0.0 
+480214-123-43-3-0706106;1493566520455;0.0 
+480214-123-43-3-0706106;1493566520956;0.0 
+480214-123-43-3-0706106;1493566521456;0.0 
+480214-123-43-3-0706106;1493566521955;0.0 
+480214-123-43-3-0706106;1493566522456;0.0 
+480214-123-43-3-0706106;1493566522956;0.0 

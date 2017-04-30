@@ -1,394 +1,393 @@
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565162213;targets=All;devices=cpu;power=84000.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565162719;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565163229;targets=All;devices=cpu;power=6653.465346534653 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565163729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565164229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565164729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565165229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565165729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565166229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565166729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565167229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565167728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565168229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565168729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565169229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565169729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565170229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565170728;targets=All;devices=cpu;power=1696.969696969697 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565171229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565171729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565172229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565172729;targets=All;devices=cpu;power=1680.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565173229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565173729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565174228;targets=All;devices=cpu;power=1696.969696969697 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565174729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565175229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565175729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565176229;targets=All;devices=cpu;power=1696.969696969697 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565176728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565177229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565177729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565178229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565178729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565179229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565179729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565180229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565180729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565181229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565181729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565182229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565182729;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565183228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565183729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565184229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565184729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565185228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565185729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565186229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565186728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565187229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565187729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565188229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565188729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565189229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565189729;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565190229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565190729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565191229;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565191729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565192229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565192729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565193229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565193729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565194229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565194729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565195229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565195729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565196229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565196729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565197229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565197729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565198229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565198729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565199229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565199728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565200229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565200719;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565201229;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565201729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565202229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565202728;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565203229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565203729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565204228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565204729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565205229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565205729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565206229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565206729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565207229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565207729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565208229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565208729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565209229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565209729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565210229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565210729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565211229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565211729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565212229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565212729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565213229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565213731;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565214229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565214729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565215229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565215729;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565216229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565216729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565217229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565217729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565218229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565218729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565219229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565219719;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565220229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565220729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565221229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565221729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565222229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565222729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565223229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565223729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565224229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565224729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565225228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565225729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565226229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565226729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565227228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565227729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565228229;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565228728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565229229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565229729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565230229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565230729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565231229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565231729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565232229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565232729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565233229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565233729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565234229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565234729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565235229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565235729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565236229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565236729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565237228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565237729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565238229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565238729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565239229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565239729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565240228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565240728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565241229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565241729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565242229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565242729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565243228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565243729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565244229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565244728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565245229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565245729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565246229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565246729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565247229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565247729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565248229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565248728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565249229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565249729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565250229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565250729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565251229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565251729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565252228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565252729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565253229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565253729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565254229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565254729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565255229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565255729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565256229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565256729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565257229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565257729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565258229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565258729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565259229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565259729;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565260229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565260729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565261229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565261729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565262229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565262729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565263228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565263729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565264229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565264729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565265229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565265729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565266229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565266729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565267229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565267728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565268229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565268729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565269229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565269728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565270229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565270729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565271229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565271729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565272229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565272728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565273229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565273728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565274229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565274729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565275229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565275729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565276229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565276728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565277229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565277729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565278229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565278729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565279228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565279728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565280229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565280729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565281229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565281729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565282229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565282729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565283229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565283729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565284229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565284729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565285229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565285729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565286229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565286729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565287229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565287729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565288229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565288729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565289229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565289719;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565290218;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565290729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565291228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565291718;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565292229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565292719;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565293229;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565293729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565294228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565294729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565295228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565295729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565296229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565296729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565297229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565297729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565298229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565298728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565299229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565299729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565300229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565300729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565301229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565301729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565302229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565302728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565303228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565303729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565304229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565304729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565305229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565305729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565306229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565306729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565307229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565307729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565308229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565308729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565309229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565309729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565310229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565310728;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565311229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565311729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565312229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565312729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565313229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565313729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565314229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565314729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565315228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565315729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565316229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565316729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565317229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565317728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565318229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565318729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565319229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565319729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565320229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565320729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565321229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565321729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565322229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565322729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565323229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565323729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565324229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565324729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565325229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565325729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565326228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565326729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565327229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565327729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565328229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565328729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565329228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565329729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565330228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565330729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565331229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565331728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565332229;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565332729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565333229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565333729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565334228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565334729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565335229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565335729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565336229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565336729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565337229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565337729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565338229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565338728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565339229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565339728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565340229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565340729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565341229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565341729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565342229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565342729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565343228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565343729;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565344229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565344729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565345229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565345729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565346229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565346729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565347228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565347729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565348229;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565348729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565349229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565349728;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565350229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565350729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565351229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565351729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565352228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565352729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565353229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565353729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565354228;targets=All;devices=cpu;power=840.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565354729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565355229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565355729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565356229;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565356729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565357228;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565357729;targets=All;devices=cpu;power=0.0 mW
-muid=1d4da073-63f7-45bd-acda-a71e414b57aa;timestamp=1493565358229;targets=All;devices=cpu;power=831.6831683168316 mW
-PowerAPI is shutting down ...
+14073-637-45--7141457;1493565162213;84000.0 
+14073-637-45--7141457;1493565162719;831.6831683168316 
+14073-637-45--7141457;1493565163229;6653.465346534653 
+14073-637-45--7141457;1493565163729;0.0 
+14073-637-45--7141457;1493565164229;0.0 
+14073-637-45--7141457;1493565164729;840.0 
+14073-637-45--7141457;1493565165229;0.0 
+14073-637-45--7141457;1493565165729;840.0 
+14073-637-45--7141457;1493565166229;0.0 
+14073-637-45--7141457;1493565166729;0.0 
+14073-637-45--7141457;1493565167229;0.0 
+14073-637-45--7141457;1493565167728;0.0 
+14073-637-45--7141457;1493565168229;840.0 
+14073-637-45--7141457;1493565168729;0.0 
+14073-637-45--7141457;1493565169229;0.0 
+14073-637-45--7141457;1493565169729;831.6831683168316 
+14073-637-45--7141457;1493565170229;0.0 
+14073-637-45--7141457;1493565170728;1696.969696969697 
+14073-637-45--7141457;1493565171229;0.0 
+14073-637-45--7141457;1493565171729;0.0 
+14073-637-45--7141457;1493565172229;0.0 
+14073-637-45--7141457;1493565172729;1680.0 
+14073-637-45--7141457;1493565173229;0.0 
+14073-637-45--7141457;1493565173729;831.6831683168316 
+14073-637-45--7141457;1493565174228;1696.969696969697 
+14073-637-45--7141457;1493565174729;0.0 
+14073-637-45--7141457;1493565175229;0.0 
+14073-637-45--7141457;1493565175729;0.0 
+14073-637-45--7141457;1493565176229;1696.969696969697 
+14073-637-45--7141457;1493565176728;0.0 
+14073-637-45--7141457;1493565177229;0.0 
+14073-637-45--7141457;1493565177729;0.0 
+14073-637-45--7141457;1493565178229;0.0 
+14073-637-45--7141457;1493565178729;0.0 
+14073-637-45--7141457;1493565179229;0.0 
+14073-637-45--7141457;1493565179729;0.0 
+14073-637-45--7141457;1493565180229;0.0 
+14073-637-45--7141457;1493565180729;0.0 
+14073-637-45--7141457;1493565181229;0.0 
+14073-637-45--7141457;1493565181729;0.0 
+14073-637-45--7141457;1493565182229;0.0 
+14073-637-45--7141457;1493565182729;1663.3663366336632 
+14073-637-45--7141457;1493565183228;0.0 
+14073-637-45--7141457;1493565183729;0.0 
+14073-637-45--7141457;1493565184229;0.0 
+14073-637-45--7141457;1493565184729;0.0 
+14073-637-45--7141457;1493565185228;0.0 
+14073-637-45--7141457;1493565185729;0.0 
+14073-637-45--7141457;1493565186229;0.0 
+14073-637-45--7141457;1493565186728;0.0 
+14073-637-45--7141457;1493565187229;0.0 
+14073-637-45--7141457;1493565187729;0.0 
+14073-637-45--7141457;1493565188229;0.0 
+14073-637-45--7141457;1493565188729;0.0 
+14073-637-45--7141457;1493565189229;0.0 
+14073-637-45--7141457;1493565189729;1663.3663366336632 
+14073-637-45--7141457;1493565190229;0.0 
+14073-637-45--7141457;1493565190729;0.0 
+14073-637-45--7141457;1493565191229;848.4848484848485 
+14073-637-45--7141457;1493565191729;0.0 
+14073-637-45--7141457;1493565192229;0.0 
+14073-637-45--7141457;1493565192729;0.0 
+14073-637-45--7141457;1493565193229;0.0 
+14073-637-45--7141457;1493565193729;0.0 
+14073-637-45--7141457;1493565194229;840.0 
+14073-637-45--7141457;1493565194729;0.0 
+14073-637-45--7141457;1493565195229;0.0 
+14073-637-45--7141457;1493565195729;0.0 
+14073-637-45--7141457;1493565196229;0.0 
+14073-637-45--7141457;1493565196729;0.0 
+14073-637-45--7141457;1493565197229;831.6831683168316 
+14073-637-45--7141457;1493565197729;0.0 
+14073-637-45--7141457;1493565198229;840.0 
+14073-637-45--7141457;1493565198729;0.0 
+14073-637-45--7141457;1493565199229;0.0 
+14073-637-45--7141457;1493565199728;0.0 
+14073-637-45--7141457;1493565200229;0.0 
+14073-637-45--7141457;1493565200719;0.0 
+14073-637-45--7141457;1493565201229;823.5294117647059 
+14073-637-45--7141457;1493565201729;0.0 
+14073-637-45--7141457;1493565202229;0.0 
+14073-637-45--7141457;1493565202728;848.4848484848485 
+14073-637-45--7141457;1493565203229;0.0 
+14073-637-45--7141457;1493565203729;0.0 
+14073-637-45--7141457;1493565204228;0.0 
+14073-637-45--7141457;1493565204729;0.0 
+14073-637-45--7141457;1493565205229;0.0 
+14073-637-45--7141457;1493565205729;0.0 
+14073-637-45--7141457;1493565206229;0.0 
+14073-637-45--7141457;1493565206729;831.6831683168316 
+14073-637-45--7141457;1493565207229;0.0 
+14073-637-45--7141457;1493565207729;0.0 
+14073-637-45--7141457;1493565208229;0.0 
+14073-637-45--7141457;1493565208729;0.0 
+14073-637-45--7141457;1493565209229;0.0 
+14073-637-45--7141457;1493565209729;831.6831683168316 
+14073-637-45--7141457;1493565210229;0.0 
+14073-637-45--7141457;1493565210729;0.0 
+14073-637-45--7141457;1493565211229;0.0 
+14073-637-45--7141457;1493565211729;0.0 
+14073-637-45--7141457;1493565212229;0.0 
+14073-637-45--7141457;1493565212729;0.0 
+14073-637-45--7141457;1493565213229;0.0 
+14073-637-45--7141457;1493565213731;0.0 
+14073-637-45--7141457;1493565214229;0.0 
+14073-637-45--7141457;1493565214729;0.0 
+14073-637-45--7141457;1493565215229;0.0 
+14073-637-45--7141457;1493565215729;848.4848484848485 
+14073-637-45--7141457;1493565216229;840.0 
+14073-637-45--7141457;1493565216729;0.0 
+14073-637-45--7141457;1493565217229;0.0 
+14073-637-45--7141457;1493565217729;0.0 
+14073-637-45--7141457;1493565218229;840.0 
+14073-637-45--7141457;1493565218729;0.0 
+14073-637-45--7141457;1493565219229;0.0 
+14073-637-45--7141457;1493565219719;0.0 
+14073-637-45--7141457;1493565220229;0.0 
+14073-637-45--7141457;1493565220729;0.0 
+14073-637-45--7141457;1493565221229;0.0 
+14073-637-45--7141457;1493565221729;840.0 
+14073-637-45--7141457;1493565222229;831.6831683168316 
+14073-637-45--7141457;1493565222729;0.0 
+14073-637-45--7141457;1493565223229;0.0 
+14073-637-45--7141457;1493565223729;0.0 
+14073-637-45--7141457;1493565224229;0.0 
+14073-637-45--7141457;1493565224729;0.0 
+14073-637-45--7141457;1493565225228;0.0 
+14073-637-45--7141457;1493565225729;0.0 
+14073-637-45--7141457;1493565226229;0.0 
+14073-637-45--7141457;1493565226729;840.0 
+14073-637-45--7141457;1493565227228;0.0 
+14073-637-45--7141457;1493565227729;0.0 
+14073-637-45--7141457;1493565228229;1663.3663366336632 
+14073-637-45--7141457;1493565228728;0.0 
+14073-637-45--7141457;1493565229229;0.0 
+14073-637-45--7141457;1493565229729;0.0 
+14073-637-45--7141457;1493565230229;0.0 
+14073-637-45--7141457;1493565230729;0.0 
+14073-637-45--7141457;1493565231229;0.0 
+14073-637-45--7141457;1493565231729;0.0 
+14073-637-45--7141457;1493565232229;0.0 
+14073-637-45--7141457;1493565232729;0.0 
+14073-637-45--7141457;1493565233229;840.0 
+14073-637-45--7141457;1493565233729;0.0 
+14073-637-45--7141457;1493565234229;0.0 
+14073-637-45--7141457;1493565234729;0.0 
+14073-637-45--7141457;1493565235229;0.0 
+14073-637-45--7141457;1493565235729;0.0 
+14073-637-45--7141457;1493565236229;0.0 
+14073-637-45--7141457;1493565236729;0.0 
+14073-637-45--7141457;1493565237228;0.0 
+14073-637-45--7141457;1493565237729;0.0 
+14073-637-45--7141457;1493565238229;840.0 
+14073-637-45--7141457;1493565238729;0.0 
+14073-637-45--7141457;1493565239229;0.0 
+14073-637-45--7141457;1493565239729;0.0 
+14073-637-45--7141457;1493565240228;0.0 
+14073-637-45--7141457;1493565240728;0.0 
+14073-637-45--7141457;1493565241229;840.0 
+14073-637-45--7141457;1493565241729;0.0 
+14073-637-45--7141457;1493565242229;0.0 
+14073-637-45--7141457;1493565242729;0.0 
+14073-637-45--7141457;1493565243228;0.0 
+14073-637-45--7141457;1493565243729;0.0 
+14073-637-45--7141457;1493565244229;0.0 
+14073-637-45--7141457;1493565244728;0.0 
+14073-637-45--7141457;1493565245229;0.0 
+14073-637-45--7141457;1493565245729;0.0 
+14073-637-45--7141457;1493565246229;0.0 
+14073-637-45--7141457;1493565246729;0.0 
+14073-637-45--7141457;1493565247229;0.0 
+14073-637-45--7141457;1493565247729;831.6831683168316 
+14073-637-45--7141457;1493565248229;0.0 
+14073-637-45--7141457;1493565248728;0.0 
+14073-637-45--7141457;1493565249229;0.0 
+14073-637-45--7141457;1493565249729;0.0 
+14073-637-45--7141457;1493565250229;0.0 
+14073-637-45--7141457;1493565250729;0.0 
+14073-637-45--7141457;1493565251229;0.0 
+14073-637-45--7141457;1493565251729;0.0 
+14073-637-45--7141457;1493565252228;0.0 
+14073-637-45--7141457;1493565252729;0.0 
+14073-637-45--7141457;1493565253229;0.0 
+14073-637-45--7141457;1493565253729;0.0 
+14073-637-45--7141457;1493565254229;0.0 
+14073-637-45--7141457;1493565254729;0.0 
+14073-637-45--7141457;1493565255229;0.0 
+14073-637-45--7141457;1493565255729;0.0 
+14073-637-45--7141457;1493565256229;0.0 
+14073-637-45--7141457;1493565256729;0.0 
+14073-637-45--7141457;1493565257229;0.0 
+14073-637-45--7141457;1493565257729;840.0 
+14073-637-45--7141457;1493565258229;831.6831683168316 
+14073-637-45--7141457;1493565258729;0.0 
+14073-637-45--7141457;1493565259229;0.0 
+14073-637-45--7141457;1493565259729;831.6831683168316 
+14073-637-45--7141457;1493565260229;0.0 
+14073-637-45--7141457;1493565260729;0.0 
+14073-637-45--7141457;1493565261229;0.0 
+14073-637-45--7141457;1493565261729;0.0 
+14073-637-45--7141457;1493565262229;0.0 
+14073-637-45--7141457;1493565262729;0.0 
+14073-637-45--7141457;1493565263228;0.0 
+14073-637-45--7141457;1493565263729;0.0 
+14073-637-45--7141457;1493565264229;0.0 
+14073-637-45--7141457;1493565264729;0.0 
+14073-637-45--7141457;1493565265229;0.0 
+14073-637-45--7141457;1493565265729;0.0 
+14073-637-45--7141457;1493565266229;0.0 
+14073-637-45--7141457;1493565266729;0.0 
+14073-637-45--7141457;1493565267229;840.0 
+14073-637-45--7141457;1493565267728;0.0 
+14073-637-45--7141457;1493565268229;0.0 
+14073-637-45--7141457;1493565268729;840.0 
+14073-637-45--7141457;1493565269229;0.0 
+14073-637-45--7141457;1493565269728;0.0 
+14073-637-45--7141457;1493565270229;0.0 
+14073-637-45--7141457;1493565270729;0.0 
+14073-637-45--7141457;1493565271229;0.0 
+14073-637-45--7141457;1493565271729;0.0 
+14073-637-45--7141457;1493565272229;840.0 
+14073-637-45--7141457;1493565272728;0.0 
+14073-637-45--7141457;1493565273229;0.0 
+14073-637-45--7141457;1493565273728;0.0 
+14073-637-45--7141457;1493565274229;0.0 
+14073-637-45--7141457;1493565274729;0.0 
+14073-637-45--7141457;1493565275229;0.0 
+14073-637-45--7141457;1493565275729;0.0 
+14073-637-45--7141457;1493565276229;0.0 
+14073-637-45--7141457;1493565276728;0.0 
+14073-637-45--7141457;1493565277229;0.0 
+14073-637-45--7141457;1493565277729;0.0 
+14073-637-45--7141457;1493565278229;0.0 
+14073-637-45--7141457;1493565278729;0.0 
+14073-637-45--7141457;1493565279228;0.0 
+14073-637-45--7141457;1493565279728;0.0 
+14073-637-45--7141457;1493565280229;840.0 
+14073-637-45--7141457;1493565280729;0.0 
+14073-637-45--7141457;1493565281229;0.0 
+14073-637-45--7141457;1493565281729;0.0 
+14073-637-45--7141457;1493565282229;0.0 
+14073-637-45--7141457;1493565282729;0.0 
+14073-637-45--7141457;1493565283229;0.0 
+14073-637-45--7141457;1493565283729;0.0 
+14073-637-45--7141457;1493565284229;0.0 
+14073-637-45--7141457;1493565284729;0.0 
+14073-637-45--7141457;1493565285229;0.0 
+14073-637-45--7141457;1493565285729;0.0 
+14073-637-45--7141457;1493565286229;0.0 
+14073-637-45--7141457;1493565286729;840.0 
+14073-637-45--7141457;1493565287229;0.0 
+14073-637-45--7141457;1493565287729;0.0 
+14073-637-45--7141457;1493565288229;831.6831683168316 
+14073-637-45--7141457;1493565288729;0.0 
+14073-637-45--7141457;1493565289229;0.0 
+14073-637-45--7141457;1493565289719;0.0 
+14073-637-45--7141457;1493565290218;840.0 
+14073-637-45--7141457;1493565290729;0.0 
+14073-637-45--7141457;1493565291228;0.0 
+14073-637-45--7141457;1493565291718;0.0 
+14073-637-45--7141457;1493565292229;0.0 
+14073-637-45--7141457;1493565292719;0.0 
+14073-637-45--7141457;1493565293229;823.5294117647059 
+14073-637-45--7141457;1493565293729;0.0 
+14073-637-45--7141457;1493565294228;0.0 
+14073-637-45--7141457;1493565294729;0.0 
+14073-637-45--7141457;1493565295228;0.0 
+14073-637-45--7141457;1493565295729;0.0 
+14073-637-45--7141457;1493565296229;0.0 
+14073-637-45--7141457;1493565296729;0.0 
+14073-637-45--7141457;1493565297229;0.0 
+14073-637-45--7141457;1493565297729;0.0 
+14073-637-45--7141457;1493565298229;840.0 
+14073-637-45--7141457;1493565298728;0.0 
+14073-637-45--7141457;1493565299229;0.0 
+14073-637-45--7141457;1493565299729;0.0 
+14073-637-45--7141457;1493565300229;831.6831683168316 
+14073-637-45--7141457;1493565300729;0.0 
+14073-637-45--7141457;1493565301229;0.0 
+14073-637-45--7141457;1493565301729;0.0 
+14073-637-45--7141457;1493565302229;0.0 
+14073-637-45--7141457;1493565302728;0.0 
+14073-637-45--7141457;1493565303228;0.0 
+14073-637-45--7141457;1493565303729;0.0 
+14073-637-45--7141457;1493565304229;0.0 
+14073-637-45--7141457;1493565304729;0.0 
+14073-637-45--7141457;1493565305229;0.0 
+14073-637-45--7141457;1493565305729;0.0 
+14073-637-45--7141457;1493565306229;0.0 
+14073-637-45--7141457;1493565306729;840.0 
+14073-637-45--7141457;1493565307229;0.0 
+14073-637-45--7141457;1493565307729;0.0 
+14073-637-45--7141457;1493565308229;0.0 
+14073-637-45--7141457;1493565308729;840.0 
+14073-637-45--7141457;1493565309229;0.0 
+14073-637-45--7141457;1493565309729;0.0 
+14073-637-45--7141457;1493565310229;0.0 
+14073-637-45--7141457;1493565310728;840.0 
+14073-637-45--7141457;1493565311229;0.0 
+14073-637-45--7141457;1493565311729;0.0 
+14073-637-45--7141457;1493565312229;0.0 
+14073-637-45--7141457;1493565312729;0.0 
+14073-637-45--7141457;1493565313229;0.0 
+14073-637-45--7141457;1493565313729;0.0 
+14073-637-45--7141457;1493565314229;0.0 
+14073-637-45--7141457;1493565314729;0.0 
+14073-637-45--7141457;1493565315228;0.0 
+14073-637-45--7141457;1493565315729;0.0 
+14073-637-45--7141457;1493565316229;0.0 
+14073-637-45--7141457;1493565316729;0.0 
+14073-637-45--7141457;1493565317229;0.0 
+14073-637-45--7141457;1493565317728;0.0 
+14073-637-45--7141457;1493565318229;0.0 
+14073-637-45--7141457;1493565318729;0.0 
+14073-637-45--7141457;1493565319229;831.6831683168316 
+14073-637-45--7141457;1493565319729;0.0 
+14073-637-45--7141457;1493565320229;0.0 
+14073-637-45--7141457;1493565320729;0.0 
+14073-637-45--7141457;1493565321229;0.0 
+14073-637-45--7141457;1493565321729;0.0 
+14073-637-45--7141457;1493565322229;0.0 
+14073-637-45--7141457;1493565322729;840.0 
+14073-637-45--7141457;1493565323229;0.0 
+14073-637-45--7141457;1493565323729;0.0 
+14073-637-45--7141457;1493565324229;0.0 
+14073-637-45--7141457;1493565324729;0.0 
+14073-637-45--7141457;1493565325229;840.0 
+14073-637-45--7141457;1493565325729;0.0 
+14073-637-45--7141457;1493565326228;0.0 
+14073-637-45--7141457;1493565326729;0.0 
+14073-637-45--7141457;1493565327229;0.0 
+14073-637-45--7141457;1493565327729;0.0 
+14073-637-45--7141457;1493565328229;840.0 
+14073-637-45--7141457;1493565328729;0.0 
+14073-637-45--7141457;1493565329228;0.0 
+14073-637-45--7141457;1493565329729;0.0 
+14073-637-45--7141457;1493565330228;0.0 
+14073-637-45--7141457;1493565330729;0.0 
+14073-637-45--7141457;1493565331229;0.0 
+14073-637-45--7141457;1493565331728;0.0 
+14073-637-45--7141457;1493565332229;840.0 
+14073-637-45--7141457;1493565332729;0.0 
+14073-637-45--7141457;1493565333229;0.0 
+14073-637-45--7141457;1493565333729;0.0 
+14073-637-45--7141457;1493565334228;0.0 
+14073-637-45--7141457;1493565334729;0.0 
+14073-637-45--7141457;1493565335229;0.0 
+14073-637-45--7141457;1493565335729;0.0 
+14073-637-45--7141457;1493565336229;0.0 
+14073-637-45--7141457;1493565336729;0.0 
+14073-637-45--7141457;1493565337229;831.6831683168316 
+14073-637-45--7141457;1493565337729;0.0 
+14073-637-45--7141457;1493565338229;0.0 
+14073-637-45--7141457;1493565338728;0.0 
+14073-637-45--7141457;1493565339229;0.0 
+14073-637-45--7141457;1493565339728;0.0 
+14073-637-45--7141457;1493565340229;0.0 
+14073-637-45--7141457;1493565340729;0.0 
+14073-637-45--7141457;1493565341229;0.0 
+14073-637-45--7141457;1493565341729;0.0 
+14073-637-45--7141457;1493565342229;0.0 
+14073-637-45--7141457;1493565342729;0.0 
+14073-637-45--7141457;1493565343228;0.0 
+14073-637-45--7141457;1493565343729;840.0 
+14073-637-45--7141457;1493565344229;0.0 
+14073-637-45--7141457;1493565344729;0.0 
+14073-637-45--7141457;1493565345229;0.0 
+14073-637-45--7141457;1493565345729;0.0 
+14073-637-45--7141457;1493565346229;0.0 
+14073-637-45--7141457;1493565346729;0.0 
+14073-637-45--7141457;1493565347228;0.0 
+14073-637-45--7141457;1493565347729;0.0 
+14073-637-45--7141457;1493565348229;831.6831683168316 
+14073-637-45--7141457;1493565348729;0.0 
+14073-637-45--7141457;1493565349229;0.0 
+14073-637-45--7141457;1493565349728;0.0 
+14073-637-45--7141457;1493565350229;0.0 
+14073-637-45--7141457;1493565350729;0.0 
+14073-637-45--7141457;1493565351229;0.0 
+14073-637-45--7141457;1493565351729;0.0 
+14073-637-45--7141457;1493565352228;0.0 
+14073-637-45--7141457;1493565352729;0.0 
+14073-637-45--7141457;1493565353229;0.0 
+14073-637-45--7141457;1493565353729;0.0 
+14073-637-45--7141457;1493565354228;840.0 
+14073-637-45--7141457;1493565354729;0.0 
+14073-637-45--7141457;1493565355229;0.0 
+14073-637-45--7141457;1493565355729;0.0 
+14073-637-45--7141457;1493565356229;0.0 
+14073-637-45--7141457;1493565356729;0.0 
+14073-637-45--7141457;1493565357228;0.0 
+14073-637-45--7141457;1493565357729;0.0 
+14073-637-45--7141457;1493565358229;831.6831683168316 

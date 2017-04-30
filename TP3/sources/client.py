@@ -2,6 +2,7 @@
 """Python module that sends TCP requests to AWS instance."""
 
 import socket
+import pickle
 import ConfigParser
 from time import sleep
 
@@ -31,6 +32,7 @@ def main():
     with open('data/data_dump.csv', 'r') as f:
         lines = f.readlines()
         do_insert = True;
+        cmd_type = 'insert'
         for line in lines:
             line = line.strip('\n')
             print line
@@ -38,10 +40,17 @@ def main():
             if(do_insert):
                 cmd = insert + member_id + ", '" + date + "', '" + country + "', '" + gender + "', '" + ip_address + "', " + amount + ", " + vip + ", " + product_id + ", '" + card_type + "', '" + serial + "', '" + zone + "');"
                 do_insert = False;
+                cmd_type = 'insert'
             else:
                 cmd = select + "'" + serial + "';"
                 do_insert = True;
-            s.send(cmd)
+                cmd_type = 'select'
+            if target == 'Master':
+                obj = {'target': '', 'type': cmd_type, 'command': cmd}
+                pickledobj = pickle.dumps(obj)
+                s.send(pickledobj)
+            else:
+                s.send(cmd)
             data = s.recv(1024)
             print 'Received from server: ' + str(data)
 

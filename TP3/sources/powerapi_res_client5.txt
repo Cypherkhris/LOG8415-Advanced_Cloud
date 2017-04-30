@@ -1,390 +1,389 @@
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564868446;targets=All;devices=cpu;power=17500.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564868919;targets=All;devices=cpu;power=3556.451612903226 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564869428;targets=All;devices=cpu;power=3258.6206896551726 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564869928;targets=All;devices=cpu;power=3552.4999999999995 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564870429;targets=All;devices=cpu;power=4454.545454545455 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564870929;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564871429;targets=All;devices=cpu;power=5375.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564871928;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564872429;targets=All;devices=cpu;power=8705.583756345177 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564872929;targets=All;devices=cpu;power=6034.482758620689 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564873429;targets=All;devices=cpu;power=5375.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564873928;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564874429;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564874929;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564875428;targets=All;devices=cpu;power=5223.350253807107 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564875928;targets=All;devices=cpu;power=5700.495049504951 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564876429;targets=All;devices=cpu;power=5363.184079601991 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564876929;targets=All;devices=cpu;power=4974.619289340102 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564877428;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564877929;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564878429;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564878929;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564879428;targets=All;devices=cpu;power=4924.62311557789 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564879929;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564880428;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564880929;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564881429;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564881928;targets=All;devices=cpu;power=4801.507537688442 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564882428;targets=All;devices=cpu;power=6247.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564882928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564883429;targets=All;devices=cpu;power=5047.738693467337 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564883929;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564884429;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564884929;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564885428;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564885928;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564886428;targets=All;devices=cpu;power=4924.62311557789 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564886928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564887428;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564887928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564888428;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564888928;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564889428;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564889928;targets=All;devices=cpu;power=5073.232323232323 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564890428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564890928;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564891428;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564891928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564892428;targets=All;devices=cpu;power=4825.757575757575 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564892918;targets=All;devices=cpu;power=5875.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564893428;targets=All;devices=cpu;power=5700.495049504951 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564893928;targets=All;devices=cpu;power=4801.507537688442 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564894428;targets=All;devices=cpu;power=5485.074626865672 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564894929;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564895429;targets=All;devices=cpu;power=5241.293532338308 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564895929;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564896429;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564896928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564897428;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564897928;targets=All;devices=cpu;power=4601.522842639593 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564898429;targets=All;devices=cpu;power=6310.606060606061 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564898929;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564899429;targets=All;devices=cpu;power=5098.984771573605 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564899929;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564900428;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564900928;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564901428;targets=All;devices=cpu;power=5073.232323232323 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564901928;targets=All;devices=cpu;power=5880.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564902428;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564902928;targets=All;devices=cpu;power=5472.081218274112 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564903429;targets=All;devices=cpu;power=5606.965174129354 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564903929;targets=All;devices=cpu;power=6155.778894472361 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564904429;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564904928;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564905428;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564905928;targets=All;devices=cpu;power=6063.131313131313 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564906428;targets=All;devices=cpu;power=5850.746268656716 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564906928;targets=All;devices=cpu;power=5073.232323232323 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564907429;targets=All;devices=cpu;power=5047.738693467337 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564907928;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564908428;targets=All;devices=cpu;power=6186.868686868687 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564908928;targets=All;devices=cpu;power=4777.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564909429;targets=All;devices=cpu;power=5606.965174129354 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564909928;targets=All;devices=cpu;power=5347.715736040609 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564910428;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564910928;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564911428;targets=All;devices=cpu;power=5363.184079601991 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564911928;targets=All;devices=cpu;power=5347.715736040609 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564912428;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564912928;targets=All;devices=cpu;power=5815.656565656565 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564913428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564913929;targets=All;devices=cpu;power=5596.446700507614 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564914429;targets=All;devices=cpu;power=6460.199004975125 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564914928;targets=All;devices=cpu;power=4974.619289340102 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564915428;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564915929;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564916429;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564916929;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564917429;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564917928;targets=All;devices=cpu;power=5215.346534653465 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564918428;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564918928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564919429;targets=All;devices=cpu;power=6338.308457711442 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564919928;targets=All;devices=cpu;power=4850.253807106599 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564920429;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564920928;targets=All;devices=cpu;power=5047.738693467337 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564921428;targets=All;devices=cpu;power=5880.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564921928;targets=All;devices=cpu;power=5098.984771573605 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564922429;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564922928;targets=All;devices=cpu;power=4851.485148514851 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564923428;targets=All;devices=cpu;power=5720.812182741117 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564923928;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564924428;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564924928;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564925428;targets=All;devices=cpu;power=6402.010050251257 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564925929;targets=All;devices=cpu;power=4730.19801980198 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564926428;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564926928;targets=All;devices=cpu;power=5047.738693467337 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564927428;targets=All;devices=cpu;power=6093.908629441624 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564927928;targets=All;devices=cpu;power=5119.4029850746265 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564928428;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564928928;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564929428;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564929928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564930428;targets=All;devices=cpu;power=6370.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564930928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564931429;targets=All;devices=cpu;power=5700.495049504951 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564931929;targets=All;devices=cpu;power=4850.253807106599 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564932429;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564932928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564933429;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564933929;targets=All;devices=cpu;power=5119.4029850746265 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564934429;targets=All;devices=cpu;power=5472.081218274112 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564934929;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564935429;targets=All;devices=cpu;power=5596.446700507614 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564935928;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564936428;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564936928;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564937428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564937928;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564938428;targets=All;devices=cpu;power=5347.715736040609 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564938928;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564939428;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564939928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564940428;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564940928;targets=All;devices=cpu;power=6186.868686868687 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564941428;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564941929;targets=All;devices=cpu;power=5022.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564942428;targets=All;devices=cpu;power=5720.812182741117 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564942928;targets=All;devices=cpu;power=4801.507537688442 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564943428;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564943928;targets=All;devices=cpu;power=4555.276381909548 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564944428;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564944928;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564945428;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564945928;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564946428;targets=All;devices=cpu;power=5485.074626865672 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564946928;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564947428;targets=All;devices=cpu;power=5815.656565656565 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564947928;targets=All;devices=cpu;power=5606.965174129354 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564948428;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564948929;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564949428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564949928;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564950429;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564950928;targets=All;devices=cpu;power=7919.19191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564951428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564951928;targets=All;devices=cpu;power=5972.6368159203985 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564952429;targets=All;devices=cpu;power=5047.738693467337 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564952929;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564953428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564953928;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564954428;targets=All;devices=cpu;power=5073.232323232323 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564954929;targets=All;devices=cpu;power=4850.253807106599 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564955428;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564955928;targets=All;devices=cpu;power=5969.543147208122 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564956428;targets=All;devices=cpu;power=5880.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564956928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564957428;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564957928;targets=All;devices=cpu;power=5485.074626865672 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564958429;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564958929;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564959428;targets=All;devices=cpu;power=6125.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564959929;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564960429;targets=All;devices=cpu;power=5845.177664974619 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564960928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564961428;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564961928;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564962418;targets=All;devices=cpu;power=6407.692307692308 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564962928;targets=All;devices=cpu;power=5644.607843137255 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564963428;targets=All;devices=cpu;power=6247.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564963928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564964428;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564964928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564965428;targets=All;devices=cpu;power=5845.177664974619 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564965928;targets=All;devices=cpu;power=6094.527363184079 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564966428;targets=All;devices=cpu;power=6648.24120603015 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564966928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564967428;targets=All;devices=cpu;power=6525.125628140703 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564967928;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564968428;targets=All;devices=cpu;power=6402.010050251257 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564968928;targets=All;devices=cpu;power=4924.62311557789 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564969428;targets=All;devices=cpu;power=5596.446700507614 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564969928;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564970428;targets=All;devices=cpu;power=6063.131313131313 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564970928;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564971428;targets=All;devices=cpu;power=6063.131313131313 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564971929;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564972429;targets=All;devices=cpu;power=7053.030303030304 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564972929;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564973428;targets=All;devices=cpu;power=6125.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564973928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564974428;targets=All;devices=cpu;power=5850.746268656716 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564974928;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564975428;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564975928;targets=All;devices=cpu;power=4900.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564976428;targets=All;devices=cpu;power=5223.350253807107 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564976928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564977428;targets=All;devices=cpu;power=6492.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564977918;targets=All;devices=cpu;power=5653.846153846154 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564978428;targets=All;devices=cpu;power=5884.803921568628 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564978928;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564979429;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564979919;targets=All;devices=cpu;power=5204.663212435233 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564980428;targets=All;devices=cpu;power=5644.607843137255 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564980928;targets=All;devices=cpu;power=5363.184079601991 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564981429;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564981928;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564982428;targets=All;devices=cpu;power=6094.527363184079 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564982928;targets=All;devices=cpu;power=5472.081218274112 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564983429;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564983928;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564984428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564984928;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564985428;targets=All;devices=cpu;power=5196.969696969697 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564985929;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564986429;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564986928;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564987428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564987929;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564988429;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564988928;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564989428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564989928;targets=All;devices=cpu;power=5700.495049504951 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564990428;targets=All;devices=cpu;power=5347.715736040609 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564990928;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564991428;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564991929;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564992428;targets=All;devices=cpu;power=5691.919191919192 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564992928;targets=All;devices=cpu;power=5880.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564993428;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564993928;targets=All;devices=cpu;power=5528.205128205128 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564994428;targets=All;devices=cpu;power=5485.074626865672 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564994929;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564995428;targets=All;devices=cpu;power=6825.87064676617 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564995928;targets=All;devices=cpu;power=5250.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564996428;targets=All;devices=cpu;power=6402.010050251257 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564996928;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564997429;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564997929;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564998428;targets=All;devices=cpu;power=5939.393939393939 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564998918;targets=All;devices=cpu;power=5625.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564999429;targets=All;devices=cpu;power=5943.069306930693 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493564999929;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565000429;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565000928;targets=All;devices=cpu;power=4801.507537688442 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565001428;targets=All;devices=cpu;power=6247.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565001928;targets=All;devices=cpu;power=4949.49494949495 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565002428;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565002929;targets=All;devices=cpu;power=5472.081218274112 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565003428;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565003918;targets=All;devices=cpu;power=5625.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565004428;targets=All;devices=cpu;power=5551.724137931034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565004928;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565005428;targets=All;devices=cpu;power=6155.778894472361 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565005928;targets=All;devices=cpu;power=5293.969849246231 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565006428;targets=All;devices=cpu;power=6216.417910447762 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565006928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565007428;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565007928;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565008428;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565008928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565009428;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565009929;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565010418;targets=All;devices=cpu;power=5585.4922279792745 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565010928;targets=All;devices=cpu;power=5524.509803921568 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565011428;targets=All;devices=cpu;power=5972.6368159203985 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565011928;targets=All;devices=cpu;power=4949.49494949495 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565012428;targets=All;devices=cpu;power=6186.868686868687 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565012929;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565013428;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565013929;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565014429;targets=All;devices=cpu;power=6342.639593908629 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565014928;targets=All;devices=cpu;power=5363.184079601991 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565015428;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565015928;targets=All;devices=cpu;power=5267.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565016428;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565016928;targets=All;devices=cpu;power=5635.000000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565017428;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565017928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565018428;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565018928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565019428;targets=All;devices=cpu;power=6278.89447236181 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565019928;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565020429;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565020928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565021428;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565021928;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565022428;targets=All;devices=cpu;power=5972.6368159203985 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565022929;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565023428;targets=All;devices=cpu;power=5417.085427135679 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565023918;targets=All;devices=cpu;power=5500.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565024428;targets=All;devices=cpu;power=5524.509803921568 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565024928;targets=All;devices=cpu;power=5223.350253807107 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565025428;targets=All;devices=cpu;power=6428.217821782178 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565025928;targets=All;devices=cpu;power=5444.444444444443 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565026428;targets=All;devices=cpu;power=5875.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565026928;targets=All;devices=cpu;power=6492.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565027429;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565027928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565028428;targets=All;devices=cpu;power=5320.707070707071 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565028928;targets=All;devices=cpu;power=6492.500000000001 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565029428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565029929;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565030429;targets=All;devices=cpu;power=6648.24120603015 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565030928;targets=All;devices=cpu;power=5512.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565031428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565031928;targets=All;devices=cpu;power=5596.446700507614 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565032418;targets=All;devices=cpu;power=5472.081218274112 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565032928;targets=All;devices=cpu;power=5793.103448275862 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565033429;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565033928;targets=All;devices=cpu;power=8083.756345177665 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565034428;targets=All;devices=cpu;power=5909.547738693467 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565034928;targets=All;devices=cpu;power=5215.346534653465 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565035428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565035928;targets=All;devices=cpu;power=6250.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565036428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565036928;targets=All;devices=cpu;power=7191.542288557213 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565037428;targets=All;devices=cpu;power=5223.350253807107 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565037928;targets=All;devices=cpu;power=5663.316582914573 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565038428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565038928;targets=All;devices=cpu;power=5728.855721393034 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565039428;targets=All;devices=cpu;power=5568.181818181818 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565039928;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565040428;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565040928;targets=All;devices=cpu;power=5098.984771573605 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565041428;targets=All;devices=cpu;power=6032.663316582915 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565041928;targets=All;devices=cpu;power=5241.293532338308 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565042428;targets=All;devices=cpu;power=6370.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565042929;targets=All;devices=cpu;power=5145.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565043429;targets=All;devices=cpu;power=6002.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565043929;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565044428;targets=All;devices=cpu;power=5880.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565044928;targets=All;devices=cpu;power=5073.232323232323 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565045429;targets=All;devices=cpu;power=5786.43216080402 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565045928;targets=All;devices=cpu;power=5540.201005025126 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565046428;targets=All;devices=cpu;power=6216.417910447762 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565046928;targets=All;devices=cpu;power=4725.888324873096 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565047428;targets=All;devices=cpu;power=7017.587939698493 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565047928;targets=All;devices=cpu;power=10238.805970149253 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565048428;targets=All;devices=cpu;power=10957.286432160803 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565048928;targets=All;devices=cpu;power=8987.437185929648 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565049429;targets=All;devices=cpu;power=3939.6984924623116 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565049928;targets=All;devices=cpu;power=3534.8258706467664 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565050428;targets=All;devices=cpu;power=3125.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565050929;targets=All;devices=cpu;power=3517.326732673267 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565051428;targets=All;devices=cpu;power=4165.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565051929;targets=All;devices=cpu;power=3447.236180904523 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565052428;targets=All;devices=cpu;power=4165.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565052928;targets=All;devices=cpu;power=2969.6969696969695 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565053428;targets=All;devices=cpu;power=4702.020202020201 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565053929;targets=All;devices=cpu;power=5757.499999999999 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565054428;targets=All;devices=cpu;power=5022.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565054928;targets=All;devices=cpu;power=5094.059405940594 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565055428;targets=All;devices=cpu;power=5972.6368159203985 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565055929;targets=All;devices=cpu;power=5170.854271356783 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565056428;targets=All;devices=cpu;power=5390.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565056928;targets=All;devices=cpu;power=4228.4263959390855 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565057428;targets=All;devices=cpu;power=4144.278606965174 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565057928;targets=All;devices=cpu;power=4924.62311557789 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565058428;targets=All;devices=cpu;power=3797.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565058928;targets=All;devices=cpu;power=5363.184079601991 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565059428;targets=All;devices=cpu;power=4330.80808080808 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565059928;targets=All;devices=cpu;power=6063.131313131313 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565060429;targets=All;devices=cpu;power=4165.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565060928;targets=All;devices=cpu;power=4266.169154228856 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565061428;targets=All;devices=cpu;power=3125.0 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565061928;targets=All;devices=cpu;power=3062.5 mW
-muid=235d9baf-e3f1-4e72-abaa-a5d1d9b8d458;timestamp=1493565062428;targets=All;devices=cpu;power=3201.0050251256284 mW
-PowerAPI is shutting down ...
+2359-31-472--5198458;1493564868446;17500.0 
+2359-31-472--5198458;1493564868919;3556.451612903226 
+2359-31-472--5198458;1493564869428;3258.6206896551726 
+2359-31-472--5198458;1493564869928;3552.4999999999995 
+2359-31-472--5198458;1493564870429;4454.545454545455 
+2359-31-472--5198458;1493564870929;5635.000000000001 
+2359-31-472--5198458;1493564871429;5375.0 
+2359-31-472--5198458;1493564871928;5512.5 
+2359-31-472--5198458;1493564872429;8705.583756345177 
+2359-31-472--5198458;1493564872929;6034.482758620689 
+2359-31-472--5198458;1493564873429;5375.0 
+2359-31-472--5198458;1493564873928;5635.000000000001 
+2359-31-472--5198458;1493564874429;5691.919191919192 
+2359-31-472--5198458;1493564874929;5786.43216080402 
+2359-31-472--5198458;1493564875428;5223.350253807107 
+2359-31-472--5198458;1493564875928;5700.495049504951 
+2359-31-472--5198458;1493564876429;5363.184079601991 
+2359-31-472--5198458;1493564876929;4974.619289340102 
+2359-31-472--5198458;1493564877428;6278.89447236181 
+2359-31-472--5198458;1493564877929;5145.0 
+2359-31-472--5198458;1493564878429;5390.0 
+2359-31-472--5198458;1493564878929;5170.854271356783 
+2359-31-472--5198458;1493564879428;4924.62311557789 
+2359-31-472--5198458;1493564879929;6032.663316582915 
+2359-31-472--5198458;1493564880428;5417.085427135679 
+2359-31-472--5198458;1493564880929;5320.707070707071 
+2359-31-472--5198458;1493564881429;5786.43216080402 
+2359-31-472--5198458;1493564881928;4801.507537688442 
+2359-31-472--5198458;1493564882428;6247.500000000001 
+2359-31-472--5198458;1493564882928;5417.085427135679 
+2359-31-472--5198458;1493564883429;5047.738693467337 
+2359-31-472--5198458;1493564883929;5267.5 
+2359-31-472--5198458;1493564884429;5320.707070707071 
+2359-31-472--5198458;1493564884929;5320.707070707071 
+2359-31-472--5198458;1493564885428;6032.663316582915 
+2359-31-472--5198458;1493564885928;5293.969849246231 
+2359-31-472--5198458;1493564886428;4924.62311557789 
+2359-31-472--5198458;1493564886928;5170.854271356783 
+2359-31-472--5198458;1493564887428;5293.969849246231 
+2359-31-472--5198458;1493564887928;5170.854271356783 
+2359-31-472--5198458;1493564888428;5663.316582914573 
+2359-31-472--5198458;1493564888928;5145.0 
+2359-31-472--5198458;1493564889428;5786.43216080402 
+2359-31-472--5198458;1493564889928;5073.232323232323 
+2359-31-472--5198458;1493564890428;5568.181818181818 
+2359-31-472--5198458;1493564890928;5390.0 
+2359-31-472--5198458;1493564891428;5444.444444444443 
+2359-31-472--5198458;1493564891928;5170.854271356783 
+2359-31-472--5198458;1493564892428;4825.757575757575 
+2359-31-472--5198458;1493564892918;5875.0 
+2359-31-472--5198458;1493564893428;5700.495049504951 
+2359-31-472--5198458;1493564893928;4801.507537688442 
+2359-31-472--5198458;1493564894428;5485.074626865672 
+2359-31-472--5198458;1493564894929;5170.854271356783 
+2359-31-472--5198458;1493564895429;5241.293532338308 
+2359-31-472--5198458;1493564895929;5320.707070707071 
+2359-31-472--5198458;1493564896429;5568.181818181818 
+2359-31-472--5198458;1493564896928;5170.854271356783 
+2359-31-472--5198458;1493564897428;5786.43216080402 
+2359-31-472--5198458;1493564897928;4601.522842639593 
+2359-31-472--5198458;1493564898429;6310.606060606061 
+2359-31-472--5198458;1493564898929;5390.0 
+2359-31-472--5198458;1493564899429;5098.984771573605 
+2359-31-472--5198458;1493564899929;5691.919191919192 
+2359-31-472--5198458;1493564900428;5444.444444444443 
+2359-31-472--5198458;1493564900928;5909.547738693467 
+2359-31-472--5198458;1493564901428;5073.232323232323 
+2359-31-472--5198458;1493564901928;5880.0 
+2359-31-472--5198458;1493564902428;5417.085427135679 
+2359-31-472--5198458;1493564902928;5472.081218274112 
+2359-31-472--5198458;1493564903429;5606.965174129354 
+2359-31-472--5198458;1493564903929;6155.778894472361 
+2359-31-472--5198458;1493564904429;5568.181818181818 
+2359-31-472--5198458;1493564904928;5568.181818181818 
+2359-31-472--5198458;1493564905428;5757.499999999999 
+2359-31-472--5198458;1493564905928;6063.131313131313 
+2359-31-472--5198458;1493564906428;5850.746268656716 
+2359-31-472--5198458;1493564906928;5073.232323232323 
+2359-31-472--5198458;1493564907429;5047.738693467337 
+2359-31-472--5198458;1493564907928;5691.919191919192 
+2359-31-472--5198458;1493564908428;6186.868686868687 
+2359-31-472--5198458;1493564908928;4777.5 
+2359-31-472--5198458;1493564909429;5606.965174129354 
+2359-31-472--5198458;1493564909928;5347.715736040609 
+2359-31-472--5198458;1493564910428;5635.000000000001 
+2359-31-472--5198458;1493564910928;5293.969849246231 
+2359-31-472--5198458;1493564911428;5363.184079601991 
+2359-31-472--5198458;1493564911928;5347.715736040609 
+2359-31-472--5198458;1493564912428;5267.5 
+2359-31-472--5198458;1493564912928;5815.656565656565 
+2359-31-472--5198458;1493564913428;5568.181818181818 
+2359-31-472--5198458;1493564913929;5596.446700507614 
+2359-31-472--5198458;1493564914429;6460.199004975125 
+2359-31-472--5198458;1493564914928;4974.619289340102 
+2359-31-472--5198458;1493564915428;5635.000000000001 
+2359-31-472--5198458;1493564915929;5196.969696969697 
+2359-31-472--5198458;1493564916429;6032.663316582915 
+2359-31-472--5198458;1493564916929;5786.43216080402 
+2359-31-472--5198458;1493564917429;5293.969849246231 
+2359-31-472--5198458;1493564917928;5215.346534653465 
+2359-31-472--5198458;1493564918428;5196.969696969697 
+2359-31-472--5198458;1493564918928;5417.085427135679 
+2359-31-472--5198458;1493564919429;6338.308457711442 
+2359-31-472--5198458;1493564919928;4850.253807106599 
+2359-31-472--5198458;1493564920429;5786.43216080402 
+2359-31-472--5198458;1493564920928;5047.738693467337 
+2359-31-472--5198458;1493564921428;5880.0 
+2359-31-472--5198458;1493564921928;5098.984771573605 
+2359-31-472--5198458;1493564922429;5568.181818181818 
+2359-31-472--5198458;1493564922928;4851.485148514851 
+2359-31-472--5198458;1493564923428;5720.812182741117 
+2359-31-472--5198458;1493564923928;5635.000000000001 
+2359-31-472--5198458;1493564924428;5786.43216080402 
+2359-31-472--5198458;1493564924928;5145.0 
+2359-31-472--5198458;1493564925428;6402.010050251257 
+2359-31-472--5198458;1493564925929;4730.19801980198 
+2359-31-472--5198458;1493564926428;5691.919191919192 
+2359-31-472--5198458;1493564926928;5047.738693467337 
+2359-31-472--5198458;1493564927428;6093.908629441624 
+2359-31-472--5198458;1493564927928;5119.4029850746265 
+2359-31-472--5198458;1493564928428;5444.444444444443 
+2359-31-472--5198458;1493564928928;5512.5 
+2359-31-472--5198458;1493564929428;5512.5 
+2359-31-472--5198458;1493564929928;5417.085427135679 
+2359-31-472--5198458;1493564930428;6370.0 
+2359-31-472--5198458;1493564930928;5444.444444444443 
+2359-31-472--5198458;1493564931429;5700.495049504951 
+2359-31-472--5198458;1493564931929;4850.253807106599 
+2359-31-472--5198458;1493564932429;5635.000000000001 
+2359-31-472--5198458;1493564932928;5417.085427135679 
+2359-31-472--5198458;1493564933429;5728.855721393034 
+2359-31-472--5198458;1493564933929;5119.4029850746265 
+2359-31-472--5198458;1493564934429;5472.081218274112 
+2359-31-472--5198458;1493564934929;5728.855721393034 
+2359-31-472--5198458;1493564935429;5596.446700507614 
+2359-31-472--5198458;1493564935928;5196.969696969697 
+2359-31-472--5198458;1493564936428;5757.499999999999 
+2359-31-472--5198458;1493564936928;5267.5 
+2359-31-472--5198458;1493564937428;5568.181818181818 
+2359-31-472--5198458;1493564937928;5293.969849246231 
+2359-31-472--5198458;1493564938428;5347.715736040609 
+2359-31-472--5198458;1493564938928;5196.969696969697 
+2359-31-472--5198458;1493564939428;5293.969849246231 
+2359-31-472--5198458;1493564939928;5417.085427135679 
+2359-31-472--5198458;1493564940428;5512.5 
+2359-31-472--5198458;1493564940928;6186.868686868687 
+2359-31-472--5198458;1493564941428;5786.43216080402 
+2359-31-472--5198458;1493564941929;5022.5 
+2359-31-472--5198458;1493564942428;5720.812182741117 
+2359-31-472--5198458;1493564942928;4801.507537688442 
+2359-31-472--5198458;1493564943428;5267.5 
+2359-31-472--5198458;1493564943928;4555.276381909548 
+2359-31-472--5198458;1493564944428;5512.5 
+2359-31-472--5198458;1493564944928;5512.5 
+2359-31-472--5198458;1493564945428;5320.707070707071 
+2359-31-472--5198458;1493564945928;6278.89447236181 
+2359-31-472--5198458;1493564946428;5485.074626865672 
+2359-31-472--5198458;1493564946928;5909.547738693467 
+2359-31-472--5198458;1493564947428;5815.656565656565 
+2359-31-472--5198458;1493564947928;5606.965174129354 
+2359-31-472--5198458;1493564948428;6002.499999999999 
+2359-31-472--5198458;1493564948929;5390.0 
+2359-31-472--5198458;1493564949428;5568.181818181818 
+2359-31-472--5198458;1493564949928;5728.855721393034 
+2359-31-472--5198458;1493564950429;5540.201005025126 
+2359-31-472--5198458;1493564950928;7919.19191919192 
+2359-31-472--5198458;1493564951428;5568.181818181818 
+2359-31-472--5198458;1493564951928;5972.6368159203985 
+2359-31-472--5198458;1493564952429;5047.738693467337 
+2359-31-472--5198458;1493564952929;5145.0 
+2359-31-472--5198458;1493564953428;5568.181818181818 
+2359-31-472--5198458;1493564953928;5663.316582914573 
+2359-31-472--5198458;1493564954428;5073.232323232323 
+2359-31-472--5198458;1493564954929;4850.253807106599 
+2359-31-472--5198458;1493564955428;5417.085427135679 
+2359-31-472--5198458;1493564955928;5969.543147208122 
+2359-31-472--5198458;1493564956428;5880.0 
+2359-31-472--5198458;1493564956928;5540.201005025126 
+2359-31-472--5198458;1493564957428;5512.5 
+2359-31-472--5198458;1493564957928;5485.074626865672 
+2359-31-472--5198458;1493564958429;5512.5 
+2359-31-472--5198458;1493564958929;5293.969849246231 
+2359-31-472--5198458;1493564959428;6125.0 
+2359-31-472--5198458;1493564959929;5320.707070707071 
+2359-31-472--5198458;1493564960429;5845.177664974619 
+2359-31-472--5198458;1493564960928;5444.444444444443 
+2359-31-472--5198458;1493564961428;5757.499999999999 
+2359-31-472--5198458;1493564961928;5786.43216080402 
+2359-31-472--5198458;1493564962418;6407.692307692308 
+2359-31-472--5198458;1493564962928;5644.607843137255 
+2359-31-472--5198458;1493564963428;6247.500000000001 
+2359-31-472--5198458;1493564963928;5540.201005025126 
+2359-31-472--5198458;1493564964428;6002.499999999999 
+2359-31-472--5198458;1493564964928;5170.854271356783 
+2359-31-472--5198458;1493564965428;5845.177664974619 
+2359-31-472--5198458;1493564965928;6094.527363184079 
+2359-31-472--5198458;1493564966428;6648.24120603015 
+2359-31-472--5198458;1493564966928;5170.854271356783 
+2359-31-472--5198458;1493564967428;6525.125628140703 
+2359-31-472--5198458;1493564967928;5390.0 
+2359-31-472--5198458;1493564968428;6402.010050251257 
+2359-31-472--5198458;1493564968928;4924.62311557789 
+2359-31-472--5198458;1493564969428;5596.446700507614 
+2359-31-472--5198458;1493564969928;5635.000000000001 
+2359-31-472--5198458;1493564970428;6063.131313131313 
+2359-31-472--5198458;1493564970928;5390.0 
+2359-31-472--5198458;1493564971428;6063.131313131313 
+2359-31-472--5198458;1493564971929;5663.316582914573 
+2359-31-472--5198458;1493564972429;7053.030303030304 
+2359-31-472--5198458;1493564972929;5196.969696969697 
+2359-31-472--5198458;1493564973428;6125.0 
+2359-31-472--5198458;1493564973928;5540.201005025126 
+2359-31-472--5198458;1493564974428;5850.746268656716 
+2359-31-472--5198458;1493564974928;5196.969696969697 
+2359-31-472--5198458;1493564975428;6032.663316582915 
+2359-31-472--5198458;1493564975928;4900.0 
+2359-31-472--5198458;1493564976428;5223.350253807107 
+2359-31-472--5198458;1493564976928;5170.854271356783 
+2359-31-472--5198458;1493564977428;6492.500000000001 
+2359-31-472--5198458;1493564977918;5653.846153846154 
+2359-31-472--5198458;1493564978428;5884.803921568628 
+2359-31-472--5198458;1493564978928;5691.919191919192 
+2359-31-472--5198458;1493564979429;5757.499999999999 
+2359-31-472--5198458;1493564979919;5204.663212435233 
+2359-31-472--5198458;1493564980428;5644.607843137255 
+2359-31-472--5198458;1493564980928;5363.184079601991 
+2359-31-472--5198458;1493564981429;5444.444444444443 
+2359-31-472--5198458;1493564981928;5568.181818181818 
+2359-31-472--5198458;1493564982428;6094.527363184079 
+2359-31-472--5198458;1493564982928;5472.081218274112 
+2359-31-472--5198458;1493564983429;5512.5 
+2359-31-472--5198458;1493564983928;5170.854271356783 
+2359-31-472--5198458;1493564984428;5540.201005025126 
+2359-31-472--5198458;1493564984928;5663.316582914573 
+2359-31-472--5198458;1493564985428;5196.969696969697 
+2359-31-472--5198458;1493564985929;5512.5 
+2359-31-472--5198458;1493564986429;6278.89447236181 
+2359-31-472--5198458;1493564986928;5293.969849246231 
+2359-31-472--5198458;1493564987428;5540.201005025126 
+2359-31-472--5198458;1493564987929;6032.663316582915 
+2359-31-472--5198458;1493564988429;5691.919191919192 
+2359-31-472--5198458;1493564988928;6002.499999999999 
+2359-31-472--5198458;1493564989428;5540.201005025126 
+2359-31-472--5198458;1493564989928;5700.495049504951 
+2359-31-472--5198458;1493564990428;5347.715736040609 
+2359-31-472--5198458;1493564990928;5267.5 
+2359-31-472--5198458;1493564991428;6278.89447236181 
+2359-31-472--5198458;1493564991929;5663.316582914573 
+2359-31-472--5198458;1493564992428;5691.919191919192 
+2359-31-472--5198458;1493564992928;5880.0 
+2359-31-472--5198458;1493564993428;5909.547738693467 
+2359-31-472--5198458;1493564993928;5528.205128205128 
+2359-31-472--5198458;1493564994428;5485.074626865672 
+2359-31-472--5198458;1493564994929;5663.316582914573 
+2359-31-472--5198458;1493564995428;6825.87064676617 
+2359-31-472--5198458;1493564995928;5250.0 
+2359-31-472--5198458;1493564996428;6402.010050251257 
+2359-31-472--5198458;1493564996928;5390.0 
+2359-31-472--5198458;1493564997429;6032.663316582915 
+2359-31-472--5198458;1493564997929;5663.316582914573 
+2359-31-472--5198458;1493564998428;5939.393939393939 
+2359-31-472--5198458;1493564998918;5625.0 
+2359-31-472--5198458;1493564999429;5943.069306930693 
+2359-31-472--5198458;1493564999929;5444.444444444443 
+2359-31-472--5198458;1493565000429;6278.89447236181 
+2359-31-472--5198458;1493565000928;4801.507537688442 
+2359-31-472--5198458;1493565001428;6247.500000000001 
+2359-31-472--5198458;1493565001928;4949.49494949495 
+2359-31-472--5198458;1493565002428;5728.855721393034 
+2359-31-472--5198458;1493565002929;5472.081218274112 
+2359-31-472--5198458;1493565003428;5757.499999999999 
+2359-31-472--5198458;1493565003918;5625.0 
+2359-31-472--5198458;1493565004428;5551.724137931034 
+2359-31-472--5198458;1493565004928;5568.181818181818 
+2359-31-472--5198458;1493565005428;6155.778894472361 
+2359-31-472--5198458;1493565005928;5293.969849246231 
+2359-31-472--5198458;1493565006428;6216.417910447762 
+2359-31-472--5198458;1493565006928;5444.444444444443 
+2359-31-472--5198458;1493565007428;5663.316582914573 
+2359-31-472--5198458;1493565007928;5417.085427135679 
+2359-31-472--5198458;1493565008428;6002.499999999999 
+2359-31-472--5198458;1493565008928;5444.444444444443 
+2359-31-472--5198458;1493565009428;6032.663316582915 
+2359-31-472--5198458;1493565009929;5728.855721393034 
+2359-31-472--5198458;1493565010418;5585.4922279792745 
+2359-31-472--5198458;1493565010928;5524.509803921568 
+2359-31-472--5198458;1493565011428;5972.6368159203985 
+2359-31-472--5198458;1493565011928;4949.49494949495 
+2359-31-472--5198458;1493565012428;6186.868686868687 
+2359-31-472--5198458;1493565012929;5512.5 
+2359-31-472--5198458;1493565013428;5417.085427135679 
+2359-31-472--5198458;1493565013929;5145.0 
+2359-31-472--5198458;1493565014429;6342.639593908629 
+2359-31-472--5198458;1493565014928;5363.184079601991 
+2359-31-472--5198458;1493565015428;5663.316582914573 
+2359-31-472--5198458;1493565015928;5267.5 
+2359-31-472--5198458;1493565016428;5635.000000000001 
+2359-31-472--5198458;1493565016928;5635.000000000001 
+2359-31-472--5198458;1493565017428;5786.43216080402 
+2359-31-472--5198458;1493565017928;5444.444444444443 
+2359-31-472--5198458;1493565018428;5145.0 
+2359-31-472--5198458;1493565018928;5540.201005025126 
+2359-31-472--5198458;1493565019428;6278.89447236181 
+2359-31-472--5198458;1493565019928;5909.547738693467 
+2359-31-472--5198458;1493565020429;5909.547738693467 
+2359-31-472--5198458;1493565020928;5540.201005025126 
+2359-31-472--5198458;1493565021428;6002.499999999999 
+2359-31-472--5198458;1493565021928;5568.181818181818 
+2359-31-472--5198458;1493565022428;5972.6368159203985 
+2359-31-472--5198458;1493565022929;5786.43216080402 
+2359-31-472--5198458;1493565023428;5417.085427135679 
+2359-31-472--5198458;1493565023918;5500.0 
+2359-31-472--5198458;1493565024428;5524.509803921568 
+2359-31-472--5198458;1493565024928;5223.350253807107 
+2359-31-472--5198458;1493565025428;6428.217821782178 
+2359-31-472--5198458;1493565025928;5444.444444444443 
+2359-31-472--5198458;1493565026428;5875.0 
+2359-31-472--5198458;1493565026928;6492.500000000001 
+2359-31-472--5198458;1493565027429;5540.201005025126 
+2359-31-472--5198458;1493565027928;5540.201005025126 
+2359-31-472--5198458;1493565028428;5320.707070707071 
+2359-31-472--5198458;1493565028928;6492.500000000001 
+2359-31-472--5198458;1493565029428;5540.201005025126 
+2359-31-472--5198458;1493565029929;5757.499999999999 
+2359-31-472--5198458;1493565030429;6648.24120603015 
+2359-31-472--5198458;1493565030928;5512.5 
+2359-31-472--5198458;1493565031428;5568.181818181818 
+2359-31-472--5198458;1493565031928;5596.446700507614 
+2359-31-472--5198458;1493565032418;5472.081218274112 
+2359-31-472--5198458;1493565032928;5793.103448275862 
+2359-31-472--5198458;1493565033429;5540.201005025126 
+2359-31-472--5198458;1493565033928;8083.756345177665 
+2359-31-472--5198458;1493565034428;5909.547738693467 
+2359-31-472--5198458;1493565034928;5215.346534653465 
+2359-31-472--5198458;1493565035428;5568.181818181818 
+2359-31-472--5198458;1493565035928;6250.0 
+2359-31-472--5198458;1493565036428;5540.201005025126 
+2359-31-472--5198458;1493565036928;7191.542288557213 
+2359-31-472--5198458;1493565037428;5223.350253807107 
+2359-31-472--5198458;1493565037928;5663.316582914573 
+2359-31-472--5198458;1493565038428;5540.201005025126 
+2359-31-472--5198458;1493565038928;5728.855721393034 
+2359-31-472--5198458;1493565039428;5568.181818181818 
+2359-31-472--5198458;1493565039928;6002.499999999999 
+2359-31-472--5198458;1493565040428;5540.201005025126 
+2359-31-472--5198458;1493565040928;5098.984771573605 
+2359-31-472--5198458;1493565041428;6032.663316582915 
+2359-31-472--5198458;1493565041928;5241.293532338308 
+2359-31-472--5198458;1493565042428;6370.0 
+2359-31-472--5198458;1493565042929;5145.0 
+2359-31-472--5198458;1493565043429;6002.499999999999 
+2359-31-472--5198458;1493565043929;5390.0 
+2359-31-472--5198458;1493565044428;5880.0 
+2359-31-472--5198458;1493565044928;5073.232323232323 
+2359-31-472--5198458;1493565045429;5786.43216080402 
+2359-31-472--5198458;1493565045928;5540.201005025126 
+2359-31-472--5198458;1493565046428;6216.417910447762 
+2359-31-472--5198458;1493565046928;4725.888324873096 
+2359-31-472--5198458;1493565047428;7017.587939698493 
+2359-31-472--5198458;1493565047928;10238.805970149253 
+2359-31-472--5198458;1493565048428;10957.286432160803 
+2359-31-472--5198458;1493565048928;8987.437185929648 
+2359-31-472--5198458;1493565049429;3939.6984924623116 
+2359-31-472--5198458;1493565049928;3534.8258706467664 
+2359-31-472--5198458;1493565050428;3125.0 
+2359-31-472--5198458;1493565050929;3517.326732673267 
+2359-31-472--5198458;1493565051428;4165.0 
+2359-31-472--5198458;1493565051929;3447.236180904523 
+2359-31-472--5198458;1493565052428;4165.0 
+2359-31-472--5198458;1493565052928;2969.6969696969695 
+2359-31-472--5198458;1493565053428;4702.020202020201 
+2359-31-472--5198458;1493565053929;5757.499999999999 
+2359-31-472--5198458;1493565054428;5022.5 
+2359-31-472--5198458;1493565054928;5094.059405940594 
+2359-31-472--5198458;1493565055428;5972.6368159203985 
+2359-31-472--5198458;1493565055929;5170.854271356783 
+2359-31-472--5198458;1493565056428;5390.0 
+2359-31-472--5198458;1493565056928;4228.4263959390855 
+2359-31-472--5198458;1493565057428;4144.278606965174 
+2359-31-472--5198458;1493565057928;4924.62311557789 
+2359-31-472--5198458;1493565058428;3797.5 
+2359-31-472--5198458;1493565058928;5363.184079601991 
+2359-31-472--5198458;1493565059428;4330.80808080808 
+2359-31-472--5198458;1493565059928;6063.131313131313 
+2359-31-472--5198458;1493565060429;4165.0 
+2359-31-472--5198458;1493565060928;4266.169154228856 
+2359-31-472--5198458;1493565061428;3125.0 
+2359-31-472--5198458;1493565061928;3062.5 
+2359-31-472--5198458;1493565062428;3201.0050251256284 

@@ -1,687 +1,686 @@
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566179695;targets=All;devices=cpu;power=84000.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566180204;targets=All;devices=cpu;power=1750.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566180714;targets=All;devices=cpu;power=5040.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566181205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566181705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566182205;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566182695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566183195;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566183705;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566184205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566184705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566185205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566185704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566186204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566186705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566187205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566187704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566188204;targets=All;devices=cpu;power=5142.857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566188705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566189204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566189704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566190204;targets=All;devices=cpu;power=3428.5714285714284 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566190695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566191205;targets=All;devices=cpu;power=4754.7169811320755 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566191705;targets=All;devices=cpu;power=3428.5714285714284 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566192195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566192705;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566193205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566193704;targets=All;devices=cpu;power=3428.5714285714284 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566194195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566194705;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566195205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566195705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566196205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566196705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566197204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566197704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566198205;targets=All;devices=cpu;power=1750.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566198705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566199205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566199704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566200204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566200705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566201205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566201705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566202205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566202705;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566203205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566203704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566204204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566204704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566205204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566205704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566206204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566206704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566207204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566207704;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566208205;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566208705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566209204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566209705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566210205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566210704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566211204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566211705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566212205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566212705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566213205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566213705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566214205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566214704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566215205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566215705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566216205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566216705;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566217205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566217704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566218205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566218705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566219204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566219704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566220204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566220705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566221205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566221705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566222204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566222704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566223204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566223705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566224205;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566224704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566225204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566225704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566226205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566226705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566227204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566227705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566228204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566228704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566229204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566229704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566230205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566230704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566231207;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566231704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566232205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566232705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566233204;targets=All;devices=cpu;power=1750.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566233705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566234195;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566234695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566235195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566235705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566236205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566236704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566237204;targets=All;devices=cpu;power=4941.176470588235 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566237705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566238205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566238705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566239205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566239705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566240205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566240704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566241205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566241705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566242204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566242704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566243204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566243705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566244205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566244705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566245204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566245704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566246204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566246705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566247205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566247704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566248204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566248704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566249204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566249705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566250205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566250705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566251204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566251704;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566252204;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566252694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566253205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566253705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566254205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566254704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566255204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566255704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566256204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566256704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566257204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566257704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566258204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566258704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566259204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566259704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566260204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566260705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566261204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566261704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566262204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566262704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566263204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566263704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566264204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566264704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566265204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566265705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566266205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566266704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566267204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566267704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566268204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566268704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566269205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566269705;targets=All;devices=cpu;power=1750.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566270205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566270704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566271204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566271704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566272204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566272704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566273204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566273705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566274205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566274705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566275204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566275704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566276204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566276705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566277204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566277704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566278204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566278704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566279205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566279705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566280204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566280704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566281204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566281704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566282204;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566282704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566283205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566283705;targets=All;devices=cpu;power=4846.153846153847 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566284204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566284705;targets=All;devices=cpu;power=6588.235294117647 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566285205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566285705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566286204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566286704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566287204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566287705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566288205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566288704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566289204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566289705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566290205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566290705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566291204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566291705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566292205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566292705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566293205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566293704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566294204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566294705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566295205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566295705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566296205;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566296705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566297205;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566297705;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566298205;targets=All;devices=cpu;power=4941.176470588235 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566298704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566299204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566299704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566300204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566300704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566301205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566301705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566302205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566302705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566303204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566303704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566304204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566304704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566305204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566305705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566306205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566306705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566307205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566307705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566308205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566308705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566309205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566309706;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566310205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566310705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566311204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566311704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566312204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566312705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566313205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566313705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566314204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566314704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566315204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566315704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566316204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566316705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566317205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566317704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566318204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566318704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566319204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566319705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566320205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566320704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566321204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566321704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566322204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566322704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566323204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566323704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566324204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566324705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566325204;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566325705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566326205;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566326705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566327205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566327705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566328205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566328705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566329205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566329704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566330204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566330704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566331204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566331705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566332205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566332704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566333204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566333705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566334205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566334705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566335205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566335705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566336205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566336704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566337204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566337704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566338205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566338705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566339204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566339705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566340205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566340705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566341204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566341704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566342204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566342705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566343205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566343705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566344204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566344704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566345204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566345704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566346205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566346705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566347204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566347704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566348205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566348704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566349204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566349705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566350205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566350705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566351205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566351704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566352204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566352705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566353205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566353705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566354204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566354704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566355204;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566355704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566356205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566356705;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566357205;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566357705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566358204;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566358704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566359204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566359704;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566360205;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566360705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566361205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566361705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566362195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566362694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566363194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566363694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566364194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566364695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566365195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566365695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566366194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566366694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566367194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566367694;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566368194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566368695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566369195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566369694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566370194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566370694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566371194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566371695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566372195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566372704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566373204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566373694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566374194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566374695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566375194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566375694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566376195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566376694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566377194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566377695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566378194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566378694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566379194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566379695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566380195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566380694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566381194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566381694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566382195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566382695;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566383195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566383695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566384194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566384695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566385195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566385694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566386194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566386695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566387195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566387694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566388194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566388695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566389194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566389694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566390195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566390695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566391195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566391694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566392195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566392694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566393195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566393694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566394194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566394695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566395194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566395695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566396194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566396695;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566397194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566397694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566398194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566398694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566399194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566399694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566400194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566400694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566401194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566401694;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566402194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566402694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566403194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566403695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566404194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566404694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566405195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566405695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566406194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566406695;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566407194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566407694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566408195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566408695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566409195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566409694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566410194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566410694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566411194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566411694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566412195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566412695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566413195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566413694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566414194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566414695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566415194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566415694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566416195;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566416695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566417194;targets=All;devices=cpu;power=5040.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566417704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566418194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566418695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566419194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566419694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566420195;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566420694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566421194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566421695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566422194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566422694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566423194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566423694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566424194;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566424695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566425194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566425695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566426194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566426694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566427195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566427695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566428194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566428695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566429194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566429695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566430194;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566430695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566431195;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566431694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566432194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566432694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566433195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566433694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566434194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566434694;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566435205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566435705;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566436204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566436704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566437194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566437694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566438194;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566438695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566439194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566439695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566440194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566440695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566441194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566441694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566442195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566442694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566443195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566443694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566444195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566444695;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566445195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566445694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566446194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566446694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566447194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566447694;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566448194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566448694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566449194;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566449694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566450195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566450694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566451194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566451694;targets=All;devices=cpu;power=3500.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566452195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566452695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566453194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566453695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566454195;targets=All;devices=cpu;power=3294.1176470588234 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566454694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566455194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566455694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566456195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566456694;targets=All;devices=cpu;power=1714.2857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566457195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566457695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566458194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566458694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566459195;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566459694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566460194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566460694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566461194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566461694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566462195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566462694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566463194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566463694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566464194;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566464694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566465195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566465694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566466195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566466695;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566467194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566467695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566468194;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566468695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566469194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566469695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566470204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566470704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566471205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566471704;targets=All;devices=cpu;power=3360.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566472204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566472704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566473205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566473704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566474204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566474704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566475205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566475705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566476204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566476704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566477204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566477704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566478204;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566478705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566479205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566479704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566480204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566480704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566481204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566481705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566482205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566482704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566483204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566483704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566484204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566484705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566485204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566485704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566486205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566486704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566487204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566487704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566488204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566488704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566489204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566489704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566490204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566490705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566491204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566491704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566492205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566492704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566493205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566493704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566494204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566494705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566495204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566495704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566496205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566496704;targets=All;devices=cpu;power=5142.857142857142 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566497204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566497704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566498204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566498705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566499205;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566499705;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566500204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566500705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566501194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566501695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566502194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566502694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566503195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566503695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566504194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566504704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566505205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566505704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566506204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566506704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566507204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566507705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566508204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566508704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566509205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566509704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566510205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566510705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566511205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566511704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566512204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566512705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566513204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566513705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566514204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566514705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566515204;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566515704;targets=All;devices=cpu;power=1680.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566516194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566516695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566517194;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566517695;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566518195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566518694;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566519195;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566519705;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566520204;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566520704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566521205;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566521704;targets=All;devices=cpu;power=0.0 mW
-muid=6659fbfd-a56d-4d51-9068-e6f76af1f3eb;timestamp=1493566522204;targets=All;devices=cpu;power=0.0 mW
-PowerAPI is shutting down ...
+6659-56-451-9068-67613;1493566179695;84000.0 
+6659-56-451-9068-67613;1493566180204;1750.0 
+6659-56-451-9068-67613;1493566180714;5040.0 
+6659-56-451-9068-67613;1493566181205;0.0 
+6659-56-451-9068-67613;1493566181705;1680.0 
+6659-56-451-9068-67613;1493566182205;3360.0 
+6659-56-451-9068-67613;1493566182695;0.0 
+6659-56-451-9068-67613;1493566183195;1714.2857142857142 
+6659-56-451-9068-67613;1493566183705;3294.1176470588234 
+6659-56-451-9068-67613;1493566184205;0.0 
+6659-56-451-9068-67613;1493566184705;0.0 
+6659-56-451-9068-67613;1493566185205;1714.2857142857142 
+6659-56-451-9068-67613;1493566185704;1714.2857142857142 
+6659-56-451-9068-67613;1493566186204;1680.0 
+6659-56-451-9068-67613;1493566186705;0.0 
+6659-56-451-9068-67613;1493566187205;0.0 
+6659-56-451-9068-67613;1493566187704;0.0 
+6659-56-451-9068-67613;1493566188204;5142.857142857142 
+6659-56-451-9068-67613;1493566188705;1680.0 
+6659-56-451-9068-67613;1493566189204;1714.2857142857142 
+6659-56-451-9068-67613;1493566189704;1680.0 
+6659-56-451-9068-67613;1493566190204;3428.5714285714284 
+6659-56-451-9068-67613;1493566190695;0.0 
+6659-56-451-9068-67613;1493566191205;4754.7169811320755 
+6659-56-451-9068-67613;1493566191705;3428.5714285714284 
+6659-56-451-9068-67613;1493566192195;0.0 
+6659-56-451-9068-67613;1493566192705;1647.0588235294117 
+6659-56-451-9068-67613;1493566193205;0.0 
+6659-56-451-9068-67613;1493566193704;3428.5714285714284 
+6659-56-451-9068-67613;1493566194195;0.0 
+6659-56-451-9068-67613;1493566194705;1647.0588235294117 
+6659-56-451-9068-67613;1493566195205;0.0 
+6659-56-451-9068-67613;1493566195705;1714.2857142857142 
+6659-56-451-9068-67613;1493566196205;0.0 
+6659-56-451-9068-67613;1493566196705;0.0 
+6659-56-451-9068-67613;1493566197204;1680.0 
+6659-56-451-9068-67613;1493566197704;1680.0 
+6659-56-451-9068-67613;1493566198205;1750.0 
+6659-56-451-9068-67613;1493566198705;1680.0 
+6659-56-451-9068-67613;1493566199205;0.0 
+6659-56-451-9068-67613;1493566199704;1680.0 
+6659-56-451-9068-67613;1493566200204;0.0 
+6659-56-451-9068-67613;1493566200705;0.0 
+6659-56-451-9068-67613;1493566201205;0.0 
+6659-56-451-9068-67613;1493566201705;0.0 
+6659-56-451-9068-67613;1493566202205;0.0 
+6659-56-451-9068-67613;1493566202705;3360.0 
+6659-56-451-9068-67613;1493566203205;0.0 
+6659-56-451-9068-67613;1493566203704;0.0 
+6659-56-451-9068-67613;1493566204204;0.0 
+6659-56-451-9068-67613;1493566204704;0.0 
+6659-56-451-9068-67613;1493566205204;1714.2857142857142 
+6659-56-451-9068-67613;1493566205704;1680.0 
+6659-56-451-9068-67613;1493566206204;0.0 
+6659-56-451-9068-67613;1493566206704;0.0 
+6659-56-451-9068-67613;1493566207204;0.0 
+6659-56-451-9068-67613;1493566207704;3294.1176470588234 
+6659-56-451-9068-67613;1493566208205;3360.0 
+6659-56-451-9068-67613;1493566208705;1680.0 
+6659-56-451-9068-67613;1493566209204;1680.0 
+6659-56-451-9068-67613;1493566209705;0.0 
+6659-56-451-9068-67613;1493566210205;1680.0 
+6659-56-451-9068-67613;1493566210704;1714.2857142857142 
+6659-56-451-9068-67613;1493566211204;0.0 
+6659-56-451-9068-67613;1493566211705;0.0 
+6659-56-451-9068-67613;1493566212205;0.0 
+6659-56-451-9068-67613;1493566212705;0.0 
+6659-56-451-9068-67613;1493566213205;0.0 
+6659-56-451-9068-67613;1493566213705;0.0 
+6659-56-451-9068-67613;1493566214205;0.0 
+6659-56-451-9068-67613;1493566214704;0.0 
+6659-56-451-9068-67613;1493566215205;1680.0 
+6659-56-451-9068-67613;1493566215705;0.0 
+6659-56-451-9068-67613;1493566216205;0.0 
+6659-56-451-9068-67613;1493566216705;3360.0 
+6659-56-451-9068-67613;1493566217205;0.0 
+6659-56-451-9068-67613;1493566217704;0.0 
+6659-56-451-9068-67613;1493566218205;0.0 
+6659-56-451-9068-67613;1493566218705;1680.0 
+6659-56-451-9068-67613;1493566219204;0.0 
+6659-56-451-9068-67613;1493566219704;0.0 
+6659-56-451-9068-67613;1493566220204;0.0 
+6659-56-451-9068-67613;1493566220705;0.0 
+6659-56-451-9068-67613;1493566221205;1680.0 
+6659-56-451-9068-67613;1493566221705;0.0 
+6659-56-451-9068-67613;1493566222204;0.0 
+6659-56-451-9068-67613;1493566222704;3360.0 
+6659-56-451-9068-67613;1493566223204;0.0 
+6659-56-451-9068-67613;1493566223705;0.0 
+6659-56-451-9068-67613;1493566224205;3294.1176470588234 
+6659-56-451-9068-67613;1493566224704;3360.0 
+6659-56-451-9068-67613;1493566225204;0.0 
+6659-56-451-9068-67613;1493566225704;0.0 
+6659-56-451-9068-67613;1493566226205;0.0 
+6659-56-451-9068-67613;1493566226705;0.0 
+6659-56-451-9068-67613;1493566227204;0.0 
+6659-56-451-9068-67613;1493566227705;1714.2857142857142 
+6659-56-451-9068-67613;1493566228204;0.0 
+6659-56-451-9068-67613;1493566228704;0.0 
+6659-56-451-9068-67613;1493566229204;1680.0 
+6659-56-451-9068-67613;1493566229704;0.0 
+6659-56-451-9068-67613;1493566230205;0.0 
+6659-56-451-9068-67613;1493566230704;1714.2857142857142 
+6659-56-451-9068-67613;1493566231207;1680.0 
+6659-56-451-9068-67613;1493566231704;1714.2857142857142 
+6659-56-451-9068-67613;1493566232205;1680.0 
+6659-56-451-9068-67613;1493566232705;0.0 
+6659-56-451-9068-67613;1493566233204;1750.0 
+6659-56-451-9068-67613;1493566233705;1714.2857142857142 
+6659-56-451-9068-67613;1493566234195;1714.2857142857142 
+6659-56-451-9068-67613;1493566234695;0.0 
+6659-56-451-9068-67613;1493566235195;1680.0 
+6659-56-451-9068-67613;1493566235705;0.0 
+6659-56-451-9068-67613;1493566236205;0.0 
+6659-56-451-9068-67613;1493566236704;1680.0 
+6659-56-451-9068-67613;1493566237204;4941.176470588235 
+6659-56-451-9068-67613;1493566237705;0.0 
+6659-56-451-9068-67613;1493566238205;0.0 
+6659-56-451-9068-67613;1493566238705;1714.2857142857142 
+6659-56-451-9068-67613;1493566239205;0.0 
+6659-56-451-9068-67613;1493566239705;0.0 
+6659-56-451-9068-67613;1493566240205;0.0 
+6659-56-451-9068-67613;1493566240704;0.0 
+6659-56-451-9068-67613;1493566241205;0.0 
+6659-56-451-9068-67613;1493566241705;0.0 
+6659-56-451-9068-67613;1493566242204;1680.0 
+6659-56-451-9068-67613;1493566242704;0.0 
+6659-56-451-9068-67613;1493566243204;0.0 
+6659-56-451-9068-67613;1493566243705;0.0 
+6659-56-451-9068-67613;1493566244205;1714.2857142857142 
+6659-56-451-9068-67613;1493566244705;0.0 
+6659-56-451-9068-67613;1493566245204;0.0 
+6659-56-451-9068-67613;1493566245704;0.0 
+6659-56-451-9068-67613;1493566246204;0.0 
+6659-56-451-9068-67613;1493566246705;0.0 
+6659-56-451-9068-67613;1493566247205;0.0 
+6659-56-451-9068-67613;1493566247704;0.0 
+6659-56-451-9068-67613;1493566248204;1680.0 
+6659-56-451-9068-67613;1493566248704;0.0 
+6659-56-451-9068-67613;1493566249204;0.0 
+6659-56-451-9068-67613;1493566249705;0.0 
+6659-56-451-9068-67613;1493566250205;0.0 
+6659-56-451-9068-67613;1493566250705;1680.0 
+6659-56-451-9068-67613;1493566251204;0.0 
+6659-56-451-9068-67613;1493566251704;3294.1176470588234 
+6659-56-451-9068-67613;1493566252204;3294.1176470588234 
+6659-56-451-9068-67613;1493566252694;0.0 
+6659-56-451-9068-67613;1493566253205;0.0 
+6659-56-451-9068-67613;1493566253705;1680.0 
+6659-56-451-9068-67613;1493566254205;0.0 
+6659-56-451-9068-67613;1493566254704;1680.0 
+6659-56-451-9068-67613;1493566255204;0.0 
+6659-56-451-9068-67613;1493566255704;1714.2857142857142 
+6659-56-451-9068-67613;1493566256204;0.0 
+6659-56-451-9068-67613;1493566256704;0.0 
+6659-56-451-9068-67613;1493566257204;0.0 
+6659-56-451-9068-67613;1493566257704;0.0 
+6659-56-451-9068-67613;1493566258204;0.0 
+6659-56-451-9068-67613;1493566258704;0.0 
+6659-56-451-9068-67613;1493566259204;0.0 
+6659-56-451-9068-67613;1493566259704;0.0 
+6659-56-451-9068-67613;1493566260204;0.0 
+6659-56-451-9068-67613;1493566260705;1714.2857142857142 
+6659-56-451-9068-67613;1493566261204;0.0 
+6659-56-451-9068-67613;1493566261704;1680.0 
+6659-56-451-9068-67613;1493566262204;0.0 
+6659-56-451-9068-67613;1493566262704;0.0 
+6659-56-451-9068-67613;1493566263204;1714.2857142857142 
+6659-56-451-9068-67613;1493566263704;0.0 
+6659-56-451-9068-67613;1493566264204;0.0 
+6659-56-451-9068-67613;1493566264704;0.0 
+6659-56-451-9068-67613;1493566265204;0.0 
+6659-56-451-9068-67613;1493566265705;0.0 
+6659-56-451-9068-67613;1493566266205;0.0 
+6659-56-451-9068-67613;1493566266704;0.0 
+6659-56-451-9068-67613;1493566267204;0.0 
+6659-56-451-9068-67613;1493566267704;0.0 
+6659-56-451-9068-67613;1493566268204;0.0 
+6659-56-451-9068-67613;1493566268704;0.0 
+6659-56-451-9068-67613;1493566269205;1680.0 
+6659-56-451-9068-67613;1493566269705;1750.0 
+6659-56-451-9068-67613;1493566270205;1680.0 
+6659-56-451-9068-67613;1493566270704;0.0 
+6659-56-451-9068-67613;1493566271204;0.0 
+6659-56-451-9068-67613;1493566271704;0.0 
+6659-56-451-9068-67613;1493566272204;0.0 
+6659-56-451-9068-67613;1493566272704;0.0 
+6659-56-451-9068-67613;1493566273204;0.0 
+6659-56-451-9068-67613;1493566273705;0.0 
+6659-56-451-9068-67613;1493566274205;0.0 
+6659-56-451-9068-67613;1493566274705;0.0 
+6659-56-451-9068-67613;1493566275204;0.0 
+6659-56-451-9068-67613;1493566275704;0.0 
+6659-56-451-9068-67613;1493566276204;0.0 
+6659-56-451-9068-67613;1493566276705;0.0 
+6659-56-451-9068-67613;1493566277204;1714.2857142857142 
+6659-56-451-9068-67613;1493566277704;0.0 
+6659-56-451-9068-67613;1493566278204;0.0 
+6659-56-451-9068-67613;1493566278704;0.0 
+6659-56-451-9068-67613;1493566279205;0.0 
+6659-56-451-9068-67613;1493566279705;0.0 
+6659-56-451-9068-67613;1493566280204;0.0 
+6659-56-451-9068-67613;1493566280704;0.0 
+6659-56-451-9068-67613;1493566281204;0.0 
+6659-56-451-9068-67613;1493566281704;0.0 
+6659-56-451-9068-67613;1493566282204;3294.1176470588234 
+6659-56-451-9068-67613;1493566282704;3360.0 
+6659-56-451-9068-67613;1493566283205;0.0 
+6659-56-451-9068-67613;1493566283705;4846.153846153847 
+6659-56-451-9068-67613;1493566284204;0.0 
+6659-56-451-9068-67613;1493566284705;6588.235294117647 
+6659-56-451-9068-67613;1493566285205;0.0 
+6659-56-451-9068-67613;1493566285705;0.0 
+6659-56-451-9068-67613;1493566286204;0.0 
+6659-56-451-9068-67613;1493566286704;0.0 
+6659-56-451-9068-67613;1493566287204;0.0 
+6659-56-451-9068-67613;1493566287705;0.0 
+6659-56-451-9068-67613;1493566288205;1680.0 
+6659-56-451-9068-67613;1493566288704;0.0 
+6659-56-451-9068-67613;1493566289204;0.0 
+6659-56-451-9068-67613;1493566289705;1714.2857142857142 
+6659-56-451-9068-67613;1493566290205;0.0 
+6659-56-451-9068-67613;1493566290705;1680.0 
+6659-56-451-9068-67613;1493566291204;0.0 
+6659-56-451-9068-67613;1493566291705;0.0 
+6659-56-451-9068-67613;1493566292205;0.0 
+6659-56-451-9068-67613;1493566292705;0.0 
+6659-56-451-9068-67613;1493566293205;0.0 
+6659-56-451-9068-67613;1493566293704;0.0 
+6659-56-451-9068-67613;1493566294204;0.0 
+6659-56-451-9068-67613;1493566294705;1680.0 
+6659-56-451-9068-67613;1493566295205;0.0 
+6659-56-451-9068-67613;1493566295705;0.0 
+6659-56-451-9068-67613;1493566296205;3294.1176470588234 
+6659-56-451-9068-67613;1493566296705;1680.0 
+6659-56-451-9068-67613;1493566297205;3360.0 
+6659-56-451-9068-67613;1493566297705;3294.1176470588234 
+6659-56-451-9068-67613;1493566298205;4941.176470588235 
+6659-56-451-9068-67613;1493566298704;0.0 
+6659-56-451-9068-67613;1493566299204;1680.0 
+6659-56-451-9068-67613;1493566299704;0.0 
+6659-56-451-9068-67613;1493566300204;0.0 
+6659-56-451-9068-67613;1493566300704;0.0 
+6659-56-451-9068-67613;1493566301205;1714.2857142857142 
+6659-56-451-9068-67613;1493566301705;0.0 
+6659-56-451-9068-67613;1493566302205;1680.0 
+6659-56-451-9068-67613;1493566302705;0.0 
+6659-56-451-9068-67613;1493566303204;0.0 
+6659-56-451-9068-67613;1493566303704;0.0 
+6659-56-451-9068-67613;1493566304204;0.0 
+6659-56-451-9068-67613;1493566304704;1714.2857142857142 
+6659-56-451-9068-67613;1493566305204;0.0 
+6659-56-451-9068-67613;1493566305705;0.0 
+6659-56-451-9068-67613;1493566306205;1680.0 
+6659-56-451-9068-67613;1493566306705;1714.2857142857142 
+6659-56-451-9068-67613;1493566307205;0.0 
+6659-56-451-9068-67613;1493566307705;1680.0 
+6659-56-451-9068-67613;1493566308205;0.0 
+6659-56-451-9068-67613;1493566308705;0.0 
+6659-56-451-9068-67613;1493566309205;0.0 
+6659-56-451-9068-67613;1493566309706;1680.0 
+6659-56-451-9068-67613;1493566310205;0.0 
+6659-56-451-9068-67613;1493566310705;0.0 
+6659-56-451-9068-67613;1493566311204;0.0 
+6659-56-451-9068-67613;1493566311704;1714.2857142857142 
+6659-56-451-9068-67613;1493566312204;0.0 
+6659-56-451-9068-67613;1493566312705;0.0 
+6659-56-451-9068-67613;1493566313205;0.0 
+6659-56-451-9068-67613;1493566313705;0.0 
+6659-56-451-9068-67613;1493566314204;1714.2857142857142 
+6659-56-451-9068-67613;1493566314704;1714.2857142857142 
+6659-56-451-9068-67613;1493566315204;0.0 
+6659-56-451-9068-67613;1493566315704;1680.0 
+6659-56-451-9068-67613;1493566316204;0.0 
+6659-56-451-9068-67613;1493566316705;0.0 
+6659-56-451-9068-67613;1493566317205;0.0 
+6659-56-451-9068-67613;1493566317704;0.0 
+6659-56-451-9068-67613;1493566318204;0.0 
+6659-56-451-9068-67613;1493566318704;0.0 
+6659-56-451-9068-67613;1493566319204;0.0 
+6659-56-451-9068-67613;1493566319705;1680.0 
+6659-56-451-9068-67613;1493566320205;0.0 
+6659-56-451-9068-67613;1493566320704;0.0 
+6659-56-451-9068-67613;1493566321204;1680.0 
+6659-56-451-9068-67613;1493566321704;0.0 
+6659-56-451-9068-67613;1493566322204;0.0 
+6659-56-451-9068-67613;1493566322704;0.0 
+6659-56-451-9068-67613;1493566323204;0.0 
+6659-56-451-9068-67613;1493566323704;1680.0 
+6659-56-451-9068-67613;1493566324204;0.0 
+6659-56-451-9068-67613;1493566324705;0.0 
+6659-56-451-9068-67613;1493566325204;3294.1176470588234 
+6659-56-451-9068-67613;1493566325705;0.0 
+6659-56-451-9068-67613;1493566326205;3294.1176470588234 
+6659-56-451-9068-67613;1493566326705;0.0 
+6659-56-451-9068-67613;1493566327205;0.0 
+6659-56-451-9068-67613;1493566327705;0.0 
+6659-56-451-9068-67613;1493566328205;1714.2857142857142 
+6659-56-451-9068-67613;1493566328705;0.0 
+6659-56-451-9068-67613;1493566329205;0.0 
+6659-56-451-9068-67613;1493566329704;3360.0 
+6659-56-451-9068-67613;1493566330204;1680.0 
+6659-56-451-9068-67613;1493566330704;0.0 
+6659-56-451-9068-67613;1493566331204;0.0 
+6659-56-451-9068-67613;1493566331705;1680.0 
+6659-56-451-9068-67613;1493566332205;0.0 
+6659-56-451-9068-67613;1493566332704;0.0 
+6659-56-451-9068-67613;1493566333204;0.0 
+6659-56-451-9068-67613;1493566333705;0.0 
+6659-56-451-9068-67613;1493566334205;0.0 
+6659-56-451-9068-67613;1493566334705;0.0 
+6659-56-451-9068-67613;1493566335205;1714.2857142857142 
+6659-56-451-9068-67613;1493566335705;0.0 
+6659-56-451-9068-67613;1493566336205;1680.0 
+6659-56-451-9068-67613;1493566336704;3360.0 
+6659-56-451-9068-67613;1493566337204;0.0 
+6659-56-451-9068-67613;1493566337704;0.0 
+6659-56-451-9068-67613;1493566338205;0.0 
+6659-56-451-9068-67613;1493566338705;1680.0 
+6659-56-451-9068-67613;1493566339204;0.0 
+6659-56-451-9068-67613;1493566339705;0.0 
+6659-56-451-9068-67613;1493566340205;1714.2857142857142 
+6659-56-451-9068-67613;1493566340705;1680.0 
+6659-56-451-9068-67613;1493566341204;0.0 
+6659-56-451-9068-67613;1493566341704;0.0 
+6659-56-451-9068-67613;1493566342204;0.0 
+6659-56-451-9068-67613;1493566342705;0.0 
+6659-56-451-9068-67613;1493566343205;0.0 
+6659-56-451-9068-67613;1493566343705;0.0 
+6659-56-451-9068-67613;1493566344204;1680.0 
+6659-56-451-9068-67613;1493566344704;1714.2857142857142 
+6659-56-451-9068-67613;1493566345204;0.0 
+6659-56-451-9068-67613;1493566345704;1714.2857142857142 
+6659-56-451-9068-67613;1493566346205;0.0 
+6659-56-451-9068-67613;1493566346705;0.0 
+6659-56-451-9068-67613;1493566347204;0.0 
+6659-56-451-9068-67613;1493566347704;0.0 
+6659-56-451-9068-67613;1493566348205;0.0 
+6659-56-451-9068-67613;1493566348704;0.0 
+6659-56-451-9068-67613;1493566349204;0.0 
+6659-56-451-9068-67613;1493566349705;0.0 
+6659-56-451-9068-67613;1493566350205;0.0 
+6659-56-451-9068-67613;1493566350705;1680.0 
+6659-56-451-9068-67613;1493566351205;0.0 
+6659-56-451-9068-67613;1493566351704;1680.0 
+6659-56-451-9068-67613;1493566352204;0.0 
+6659-56-451-9068-67613;1493566352705;0.0 
+6659-56-451-9068-67613;1493566353205;0.0 
+6659-56-451-9068-67613;1493566353705;1680.0 
+6659-56-451-9068-67613;1493566354204;0.0 
+6659-56-451-9068-67613;1493566354704;1714.2857142857142 
+6659-56-451-9068-67613;1493566355204;3294.1176470588234 
+6659-56-451-9068-67613;1493566355704;1680.0 
+6659-56-451-9068-67613;1493566356205;0.0 
+6659-56-451-9068-67613;1493566356705;3294.1176470588234 
+6659-56-451-9068-67613;1493566357205;3294.1176470588234 
+6659-56-451-9068-67613;1493566357705;0.0 
+6659-56-451-9068-67613;1493566358204;1714.2857142857142 
+6659-56-451-9068-67613;1493566358704;0.0 
+6659-56-451-9068-67613;1493566359204;0.0 
+6659-56-451-9068-67613;1493566359704;1714.2857142857142 
+6659-56-451-9068-67613;1493566360205;1714.2857142857142 
+6659-56-451-9068-67613;1493566360705;0.0 
+6659-56-451-9068-67613;1493566361205;0.0 
+6659-56-451-9068-67613;1493566361705;0.0 
+6659-56-451-9068-67613;1493566362195;0.0 
+6659-56-451-9068-67613;1493566362694;0.0 
+6659-56-451-9068-67613;1493566363194;0.0 
+6659-56-451-9068-67613;1493566363694;1680.0 
+6659-56-451-9068-67613;1493566364194;0.0 
+6659-56-451-9068-67613;1493566364695;0.0 
+6659-56-451-9068-67613;1493566365195;0.0 
+6659-56-451-9068-67613;1493566365695;1680.0 
+6659-56-451-9068-67613;1493566366194;1680.0 
+6659-56-451-9068-67613;1493566366694;0.0 
+6659-56-451-9068-67613;1493566367194;0.0 
+6659-56-451-9068-67613;1493566367694;1647.0588235294117 
+6659-56-451-9068-67613;1493566368194;0.0 
+6659-56-451-9068-67613;1493566368695;0.0 
+6659-56-451-9068-67613;1493566369195;1680.0 
+6659-56-451-9068-67613;1493566369694;0.0 
+6659-56-451-9068-67613;1493566370194;1680.0 
+6659-56-451-9068-67613;1493566370694;0.0 
+6659-56-451-9068-67613;1493566371194;0.0 
+6659-56-451-9068-67613;1493566371695;1680.0 
+6659-56-451-9068-67613;1493566372195;1680.0 
+6659-56-451-9068-67613;1493566372704;0.0 
+6659-56-451-9068-67613;1493566373204;0.0 
+6659-56-451-9068-67613;1493566373694;0.0 
+6659-56-451-9068-67613;1493566374194;1680.0 
+6659-56-451-9068-67613;1493566374695;0.0 
+6659-56-451-9068-67613;1493566375194;0.0 
+6659-56-451-9068-67613;1493566375694;1680.0 
+6659-56-451-9068-67613;1493566376195;0.0 
+6659-56-451-9068-67613;1493566376694;0.0 
+6659-56-451-9068-67613;1493566377194;1680.0 
+6659-56-451-9068-67613;1493566377695;0.0 
+6659-56-451-9068-67613;1493566378194;0.0 
+6659-56-451-9068-67613;1493566378694;0.0 
+6659-56-451-9068-67613;1493566379194;0.0 
+6659-56-451-9068-67613;1493566379695;0.0 
+6659-56-451-9068-67613;1493566380195;1680.0 
+6659-56-451-9068-67613;1493566380694;0.0 
+6659-56-451-9068-67613;1493566381194;0.0 
+6659-56-451-9068-67613;1493566381694;0.0 
+6659-56-451-9068-67613;1493566382195;0.0 
+6659-56-451-9068-67613;1493566382695;1647.0588235294117 
+6659-56-451-9068-67613;1493566383195;0.0 
+6659-56-451-9068-67613;1493566383695;0.0 
+6659-56-451-9068-67613;1493566384194;1680.0 
+6659-56-451-9068-67613;1493566384695;0.0 
+6659-56-451-9068-67613;1493566385195;1680.0 
+6659-56-451-9068-67613;1493566385694;1680.0 
+6659-56-451-9068-67613;1493566386194;0.0 
+6659-56-451-9068-67613;1493566386695;0.0 
+6659-56-451-9068-67613;1493566387195;0.0 
+6659-56-451-9068-67613;1493566387694;0.0 
+6659-56-451-9068-67613;1493566388194;0.0 
+6659-56-451-9068-67613;1493566388695;0.0 
+6659-56-451-9068-67613;1493566389194;0.0 
+6659-56-451-9068-67613;1493566389694;0.0 
+6659-56-451-9068-67613;1493566390195;0.0 
+6659-56-451-9068-67613;1493566390695;0.0 
+6659-56-451-9068-67613;1493566391195;1680.0 
+6659-56-451-9068-67613;1493566391694;0.0 
+6659-56-451-9068-67613;1493566392195;0.0 
+6659-56-451-9068-67613;1493566392694;0.0 
+6659-56-451-9068-67613;1493566393195;0.0 
+6659-56-451-9068-67613;1493566393694;0.0 
+6659-56-451-9068-67613;1493566394194;0.0 
+6659-56-451-9068-67613;1493566394695;1680.0 
+6659-56-451-9068-67613;1493566395194;0.0 
+6659-56-451-9068-67613;1493566395695;1680.0 
+6659-56-451-9068-67613;1493566396194;0.0 
+6659-56-451-9068-67613;1493566396695;1647.0588235294117 
+6659-56-451-9068-67613;1493566397194;1680.0 
+6659-56-451-9068-67613;1493566397694;0.0 
+6659-56-451-9068-67613;1493566398194;0.0 
+6659-56-451-9068-67613;1493566398694;0.0 
+6659-56-451-9068-67613;1493566399194;0.0 
+6659-56-451-9068-67613;1493566399694;0.0 
+6659-56-451-9068-67613;1493566400194;0.0 
+6659-56-451-9068-67613;1493566400694;0.0 
+6659-56-451-9068-67613;1493566401194;0.0 
+6659-56-451-9068-67613;1493566401694;3294.1176470588234 
+6659-56-451-9068-67613;1493566402194;0.0 
+6659-56-451-9068-67613;1493566402694;0.0 
+6659-56-451-9068-67613;1493566403194;1680.0 
+6659-56-451-9068-67613;1493566403695;0.0 
+6659-56-451-9068-67613;1493566404194;0.0 
+6659-56-451-9068-67613;1493566404694;0.0 
+6659-56-451-9068-67613;1493566405195;0.0 
+6659-56-451-9068-67613;1493566405695;0.0 
+6659-56-451-9068-67613;1493566406194;0.0 
+6659-56-451-9068-67613;1493566406695;1714.2857142857142 
+6659-56-451-9068-67613;1493566407194;0.0 
+6659-56-451-9068-67613;1493566407694;0.0 
+6659-56-451-9068-67613;1493566408195;0.0 
+6659-56-451-9068-67613;1493566408695;0.0 
+6659-56-451-9068-67613;1493566409195;0.0 
+6659-56-451-9068-67613;1493566409694;1680.0 
+6659-56-451-9068-67613;1493566410194;0.0 
+6659-56-451-9068-67613;1493566410694;0.0 
+6659-56-451-9068-67613;1493566411194;0.0 
+6659-56-451-9068-67613;1493566411694;0.0 
+6659-56-451-9068-67613;1493566412195;0.0 
+6659-56-451-9068-67613;1493566412695;1680.0 
+6659-56-451-9068-67613;1493566413195;0.0 
+6659-56-451-9068-67613;1493566413694;0.0 
+6659-56-451-9068-67613;1493566414194;0.0 
+6659-56-451-9068-67613;1493566414695;0.0 
+6659-56-451-9068-67613;1493566415194;0.0 
+6659-56-451-9068-67613;1493566415694;0.0 
+6659-56-451-9068-67613;1493566416195;1714.2857142857142 
+6659-56-451-9068-67613;1493566416695;0.0 
+6659-56-451-9068-67613;1493566417194;5040.0 
+6659-56-451-9068-67613;1493566417704;0.0 
+6659-56-451-9068-67613;1493566418194;0.0 
+6659-56-451-9068-67613;1493566418695;0.0 
+6659-56-451-9068-67613;1493566419194;1680.0 
+6659-56-451-9068-67613;1493566419694;0.0 
+6659-56-451-9068-67613;1493566420195;1647.0588235294117 
+6659-56-451-9068-67613;1493566420694;0.0 
+6659-56-451-9068-67613;1493566421194;0.0 
+6659-56-451-9068-67613;1493566421695;0.0 
+6659-56-451-9068-67613;1493566422194;0.0 
+6659-56-451-9068-67613;1493566422694;0.0 
+6659-56-451-9068-67613;1493566423194;0.0 
+6659-56-451-9068-67613;1493566423694;0.0 
+6659-56-451-9068-67613;1493566424194;1714.2857142857142 
+6659-56-451-9068-67613;1493566424695;0.0 
+6659-56-451-9068-67613;1493566425194;0.0 
+6659-56-451-9068-67613;1493566425695;0.0 
+6659-56-451-9068-67613;1493566426194;1680.0 
+6659-56-451-9068-67613;1493566426694;0.0 
+6659-56-451-9068-67613;1493566427195;0.0 
+6659-56-451-9068-67613;1493566427695;0.0 
+6659-56-451-9068-67613;1493566428194;0.0 
+6659-56-451-9068-67613;1493566428695;0.0 
+6659-56-451-9068-67613;1493566429194;0.0 
+6659-56-451-9068-67613;1493566429695;0.0 
+6659-56-451-9068-67613;1493566430194;1647.0588235294117 
+6659-56-451-9068-67613;1493566430695;1680.0 
+6659-56-451-9068-67613;1493566431195;1680.0 
+6659-56-451-9068-67613;1493566431694;1680.0 
+6659-56-451-9068-67613;1493566432194;0.0 
+6659-56-451-9068-67613;1493566432694;0.0 
+6659-56-451-9068-67613;1493566433195;0.0 
+6659-56-451-9068-67613;1493566433694;0.0 
+6659-56-451-9068-67613;1493566434194;0.0 
+6659-56-451-9068-67613;1493566434694;1647.0588235294117 
+6659-56-451-9068-67613;1493566435205;0.0 
+6659-56-451-9068-67613;1493566435705;1714.2857142857142 
+6659-56-451-9068-67613;1493566436204;0.0 
+6659-56-451-9068-67613;1493566436704;0.0 
+6659-56-451-9068-67613;1493566437194;0.0 
+6659-56-451-9068-67613;1493566437694;0.0 
+6659-56-451-9068-67613;1493566438194;1647.0588235294117 
+6659-56-451-9068-67613;1493566438695;0.0 
+6659-56-451-9068-67613;1493566439194;0.0 
+6659-56-451-9068-67613;1493566439695;0.0 
+6659-56-451-9068-67613;1493566440194;0.0 
+6659-56-451-9068-67613;1493566440695;1680.0 
+6659-56-451-9068-67613;1493566441194;0.0 
+6659-56-451-9068-67613;1493566441694;0.0 
+6659-56-451-9068-67613;1493566442195;0.0 
+6659-56-451-9068-67613;1493566442694;0.0 
+6659-56-451-9068-67613;1493566443195;0.0 
+6659-56-451-9068-67613;1493566443694;0.0 
+6659-56-451-9068-67613;1493566444195;0.0 
+6659-56-451-9068-67613;1493566444695;1714.2857142857142 
+6659-56-451-9068-67613;1493566445195;0.0 
+6659-56-451-9068-67613;1493566445694;0.0 
+6659-56-451-9068-67613;1493566446194;1680.0 
+6659-56-451-9068-67613;1493566446694;0.0 
+6659-56-451-9068-67613;1493566447194;0.0 
+6659-56-451-9068-67613;1493566447694;1680.0 
+6659-56-451-9068-67613;1493566448194;0.0 
+6659-56-451-9068-67613;1493566448694;0.0 
+6659-56-451-9068-67613;1493566449194;1680.0 
+6659-56-451-9068-67613;1493566449694;0.0 
+6659-56-451-9068-67613;1493566450195;0.0 
+6659-56-451-9068-67613;1493566450694;0.0 
+6659-56-451-9068-67613;1493566451194;0.0 
+6659-56-451-9068-67613;1493566451694;3500.0 
+6659-56-451-9068-67613;1493566452195;0.0 
+6659-56-451-9068-67613;1493566452695;0.0 
+6659-56-451-9068-67613;1493566453194;0.0 
+6659-56-451-9068-67613;1493566453695;0.0 
+6659-56-451-9068-67613;1493566454195;3294.1176470588234 
+6659-56-451-9068-67613;1493566454694;0.0 
+6659-56-451-9068-67613;1493566455194;0.0 
+6659-56-451-9068-67613;1493566455694;0.0 
+6659-56-451-9068-67613;1493566456195;0.0 
+6659-56-451-9068-67613;1493566456694;1714.2857142857142 
+6659-56-451-9068-67613;1493566457195;0.0 
+6659-56-451-9068-67613;1493566457695;1680.0 
+6659-56-451-9068-67613;1493566458194;0.0 
+6659-56-451-9068-67613;1493566458694;0.0 
+6659-56-451-9068-67613;1493566459195;1647.0588235294117 
+6659-56-451-9068-67613;1493566459694;0.0 
+6659-56-451-9068-67613;1493566460194;0.0 
+6659-56-451-9068-67613;1493566460694;0.0 
+6659-56-451-9068-67613;1493566461194;0.0 
+6659-56-451-9068-67613;1493566461694;0.0 
+6659-56-451-9068-67613;1493566462195;0.0 
+6659-56-451-9068-67613;1493566462694;0.0 
+6659-56-451-9068-67613;1493566463194;0.0 
+6659-56-451-9068-67613;1493566463694;0.0 
+6659-56-451-9068-67613;1493566464194;1647.0588235294117 
+6659-56-451-9068-67613;1493566464694;0.0 
+6659-56-451-9068-67613;1493566465195;0.0 
+6659-56-451-9068-67613;1493566465694;0.0 
+6659-56-451-9068-67613;1493566466195;0.0 
+6659-56-451-9068-67613;1493566466695;1680.0 
+6659-56-451-9068-67613;1493566467194;0.0 
+6659-56-451-9068-67613;1493566467695;0.0 
+6659-56-451-9068-67613;1493566468194;1647.0588235294117 
+6659-56-451-9068-67613;1493566468695;0.0 
+6659-56-451-9068-67613;1493566469194;0.0 
+6659-56-451-9068-67613;1493566469695;0.0 
+6659-56-451-9068-67613;1493566470204;0.0 
+6659-56-451-9068-67613;1493566470704;0.0 
+6659-56-451-9068-67613;1493566471205;1680.0 
+6659-56-451-9068-67613;1493566471704;3360.0 
+6659-56-451-9068-67613;1493566472204;0.0 
+6659-56-451-9068-67613;1493566472704;0.0 
+6659-56-451-9068-67613;1493566473205;0.0 
+6659-56-451-9068-67613;1493566473704;0.0 
+6659-56-451-9068-67613;1493566474204;0.0 
+6659-56-451-9068-67613;1493566474704;0.0 
+6659-56-451-9068-67613;1493566475205;0.0 
+6659-56-451-9068-67613;1493566475705;0.0 
+6659-56-451-9068-67613;1493566476204;0.0 
+6659-56-451-9068-67613;1493566476704;0.0 
+6659-56-451-9068-67613;1493566477204;1680.0 
+6659-56-451-9068-67613;1493566477704;0.0 
+6659-56-451-9068-67613;1493566478204;1647.0588235294117 
+6659-56-451-9068-67613;1493566478705;0.0 
+6659-56-451-9068-67613;1493566479205;0.0 
+6659-56-451-9068-67613;1493566479704;0.0 
+6659-56-451-9068-67613;1493566480204;0.0 
+6659-56-451-9068-67613;1493566480704;0.0 
+6659-56-451-9068-67613;1493566481204;0.0 
+6659-56-451-9068-67613;1493566481705;1680.0 
+6659-56-451-9068-67613;1493566482205;0.0 
+6659-56-451-9068-67613;1493566482704;0.0 
+6659-56-451-9068-67613;1493566483204;0.0 
+6659-56-451-9068-67613;1493566483704;0.0 
+6659-56-451-9068-67613;1493566484204;0.0 
+6659-56-451-9068-67613;1493566484705;0.0 
+6659-56-451-9068-67613;1493566485204;0.0 
+6659-56-451-9068-67613;1493566485704;0.0 
+6659-56-451-9068-67613;1493566486205;0.0 
+6659-56-451-9068-67613;1493566486704;1680.0 
+6659-56-451-9068-67613;1493566487204;0.0 
+6659-56-451-9068-67613;1493566487704;0.0 
+6659-56-451-9068-67613;1493566488204;0.0 
+6659-56-451-9068-67613;1493566488704;1680.0 
+6659-56-451-9068-67613;1493566489204;0.0 
+6659-56-451-9068-67613;1493566489704;0.0 
+6659-56-451-9068-67613;1493566490204;0.0 
+6659-56-451-9068-67613;1493566490705;0.0 
+6659-56-451-9068-67613;1493566491204;0.0 
+6659-56-451-9068-67613;1493566491704;0.0 
+6659-56-451-9068-67613;1493566492205;0.0 
+6659-56-451-9068-67613;1493566492704;0.0 
+6659-56-451-9068-67613;1493566493205;0.0 
+6659-56-451-9068-67613;1493566493704;0.0 
+6659-56-451-9068-67613;1493566494204;0.0 
+6659-56-451-9068-67613;1493566494705;0.0 
+6659-56-451-9068-67613;1493566495204;0.0 
+6659-56-451-9068-67613;1493566495704;0.0 
+6659-56-451-9068-67613;1493566496205;0.0 
+6659-56-451-9068-67613;1493566496704;5142.857142857142 
+6659-56-451-9068-67613;1493566497204;0.0 
+6659-56-451-9068-67613;1493566497704;0.0 
+6659-56-451-9068-67613;1493566498204;0.0 
+6659-56-451-9068-67613;1493566498705;0.0 
+6659-56-451-9068-67613;1493566499205;1680.0 
+6659-56-451-9068-67613;1493566499705;1680.0 
+6659-56-451-9068-67613;1493566500204;0.0 
+6659-56-451-9068-67613;1493566500705;0.0 
+6659-56-451-9068-67613;1493566501194;0.0 
+6659-56-451-9068-67613;1493566501695;0.0 
+6659-56-451-9068-67613;1493566502194;0.0 
+6659-56-451-9068-67613;1493566502694;0.0 
+6659-56-451-9068-67613;1493566503195;0.0 
+6659-56-451-9068-67613;1493566503695;0.0 
+6659-56-451-9068-67613;1493566504194;0.0 
+6659-56-451-9068-67613;1493566504704;0.0 
+6659-56-451-9068-67613;1493566505205;0.0 
+6659-56-451-9068-67613;1493566505704;1680.0 
+6659-56-451-9068-67613;1493566506204;0.0 
+6659-56-451-9068-67613;1493566506704;0.0 
+6659-56-451-9068-67613;1493566507204;0.0 
+6659-56-451-9068-67613;1493566507705;0.0 
+6659-56-451-9068-67613;1493566508204;0.0 
+6659-56-451-9068-67613;1493566508704;0.0 
+6659-56-451-9068-67613;1493566509205;0.0 
+6659-56-451-9068-67613;1493566509704;0.0 
+6659-56-451-9068-67613;1493566510205;0.0 
+6659-56-451-9068-67613;1493566510705;0.0 
+6659-56-451-9068-67613;1493566511205;0.0 
+6659-56-451-9068-67613;1493566511704;0.0 
+6659-56-451-9068-67613;1493566512204;0.0 
+6659-56-451-9068-67613;1493566512705;0.0 
+6659-56-451-9068-67613;1493566513204;0.0 
+6659-56-451-9068-67613;1493566513705;0.0 
+6659-56-451-9068-67613;1493566514204;0.0 
+6659-56-451-9068-67613;1493566514705;0.0 
+6659-56-451-9068-67613;1493566515204;1680.0 
+6659-56-451-9068-67613;1493566515704;1680.0 
+6659-56-451-9068-67613;1493566516194;0.0 
+6659-56-451-9068-67613;1493566516695;0.0 
+6659-56-451-9068-67613;1493566517194;0.0 
+6659-56-451-9068-67613;1493566517695;0.0 
+6659-56-451-9068-67613;1493566518195;0.0 
+6659-56-451-9068-67613;1493566518694;0.0 
+6659-56-451-9068-67613;1493566519195;0.0 
+6659-56-451-9068-67613;1493566519705;0.0 
+6659-56-451-9068-67613;1493566520204;0.0 
+6659-56-451-9068-67613;1493566520704;0.0 
+6659-56-451-9068-67613;1493566521205;0.0 
+6659-56-451-9068-67613;1493566521704;0.0 
+6659-56-451-9068-67613;1493566522204;0.0 

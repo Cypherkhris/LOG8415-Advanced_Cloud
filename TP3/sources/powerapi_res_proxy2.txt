@@ -1,462 +1,461 @@
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563621172;targets=All;devices=cpu;power=84000.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563621675;targets=All;devices=cpu;power=857.1428571428571 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563622185;targets=All;devices=cpu;power=5040.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563622684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563623185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563623685;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563624184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563624685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563625185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563625685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563626184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563626685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563627185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563627685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563628185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563628685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563629185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563629685;targets=All;devices=cpu;power=2495.0495049504952 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563630185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563630684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563631185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563631684;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563632185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563632685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563633185;targets=All;devices=cpu;power=1680.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563633684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563634185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563634685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563635185;targets=All;devices=cpu;power=1680.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563635684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563636185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563636685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563637185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563637685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563638185;targets=All;devices=cpu;power=2470.5882352941176 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563638685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563639185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563639685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563640185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563640685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563641185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563641685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563642185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563642685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563643185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563643684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563644185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563644685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563645184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563645685;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563646185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563646685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563647185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563647675;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563648185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563648685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563649185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563649684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563650185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563650685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563651175;targets=All;devices=cpu;power=857.1428571428571 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563651685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563652185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563652685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563653185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563653685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563654185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563654685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563655184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563655685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563656185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563656684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563657185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563657685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563658175;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563658685;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563659184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563659685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563660185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563660685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563661184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563661685;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563662185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563662685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563663185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563663684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563664185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563664684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563665185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563665684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563666185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563666684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563667185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563667685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563668185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563668685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563669185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563669685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563670184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563670685;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563671185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563671684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563672185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563672684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563673175;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563673685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563674185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563674684;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563675185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563675685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563676185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563676684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563677185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563677685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563678184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563678685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563679184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563679685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563680185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563680685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563681185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563681685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563682185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563682684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563683185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563683684;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563684185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563684686;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563685185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563685685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563686185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563686684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563687185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563687685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563688185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563688684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563689184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563689685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563690185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563690684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563691185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563691684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563692185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563692685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563693185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563693685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563694185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563694685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563695185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563695685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563696185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563696685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563697185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563697684;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563698185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563698684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563699185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563699684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563700185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563700685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563701184;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563701685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563702184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563702685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563703185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563703685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563704185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563704685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563705185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563705685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563706185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563706684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563707185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563707685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563708185;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563708684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563709185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563709685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563710185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563710685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563711184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563711685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563712185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563712686;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563713174;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563713685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563714185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563714684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563715184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563715685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563716184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563716685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563717185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563717685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563718185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563718685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563719185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563719685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563720185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563720685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563721185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563721685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563722185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563722685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563723185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563723684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563724185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563724685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563725185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563725685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563726185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563726684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563727185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563727685;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563728185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563728685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563729185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563729685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563730185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563730685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563731185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563731685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563732184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563732685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563733185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563733685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563734185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563734684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563735185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563735685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563736184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563736687;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563737185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563737685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563738185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563738685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563739185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563739684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563740184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563740685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563741185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563741685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563742185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563742684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563743185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563743685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563744185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563744685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563745185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563745684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563746185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563746684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563747185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563747685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563748185;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563748685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563749175;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563749684;targets=All;devices=cpu;power=815.5339805825242 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563750185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563750675;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563751185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563751674;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563752185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563752685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563753184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563753685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563754185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563754685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563755184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563755685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563756185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563756685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563757184;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563757685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563758185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563758685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563759184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563759685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563760185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563760684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563761185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563761685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563762184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563762685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563763185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563763684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563764185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563764685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563765185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563765685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563766185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563766684;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563767185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563767685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563768185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563768685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563769184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563769685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563770184;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563770685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563771185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563771684;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563772185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563772685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563773185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563773685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563774185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563774685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563775184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563775685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563776185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563776684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563777185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563777685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563778185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563778684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563779185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563779685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563780185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563780685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563781184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563781685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563782185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563782685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563783184;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563783685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563784185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563784684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563785184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563785685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563786185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563786685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563787185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563787685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563788185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563788684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563789185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563789684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563790185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563790684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563791185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563791685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563792185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563792684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563793185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563793685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563794185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563794684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563795185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563795684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563796185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563796685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563797185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563797685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563798185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563798685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563799184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563799685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563800185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563800684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563801185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563801685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563802185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563802685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563803185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563803684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563804185;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563804685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563805185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563805685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563806184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563806685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563807185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563807685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563808184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563808685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563809185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563809685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563810185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563810685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563811185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563811685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563812185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563812685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563813175;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563813684;targets=All;devices=cpu;power=1631.0679611650485 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563814185;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563814685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563815185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563815685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563816184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563816685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563817185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563817684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563818185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563818685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563819185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563819684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563820185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563820685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563821184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563821685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563822185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563822685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563823184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563823685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563824185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563824685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563825184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563825685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563826185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563826685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563827184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563827685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563828185;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563828685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563829185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563829684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563830184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563830685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563831185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563831685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563832185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563832685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563833184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563833685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563834185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563834685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563835184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563835685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563836184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563836685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563837185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563837685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563838185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563838685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563839185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563839685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563840184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563840685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563841185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563841685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563842185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563842684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563843185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563843684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563844185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563844685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563845184;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563845685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563846185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563846685;targets=All;devices=cpu;power=840.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563847185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563847685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563848185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563848685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563849185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563849684;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563850185;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563850685;targets=All;devices=cpu;power=0.0 mW
-muid=0c1a337e-eb52-4f93-95e8-e919a5c1a0b2;timestamp=1493563851185;targets=All;devices=cpu;power=0.0 mW
-PowerAPI is shutting down ...
+01337-52-493-958-9195102;1493563621172;84000.0 
+01337-52-493-958-9195102;1493563621675;857.1428571428571 
+01337-52-493-958-9195102;1493563622185;5040.0 
+01337-52-493-958-9195102;1493563622684;0.0 
+01337-52-493-958-9195102;1493563623185;0.0 
+01337-52-493-958-9195102;1493563623685;1663.3663366336632 
+01337-52-493-958-9195102;1493563624184;0.0 
+01337-52-493-958-9195102;1493563624685;840.0 
+01337-52-493-958-9195102;1493563625185;0.0 
+01337-52-493-958-9195102;1493563625685;0.0 
+01337-52-493-958-9195102;1493563626184;0.0 
+01337-52-493-958-9195102;1493563626685;0.0 
+01337-52-493-958-9195102;1493563627185;0.0 
+01337-52-493-958-9195102;1493563627685;0.0 
+01337-52-493-958-9195102;1493563628185;0.0 
+01337-52-493-958-9195102;1493563628685;0.0 
+01337-52-493-958-9195102;1493563629185;0.0 
+01337-52-493-958-9195102;1493563629685;2495.0495049504952 
+01337-52-493-958-9195102;1493563630185;0.0 
+01337-52-493-958-9195102;1493563630684;0.0 
+01337-52-493-958-9195102;1493563631185;0.0 
+01337-52-493-958-9195102;1493563631684;848.4848484848485 
+01337-52-493-958-9195102;1493563632185;0.0 
+01337-52-493-958-9195102;1493563632685;0.0 
+01337-52-493-958-9195102;1493563633185;1680.0 
+01337-52-493-958-9195102;1493563633684;0.0 
+01337-52-493-958-9195102;1493563634185;0.0 
+01337-52-493-958-9195102;1493563634685;0.0 
+01337-52-493-958-9195102;1493563635185;1680.0 
+01337-52-493-958-9195102;1493563635684;0.0 
+01337-52-493-958-9195102;1493563636185;0.0 
+01337-52-493-958-9195102;1493563636685;0.0 
+01337-52-493-958-9195102;1493563637185;0.0 
+01337-52-493-958-9195102;1493563637685;0.0 
+01337-52-493-958-9195102;1493563638185;2470.5882352941176 
+01337-52-493-958-9195102;1493563638685;0.0 
+01337-52-493-958-9195102;1493563639185;0.0 
+01337-52-493-958-9195102;1493563639685;0.0 
+01337-52-493-958-9195102;1493563640185;0.0 
+01337-52-493-958-9195102;1493563640685;0.0 
+01337-52-493-958-9195102;1493563641185;0.0 
+01337-52-493-958-9195102;1493563641685;0.0 
+01337-52-493-958-9195102;1493563642185;0.0 
+01337-52-493-958-9195102;1493563642685;840.0 
+01337-52-493-958-9195102;1493563643185;0.0 
+01337-52-493-958-9195102;1493563643684;0.0 
+01337-52-493-958-9195102;1493563644185;0.0 
+01337-52-493-958-9195102;1493563644685;0.0 
+01337-52-493-958-9195102;1493563645184;0.0 
+01337-52-493-958-9195102;1493563645685;831.6831683168316 
+01337-52-493-958-9195102;1493563646185;0.0 
+01337-52-493-958-9195102;1493563646685;840.0 
+01337-52-493-958-9195102;1493563647185;0.0 
+01337-52-493-958-9195102;1493563647675;0.0 
+01337-52-493-958-9195102;1493563648185;0.0 
+01337-52-493-958-9195102;1493563648685;840.0 
+01337-52-493-958-9195102;1493563649185;0.0 
+01337-52-493-958-9195102;1493563649684;0.0 
+01337-52-493-958-9195102;1493563650185;0.0 
+01337-52-493-958-9195102;1493563650685;0.0 
+01337-52-493-958-9195102;1493563651175;857.1428571428571 
+01337-52-493-958-9195102;1493563651685;0.0 
+01337-52-493-958-9195102;1493563652185;831.6831683168316 
+01337-52-493-958-9195102;1493563652685;0.0 
+01337-52-493-958-9195102;1493563653185;0.0 
+01337-52-493-958-9195102;1493563653685;0.0 
+01337-52-493-958-9195102;1493563654185;840.0 
+01337-52-493-958-9195102;1493563654685;840.0 
+01337-52-493-958-9195102;1493563655184;0.0 
+01337-52-493-958-9195102;1493563655685;0.0 
+01337-52-493-958-9195102;1493563656185;0.0 
+01337-52-493-958-9195102;1493563656684;0.0 
+01337-52-493-958-9195102;1493563657185;0.0 
+01337-52-493-958-9195102;1493563657685;0.0 
+01337-52-493-958-9195102;1493563658175;848.4848484848485 
+01337-52-493-958-9195102;1493563658685;823.5294117647059 
+01337-52-493-958-9195102;1493563659184;0.0 
+01337-52-493-958-9195102;1493563659685;0.0 
+01337-52-493-958-9195102;1493563660185;0.0 
+01337-52-493-958-9195102;1493563660685;0.0 
+01337-52-493-958-9195102;1493563661184;0.0 
+01337-52-493-958-9195102;1493563661685;1663.3663366336632 
+01337-52-493-958-9195102;1493563662185;0.0 
+01337-52-493-958-9195102;1493563662685;0.0 
+01337-52-493-958-9195102;1493563663185;0.0 
+01337-52-493-958-9195102;1493563663684;0.0 
+01337-52-493-958-9195102;1493563664185;0.0 
+01337-52-493-958-9195102;1493563664684;0.0 
+01337-52-493-958-9195102;1493563665185;0.0 
+01337-52-493-958-9195102;1493563665684;0.0 
+01337-52-493-958-9195102;1493563666185;0.0 
+01337-52-493-958-9195102;1493563666684;0.0 
+01337-52-493-958-9195102;1493563667185;0.0 
+01337-52-493-958-9195102;1493563667685;0.0 
+01337-52-493-958-9195102;1493563668185;840.0 
+01337-52-493-958-9195102;1493563668685;0.0 
+01337-52-493-958-9195102;1493563669185;0.0 
+01337-52-493-958-9195102;1493563669685;0.0 
+01337-52-493-958-9195102;1493563670184;0.0 
+01337-52-493-958-9195102;1493563670685;831.6831683168316 
+01337-52-493-958-9195102;1493563671185;0.0 
+01337-52-493-958-9195102;1493563671684;0.0 
+01337-52-493-958-9195102;1493563672185;831.6831683168316 
+01337-52-493-958-9195102;1493563672684;0.0 
+01337-52-493-958-9195102;1493563673175;0.0 
+01337-52-493-958-9195102;1493563673685;0.0 
+01337-52-493-958-9195102;1493563674185;0.0 
+01337-52-493-958-9195102;1493563674684;1663.3663366336632 
+01337-52-493-958-9195102;1493563675185;0.0 
+01337-52-493-958-9195102;1493563675685;840.0 
+01337-52-493-958-9195102;1493563676185;0.0 
+01337-52-493-958-9195102;1493563676684;0.0 
+01337-52-493-958-9195102;1493563677185;0.0 
+01337-52-493-958-9195102;1493563677685;0.0 
+01337-52-493-958-9195102;1493563678184;0.0 
+01337-52-493-958-9195102;1493563678685;0.0 
+01337-52-493-958-9195102;1493563679184;0.0 
+01337-52-493-958-9195102;1493563679685;0.0 
+01337-52-493-958-9195102;1493563680185;0.0 
+01337-52-493-958-9195102;1493563680685;0.0 
+01337-52-493-958-9195102;1493563681185;840.0 
+01337-52-493-958-9195102;1493563681685;0.0 
+01337-52-493-958-9195102;1493563682185;0.0 
+01337-52-493-958-9195102;1493563682684;0.0 
+01337-52-493-958-9195102;1493563683185;0.0 
+01337-52-493-958-9195102;1493563683684;840.0 
+01337-52-493-958-9195102;1493563684185;0.0 
+01337-52-493-958-9195102;1493563684686;0.0 
+01337-52-493-958-9195102;1493563685185;0.0 
+01337-52-493-958-9195102;1493563685685;0.0 
+01337-52-493-958-9195102;1493563686185;0.0 
+01337-52-493-958-9195102;1493563686684;0.0 
+01337-52-493-958-9195102;1493563687185;0.0 
+01337-52-493-958-9195102;1493563687685;0.0 
+01337-52-493-958-9195102;1493563688185;0.0 
+01337-52-493-958-9195102;1493563688684;0.0 
+01337-52-493-958-9195102;1493563689184;0.0 
+01337-52-493-958-9195102;1493563689685;0.0 
+01337-52-493-958-9195102;1493563690185;0.0 
+01337-52-493-958-9195102;1493563690684;0.0 
+01337-52-493-958-9195102;1493563691185;0.0 
+01337-52-493-958-9195102;1493563691684;0.0 
+01337-52-493-958-9195102;1493563692185;831.6831683168316 
+01337-52-493-958-9195102;1493563692685;840.0 
+01337-52-493-958-9195102;1493563693185;0.0 
+01337-52-493-958-9195102;1493563693685;0.0 
+01337-52-493-958-9195102;1493563694185;0.0 
+01337-52-493-958-9195102;1493563694685;0.0 
+01337-52-493-958-9195102;1493563695185;0.0 
+01337-52-493-958-9195102;1493563695685;0.0 
+01337-52-493-958-9195102;1493563696185;0.0 
+01337-52-493-958-9195102;1493563696685;0.0 
+01337-52-493-958-9195102;1493563697185;0.0 
+01337-52-493-958-9195102;1493563697684;840.0 
+01337-52-493-958-9195102;1493563698185;831.6831683168316 
+01337-52-493-958-9195102;1493563698684;0.0 
+01337-52-493-958-9195102;1493563699185;0.0 
+01337-52-493-958-9195102;1493563699684;0.0 
+01337-52-493-958-9195102;1493563700185;0.0 
+01337-52-493-958-9195102;1493563700685;0.0 
+01337-52-493-958-9195102;1493563701184;831.6831683168316 
+01337-52-493-958-9195102;1493563701685;0.0 
+01337-52-493-958-9195102;1493563702184;0.0 
+01337-52-493-958-9195102;1493563702685;0.0 
+01337-52-493-958-9195102;1493563703185;0.0 
+01337-52-493-958-9195102;1493563703685;0.0 
+01337-52-493-958-9195102;1493563704185;0.0 
+01337-52-493-958-9195102;1493563704685;0.0 
+01337-52-493-958-9195102;1493563705185;0.0 
+01337-52-493-958-9195102;1493563705685;0.0 
+01337-52-493-958-9195102;1493563706185;0.0 
+01337-52-493-958-9195102;1493563706684;0.0 
+01337-52-493-958-9195102;1493563707185;0.0 
+01337-52-493-958-9195102;1493563707685;0.0 
+01337-52-493-958-9195102;1493563708185;1647.0588235294117 
+01337-52-493-958-9195102;1493563708684;0.0 
+01337-52-493-958-9195102;1493563709185;0.0 
+01337-52-493-958-9195102;1493563709685;0.0 
+01337-52-493-958-9195102;1493563710185;0.0 
+01337-52-493-958-9195102;1493563710685;0.0 
+01337-52-493-958-9195102;1493563711184;0.0 
+01337-52-493-958-9195102;1493563711685;0.0 
+01337-52-493-958-9195102;1493563712185;0.0 
+01337-52-493-958-9195102;1493563712686;0.0 
+01337-52-493-958-9195102;1493563713174;0.0 
+01337-52-493-958-9195102;1493563713685;0.0 
+01337-52-493-958-9195102;1493563714185;0.0 
+01337-52-493-958-9195102;1493563714684;0.0 
+01337-52-493-958-9195102;1493563715184;0.0 
+01337-52-493-958-9195102;1493563715685;0.0 
+01337-52-493-958-9195102;1493563716184;0.0 
+01337-52-493-958-9195102;1493563716685;0.0 
+01337-52-493-958-9195102;1493563717185;831.6831683168316 
+01337-52-493-958-9195102;1493563717685;0.0 
+01337-52-493-958-9195102;1493563718185;0.0 
+01337-52-493-958-9195102;1493563718685;840.0 
+01337-52-493-958-9195102;1493563719185;0.0 
+01337-52-493-958-9195102;1493563719685;0.0 
+01337-52-493-958-9195102;1493563720185;0.0 
+01337-52-493-958-9195102;1493563720685;0.0 
+01337-52-493-958-9195102;1493563721185;0.0 
+01337-52-493-958-9195102;1493563721685;0.0 
+01337-52-493-958-9195102;1493563722185;0.0 
+01337-52-493-958-9195102;1493563722685;0.0 
+01337-52-493-958-9195102;1493563723185;831.6831683168316 
+01337-52-493-958-9195102;1493563723684;0.0 
+01337-52-493-958-9195102;1493563724185;0.0 
+01337-52-493-958-9195102;1493563724685;0.0 
+01337-52-493-958-9195102;1493563725185;0.0 
+01337-52-493-958-9195102;1493563725685;0.0 
+01337-52-493-958-9195102;1493563726185;0.0 
+01337-52-493-958-9195102;1493563726684;0.0 
+01337-52-493-958-9195102;1493563727185;0.0 
+01337-52-493-958-9195102;1493563727685;831.6831683168316 
+01337-52-493-958-9195102;1493563728185;840.0 
+01337-52-493-958-9195102;1493563728685;0.0 
+01337-52-493-958-9195102;1493563729185;0.0 
+01337-52-493-958-9195102;1493563729685;0.0 
+01337-52-493-958-9195102;1493563730185;0.0 
+01337-52-493-958-9195102;1493563730685;0.0 
+01337-52-493-958-9195102;1493563731185;0.0 
+01337-52-493-958-9195102;1493563731685;0.0 
+01337-52-493-958-9195102;1493563732184;0.0 
+01337-52-493-958-9195102;1493563732685;0.0 
+01337-52-493-958-9195102;1493563733185;831.6831683168316 
+01337-52-493-958-9195102;1493563733685;0.0 
+01337-52-493-958-9195102;1493563734185;0.0 
+01337-52-493-958-9195102;1493563734684;0.0 
+01337-52-493-958-9195102;1493563735185;0.0 
+01337-52-493-958-9195102;1493563735685;0.0 
+01337-52-493-958-9195102;1493563736184;0.0 
+01337-52-493-958-9195102;1493563736687;0.0 
+01337-52-493-958-9195102;1493563737185;840.0 
+01337-52-493-958-9195102;1493563737685;0.0 
+01337-52-493-958-9195102;1493563738185;831.6831683168316 
+01337-52-493-958-9195102;1493563738685;0.0 
+01337-52-493-958-9195102;1493563739185;831.6831683168316 
+01337-52-493-958-9195102;1493563739684;0.0 
+01337-52-493-958-9195102;1493563740184;0.0 
+01337-52-493-958-9195102;1493563740685;0.0 
+01337-52-493-958-9195102;1493563741185;0.0 
+01337-52-493-958-9195102;1493563741685;0.0 
+01337-52-493-958-9195102;1493563742185;0.0 
+01337-52-493-958-9195102;1493563742684;0.0 
+01337-52-493-958-9195102;1493563743185;0.0 
+01337-52-493-958-9195102;1493563743685;0.0 
+01337-52-493-958-9195102;1493563744185;0.0 
+01337-52-493-958-9195102;1493563744685;0.0 
+01337-52-493-958-9195102;1493563745185;0.0 
+01337-52-493-958-9195102;1493563745684;0.0 
+01337-52-493-958-9195102;1493563746185;0.0 
+01337-52-493-958-9195102;1493563746684;0.0 
+01337-52-493-958-9195102;1493563747185;0.0 
+01337-52-493-958-9195102;1493563747685;0.0 
+01337-52-493-958-9195102;1493563748185;1663.3663366336632 
+01337-52-493-958-9195102;1493563748685;0.0 
+01337-52-493-958-9195102;1493563749175;0.0 
+01337-52-493-958-9195102;1493563749684;815.5339805825242 
+01337-52-493-958-9195102;1493563750185;0.0 
+01337-52-493-958-9195102;1493563750675;0.0 
+01337-52-493-958-9195102;1493563751185;0.0 
+01337-52-493-958-9195102;1493563751674;0.0 
+01337-52-493-958-9195102;1493563752185;0.0 
+01337-52-493-958-9195102;1493563752685;0.0 
+01337-52-493-958-9195102;1493563753184;0.0 
+01337-52-493-958-9195102;1493563753685;0.0 
+01337-52-493-958-9195102;1493563754185;0.0 
+01337-52-493-958-9195102;1493563754685;0.0 
+01337-52-493-958-9195102;1493563755184;0.0 
+01337-52-493-958-9195102;1493563755685;0.0 
+01337-52-493-958-9195102;1493563756185;0.0 
+01337-52-493-958-9195102;1493563756685;0.0 
+01337-52-493-958-9195102;1493563757184;831.6831683168316 
+01337-52-493-958-9195102;1493563757685;0.0 
+01337-52-493-958-9195102;1493563758185;840.0 
+01337-52-493-958-9195102;1493563758685;0.0 
+01337-52-493-958-9195102;1493563759184;0.0 
+01337-52-493-958-9195102;1493563759685;0.0 
+01337-52-493-958-9195102;1493563760185;0.0 
+01337-52-493-958-9195102;1493563760684;0.0 
+01337-52-493-958-9195102;1493563761185;0.0 
+01337-52-493-958-9195102;1493563761685;0.0 
+01337-52-493-958-9195102;1493563762184;0.0 
+01337-52-493-958-9195102;1493563762685;0.0 
+01337-52-493-958-9195102;1493563763185;0.0 
+01337-52-493-958-9195102;1493563763684;0.0 
+01337-52-493-958-9195102;1493563764185;0.0 
+01337-52-493-958-9195102;1493563764685;0.0 
+01337-52-493-958-9195102;1493563765185;0.0 
+01337-52-493-958-9195102;1493563765685;0.0 
+01337-52-493-958-9195102;1493563766185;0.0 
+01337-52-493-958-9195102;1493563766684;831.6831683168316 
+01337-52-493-958-9195102;1493563767185;0.0 
+01337-52-493-958-9195102;1493563767685;0.0 
+01337-52-493-958-9195102;1493563768185;840.0 
+01337-52-493-958-9195102;1493563768685;0.0 
+01337-52-493-958-9195102;1493563769184;0.0 
+01337-52-493-958-9195102;1493563769685;0.0 
+01337-52-493-958-9195102;1493563770184;848.4848484848485 
+01337-52-493-958-9195102;1493563770685;0.0 
+01337-52-493-958-9195102;1493563771185;0.0 
+01337-52-493-958-9195102;1493563771684;840.0 
+01337-52-493-958-9195102;1493563772185;0.0 
+01337-52-493-958-9195102;1493563772685;0.0 
+01337-52-493-958-9195102;1493563773185;840.0 
+01337-52-493-958-9195102;1493563773685;0.0 
+01337-52-493-958-9195102;1493563774185;0.0 
+01337-52-493-958-9195102;1493563774685;0.0 
+01337-52-493-958-9195102;1493563775184;0.0 
+01337-52-493-958-9195102;1493563775685;0.0 
+01337-52-493-958-9195102;1493563776185;0.0 
+01337-52-493-958-9195102;1493563776684;0.0 
+01337-52-493-958-9195102;1493563777185;0.0 
+01337-52-493-958-9195102;1493563777685;0.0 
+01337-52-493-958-9195102;1493563778185;0.0 
+01337-52-493-958-9195102;1493563778684;0.0 
+01337-52-493-958-9195102;1493563779185;0.0 
+01337-52-493-958-9195102;1493563779685;0.0 
+01337-52-493-958-9195102;1493563780185;0.0 
+01337-52-493-958-9195102;1493563780685;0.0 
+01337-52-493-958-9195102;1493563781184;0.0 
+01337-52-493-958-9195102;1493563781685;840.0 
+01337-52-493-958-9195102;1493563782185;0.0 
+01337-52-493-958-9195102;1493563782685;0.0 
+01337-52-493-958-9195102;1493563783184;840.0 
+01337-52-493-958-9195102;1493563783685;0.0 
+01337-52-493-958-9195102;1493563784185;0.0 
+01337-52-493-958-9195102;1493563784684;0.0 
+01337-52-493-958-9195102;1493563785184;0.0 
+01337-52-493-958-9195102;1493563785685;0.0 
+01337-52-493-958-9195102;1493563786185;0.0 
+01337-52-493-958-9195102;1493563786685;840.0 
+01337-52-493-958-9195102;1493563787185;0.0 
+01337-52-493-958-9195102;1493563787685;0.0 
+01337-52-493-958-9195102;1493563788185;0.0 
+01337-52-493-958-9195102;1493563788684;0.0 
+01337-52-493-958-9195102;1493563789185;0.0 
+01337-52-493-958-9195102;1493563789684;0.0 
+01337-52-493-958-9195102;1493563790185;0.0 
+01337-52-493-958-9195102;1493563790684;0.0 
+01337-52-493-958-9195102;1493563791185;0.0 
+01337-52-493-958-9195102;1493563791685;0.0 
+01337-52-493-958-9195102;1493563792185;0.0 
+01337-52-493-958-9195102;1493563792684;0.0 
+01337-52-493-958-9195102;1493563793185;0.0 
+01337-52-493-958-9195102;1493563793685;0.0 
+01337-52-493-958-9195102;1493563794185;0.0 
+01337-52-493-958-9195102;1493563794684;0.0 
+01337-52-493-958-9195102;1493563795185;831.6831683168316 
+01337-52-493-958-9195102;1493563795684;0.0 
+01337-52-493-958-9195102;1493563796185;0.0 
+01337-52-493-958-9195102;1493563796685;840.0 
+01337-52-493-958-9195102;1493563797185;0.0 
+01337-52-493-958-9195102;1493563797685;0.0 
+01337-52-493-958-9195102;1493563798185;0.0 
+01337-52-493-958-9195102;1493563798685;0.0 
+01337-52-493-958-9195102;1493563799184;0.0 
+01337-52-493-958-9195102;1493563799685;0.0 
+01337-52-493-958-9195102;1493563800185;0.0 
+01337-52-493-958-9195102;1493563800684;0.0 
+01337-52-493-958-9195102;1493563801185;0.0 
+01337-52-493-958-9195102;1493563801685;0.0 
+01337-52-493-958-9195102;1493563802185;0.0 
+01337-52-493-958-9195102;1493563802685;0.0 
+01337-52-493-958-9195102;1493563803185;0.0 
+01337-52-493-958-9195102;1493563803684;0.0 
+01337-52-493-958-9195102;1493563804185;831.6831683168316 
+01337-52-493-958-9195102;1493563804685;0.0 
+01337-52-493-958-9195102;1493563805185;0.0 
+01337-52-493-958-9195102;1493563805685;0.0 
+01337-52-493-958-9195102;1493563806184;0.0 
+01337-52-493-958-9195102;1493563806685;0.0 
+01337-52-493-958-9195102;1493563807185;0.0 
+01337-52-493-958-9195102;1493563807685;0.0 
+01337-52-493-958-9195102;1493563808184;0.0 
+01337-52-493-958-9195102;1493563808685;0.0 
+01337-52-493-958-9195102;1493563809185;0.0 
+01337-52-493-958-9195102;1493563809685;0.0 
+01337-52-493-958-9195102;1493563810185;0.0 
+01337-52-493-958-9195102;1493563810685;0.0 
+01337-52-493-958-9195102;1493563811185;0.0 
+01337-52-493-958-9195102;1493563811685;840.0 
+01337-52-493-958-9195102;1493563812185;0.0 
+01337-52-493-958-9195102;1493563812685;0.0 
+01337-52-493-958-9195102;1493563813175;0.0 
+01337-52-493-958-9195102;1493563813684;1631.0679611650485 
+01337-52-493-958-9195102;1493563814185;1663.3663366336632 
+01337-52-493-958-9195102;1493563814685;0.0 
+01337-52-493-958-9195102;1493563815185;0.0 
+01337-52-493-958-9195102;1493563815685;0.0 
+01337-52-493-958-9195102;1493563816184;0.0 
+01337-52-493-958-9195102;1493563816685;0.0 
+01337-52-493-958-9195102;1493563817185;0.0 
+01337-52-493-958-9195102;1493563817684;0.0 
+01337-52-493-958-9195102;1493563818185;0.0 
+01337-52-493-958-9195102;1493563818685;0.0 
+01337-52-493-958-9195102;1493563819185;0.0 
+01337-52-493-958-9195102;1493563819684;0.0 
+01337-52-493-958-9195102;1493563820185;0.0 
+01337-52-493-958-9195102;1493563820685;0.0 
+01337-52-493-958-9195102;1493563821184;0.0 
+01337-52-493-958-9195102;1493563821685;0.0 
+01337-52-493-958-9195102;1493563822185;0.0 
+01337-52-493-958-9195102;1493563822685;0.0 
+01337-52-493-958-9195102;1493563823184;0.0 
+01337-52-493-958-9195102;1493563823685;0.0 
+01337-52-493-958-9195102;1493563824185;0.0 
+01337-52-493-958-9195102;1493563824685;0.0 
+01337-52-493-958-9195102;1493563825184;0.0 
+01337-52-493-958-9195102;1493563825685;0.0 
+01337-52-493-958-9195102;1493563826185;0.0 
+01337-52-493-958-9195102;1493563826685;0.0 
+01337-52-493-958-9195102;1493563827184;0.0 
+01337-52-493-958-9195102;1493563827685;0.0 
+01337-52-493-958-9195102;1493563828185;840.0 
+01337-52-493-958-9195102;1493563828685;0.0 
+01337-52-493-958-9195102;1493563829185;0.0 
+01337-52-493-958-9195102;1493563829684;0.0 
+01337-52-493-958-9195102;1493563830184;0.0 
+01337-52-493-958-9195102;1493563830685;0.0 
+01337-52-493-958-9195102;1493563831185;0.0 
+01337-52-493-958-9195102;1493563831685;0.0 
+01337-52-493-958-9195102;1493563832185;0.0 
+01337-52-493-958-9195102;1493563832685;0.0 
+01337-52-493-958-9195102;1493563833184;0.0 
+01337-52-493-958-9195102;1493563833685;0.0 
+01337-52-493-958-9195102;1493563834185;0.0 
+01337-52-493-958-9195102;1493563834685;0.0 
+01337-52-493-958-9195102;1493563835184;0.0 
+01337-52-493-958-9195102;1493563835685;0.0 
+01337-52-493-958-9195102;1493563836184;0.0 
+01337-52-493-958-9195102;1493563836685;0.0 
+01337-52-493-958-9195102;1493563837185;0.0 
+01337-52-493-958-9195102;1493563837685;0.0 
+01337-52-493-958-9195102;1493563838185;0.0 
+01337-52-493-958-9195102;1493563838685;0.0 
+01337-52-493-958-9195102;1493563839185;0.0 
+01337-52-493-958-9195102;1493563839685;0.0 
+01337-52-493-958-9195102;1493563840184;0.0 
+01337-52-493-958-9195102;1493563840685;0.0 
+01337-52-493-958-9195102;1493563841185;0.0 
+01337-52-493-958-9195102;1493563841685;0.0 
+01337-52-493-958-9195102;1493563842185;0.0 
+01337-52-493-958-9195102;1493563842684;0.0 
+01337-52-493-958-9195102;1493563843185;0.0 
+01337-52-493-958-9195102;1493563843684;0.0 
+01337-52-493-958-9195102;1493563844185;0.0 
+01337-52-493-958-9195102;1493563844685;0.0 
+01337-52-493-958-9195102;1493563845184;0.0 
+01337-52-493-958-9195102;1493563845685;0.0 
+01337-52-493-958-9195102;1493563846185;0.0 
+01337-52-493-958-9195102;1493563846685;840.0 
+01337-52-493-958-9195102;1493563847185;0.0 
+01337-52-493-958-9195102;1493563847685;0.0 
+01337-52-493-958-9195102;1493563848185;0.0 
+01337-52-493-958-9195102;1493563848685;0.0 
+01337-52-493-958-9195102;1493563849185;0.0 
+01337-52-493-958-9195102;1493563849684;0.0 
+01337-52-493-958-9195102;1493563850185;0.0 
+01337-52-493-958-9195102;1493563850685;0.0 
+01337-52-493-958-9195102;1493563851185;0.0 

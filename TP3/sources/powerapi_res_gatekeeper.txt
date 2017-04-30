@@ -1,411 +1,410 @@
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563223738;targets=All;devices=cpu;power=84000.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563224242;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563224752;targets=All;devices=cpu;power=4990.0990099009905 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563225252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563225753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563226252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563226752;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563227252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563227752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563228253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563228752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563229252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563229752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563230253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563230743;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563231253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563231752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563232253;targets=All;devices=cpu;power=2520.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563232753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563233252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563233753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563234252;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563234752;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563235253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563235752;targets=All;devices=cpu;power=2520.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563236252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563236752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563237253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563237752;targets=All;devices=cpu;power=1680.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563238253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563238752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563239253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563239752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563240252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563240753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563241252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563241753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563242252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563242753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563243252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563243752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563244252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563244753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563245253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563245753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563246252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563246753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563247252;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563247752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563248253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563248752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563249252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563249753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563250253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563250752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563251253;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563251752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563252252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563252753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563253252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563253752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563254253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563254752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563255252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563255752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563256253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563256752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563257252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563257752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563258252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563258752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563259252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563259752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563260253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563260753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563261253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563261753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563262253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563262752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563263252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563263752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563264252;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563264752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563265252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563265753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563266252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563266752;targets=All;devices=cpu;power=1680.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563267252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563267753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563268252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563268753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563269252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563269752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563270252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563270752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563271253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563271752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563272252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563272752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563273253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563273752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563274252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563274752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563275254;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563275753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563276252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563276753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563277252;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563277753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563278252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563278752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563279252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563279752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563280253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563280752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563281243;targets=All;devices=cpu;power=848.4848484848485 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563281752;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563282252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563282753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563283252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563283753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563284252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563284753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563285253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563285753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563286253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563286752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563287253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563287742;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563288253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563288752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563289252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563289752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563290253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563290752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563291252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563291752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563292252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563292753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563293252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563293752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563294252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563294752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563295252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563295752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563296253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563296752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563297252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563297752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563298252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563298753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563299253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563299752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563300252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563300752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563301253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563301752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563302252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563302752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563303253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563303752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563304252;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563304752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563305252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563305752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563306252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563306752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563307253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563307753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563308252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563308752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563309253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563309752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563310252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563310753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563311252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563311753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563312252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563312753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563313252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563313753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563314253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563314753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563315252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563315752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563316252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563316752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563317252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563317752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563318252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563318752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563319252;targets=All;devices=cpu;power=1680.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563319752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563320253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563320752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563321253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563321753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563322253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563322753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563323253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563323752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563324252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563324752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563325253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563325753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563326252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563326752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563327252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563327752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563328252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563328752;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563329253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563329752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563330252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563330752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563331252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563331752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563332252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563332753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563333252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563333753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563334252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563334752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563335252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563335753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563336252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563336752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563337252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563337753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563338252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563338753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563339252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563339753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563340252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563340752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563341252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563341752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563342252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563342752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563343253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563343752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563344252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563344752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563345252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563345752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563346253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563346752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563347253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563347752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563348252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563348752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563349252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563349753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563350252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563350753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563351242;targets=All;devices=cpu;power=857.1428571428571 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563351742;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563352253;targets=All;devices=cpu;power=823.5294117647059 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563352752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563353242;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563353752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563354242;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563354753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563355252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563355752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563356253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563356752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563357252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563357752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563358252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563358752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563359252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563359752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563360252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563360752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563361252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563361753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563362253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563362753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563363253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563363752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563364253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563364753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563365252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563365752;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563366252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563366752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563367252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563367752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563368252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563368752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563369252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563369752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563370252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563370752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563371252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563371753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563372252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563372753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563373252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563373753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563374252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563374753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563375252;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563375752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563376252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563376753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563377252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563377753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563378252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563378753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563379253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563379752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563380253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563380753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563381253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563381753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563382252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563382752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563383252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563383752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563384252;targets=All;devices=cpu;power=1647.0588235294117 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563384752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563385252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563385753;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563386253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563386752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563387252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563387753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563388252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563388753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563389252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563389752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563390253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563390752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563391253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563391752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563392253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563392752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563393252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563393752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563394253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563394752;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563395253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563395752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563396252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563396752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563397253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563397752;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563398252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563398752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563399253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563399752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563400253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563400752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563401252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563401753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563402253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563402752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563403252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563403753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563404252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563404753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563405253;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563405752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563406252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563406752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563407253;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563407752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563408253;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563408752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563409253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563409752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563410253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563410752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563411252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563411753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563412252;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563412752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563413253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563413752;targets=All;devices=cpu;power=1663.3663366336632 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563414253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563414752;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563415252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563415753;targets=All;devices=cpu;power=831.6831683168316 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563416252;targets=All;devices=cpu;power=840.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563416753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563417252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563417752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563418252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563418752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563419252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563419753;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563420252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563420752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563421252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563421752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563422252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563422752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563423253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563423752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563424253;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563424752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563425252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563425752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563426252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563426752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563427252;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563427752;targets=All;devices=cpu;power=0.0 mW
-muid=e963c83a-0f6b-44d3-a50f-e9322b10ad32;timestamp=1493563428252;targets=All;devices=cpu;power=0.0 mW
-PowerAPI is shutting down ...
+96383-06-443-50-93221032;1493563223738;84000.0 
+96383-06-443-50-93221032;1493563224242;840.0 
+96383-06-443-50-93221032;1493563224752;4990.0990099009905 
+96383-06-443-50-93221032;1493563225252;0.0 
+96383-06-443-50-93221032;1493563225753;0.0 
+96383-06-443-50-93221032;1493563226252;1663.3663366336632 
+96383-06-443-50-93221032;1493563226752;848.4848484848485 
+96383-06-443-50-93221032;1493563227252;831.6831683168316 
+96383-06-443-50-93221032;1493563227752;840.0 
+96383-06-443-50-93221032;1493563228253;831.6831683168316 
+96383-06-443-50-93221032;1493563228752;0.0 
+96383-06-443-50-93221032;1493563229252;831.6831683168316 
+96383-06-443-50-93221032;1493563229752;840.0 
+96383-06-443-50-93221032;1493563230253;840.0 
+96383-06-443-50-93221032;1493563230743;0.0 
+96383-06-443-50-93221032;1493563231253;0.0 
+96383-06-443-50-93221032;1493563231752;840.0 
+96383-06-443-50-93221032;1493563232253;2520.0 
+96383-06-443-50-93221032;1493563232753;0.0 
+96383-06-443-50-93221032;1493563233252;831.6831683168316 
+96383-06-443-50-93221032;1493563233753;840.0 
+96383-06-443-50-93221032;1493563234252;848.4848484848485 
+96383-06-443-50-93221032;1493563234752;1663.3663366336632 
+96383-06-443-50-93221032;1493563235253;0.0 
+96383-06-443-50-93221032;1493563235752;2520.0 
+96383-06-443-50-93221032;1493563236252;840.0 
+96383-06-443-50-93221032;1493563236752;0.0 
+96383-06-443-50-93221032;1493563237253;840.0 
+96383-06-443-50-93221032;1493563237752;1680.0 
+96383-06-443-50-93221032;1493563238253;0.0 
+96383-06-443-50-93221032;1493563238752;831.6831683168316 
+96383-06-443-50-93221032;1493563239253;840.0 
+96383-06-443-50-93221032;1493563239752;0.0 
+96383-06-443-50-93221032;1493563240252;0.0 
+96383-06-443-50-93221032;1493563240753;840.0 
+96383-06-443-50-93221032;1493563241252;840.0 
+96383-06-443-50-93221032;1493563241753;0.0 
+96383-06-443-50-93221032;1493563242252;0.0 
+96383-06-443-50-93221032;1493563242753;831.6831683168316 
+96383-06-443-50-93221032;1493563243252;840.0 
+96383-06-443-50-93221032;1493563243752;840.0 
+96383-06-443-50-93221032;1493563244252;0.0 
+96383-06-443-50-93221032;1493563244753;0.0 
+96383-06-443-50-93221032;1493563245253;831.6831683168316 
+96383-06-443-50-93221032;1493563245753;840.0 
+96383-06-443-50-93221032;1493563246252;0.0 
+96383-06-443-50-93221032;1493563246753;831.6831683168316 
+96383-06-443-50-93221032;1493563247252;848.4848484848485 
+96383-06-443-50-93221032;1493563247752;0.0 
+96383-06-443-50-93221032;1493563248253;831.6831683168316 
+96383-06-443-50-93221032;1493563248752;840.0 
+96383-06-443-50-93221032;1493563249252;840.0 
+96383-06-443-50-93221032;1493563249753;0.0 
+96383-06-443-50-93221032;1493563250253;831.6831683168316 
+96383-06-443-50-93221032;1493563250752;0.0 
+96383-06-443-50-93221032;1493563251253;848.4848484848485 
+96383-06-443-50-93221032;1493563251752;831.6831683168316 
+96383-06-443-50-93221032;1493563252252;0.0 
+96383-06-443-50-93221032;1493563252753;0.0 
+96383-06-443-50-93221032;1493563253252;1663.3663366336632 
+96383-06-443-50-93221032;1493563253752;0.0 
+96383-06-443-50-93221032;1493563254253;0.0 
+96383-06-443-50-93221032;1493563254752;840.0 
+96383-06-443-50-93221032;1493563255252;0.0 
+96383-06-443-50-93221032;1493563255752;840.0 
+96383-06-443-50-93221032;1493563256253;0.0 
+96383-06-443-50-93221032;1493563256752;831.6831683168316 
+96383-06-443-50-93221032;1493563257252;0.0 
+96383-06-443-50-93221032;1493563257752;840.0 
+96383-06-443-50-93221032;1493563258252;0.0 
+96383-06-443-50-93221032;1493563258752;840.0 
+96383-06-443-50-93221032;1493563259252;831.6831683168316 
+96383-06-443-50-93221032;1493563259752;0.0 
+96383-06-443-50-93221032;1493563260253;0.0 
+96383-06-443-50-93221032;1493563260753;831.6831683168316 
+96383-06-443-50-93221032;1493563261253;0.0 
+96383-06-443-50-93221032;1493563261753;831.6831683168316 
+96383-06-443-50-93221032;1493563262253;0.0 
+96383-06-443-50-93221032;1493563262752;840.0 
+96383-06-443-50-93221032;1493563263252;0.0 
+96383-06-443-50-93221032;1493563263752;0.0 
+96383-06-443-50-93221032;1493563264252;848.4848484848485 
+96383-06-443-50-93221032;1493563264752;0.0 
+96383-06-443-50-93221032;1493563265252;0.0 
+96383-06-443-50-93221032;1493563265753;0.0 
+96383-06-443-50-93221032;1493563266252;0.0 
+96383-06-443-50-93221032;1493563266752;1680.0 
+96383-06-443-50-93221032;1493563267252;1663.3663366336632 
+96383-06-443-50-93221032;1493563267753;0.0 
+96383-06-443-50-93221032;1493563268252;0.0 
+96383-06-443-50-93221032;1493563268753;0.0 
+96383-06-443-50-93221032;1493563269252;831.6831683168316 
+96383-06-443-50-93221032;1493563269752;840.0 
+96383-06-443-50-93221032;1493563270252;0.0 
+96383-06-443-50-93221032;1493563270752;0.0 
+96383-06-443-50-93221032;1493563271253;0.0 
+96383-06-443-50-93221032;1493563271752;831.6831683168316 
+96383-06-443-50-93221032;1493563272252;1663.3663366336632 
+96383-06-443-50-93221032;1493563272752;0.0 
+96383-06-443-50-93221032;1493563273253;0.0 
+96383-06-443-50-93221032;1493563273752;840.0 
+96383-06-443-50-93221032;1493563274252;831.6831683168316 
+96383-06-443-50-93221032;1493563274752;840.0 
+96383-06-443-50-93221032;1493563275254;0.0 
+96383-06-443-50-93221032;1493563275753;0.0 
+96383-06-443-50-93221032;1493563276252;0.0 
+96383-06-443-50-93221032;1493563276753;831.6831683168316 
+96383-06-443-50-93221032;1493563277252;848.4848484848485 
+96383-06-443-50-93221032;1493563277753;840.0 
+96383-06-443-50-93221032;1493563278252;831.6831683168316 
+96383-06-443-50-93221032;1493563278752;0.0 
+96383-06-443-50-93221032;1493563279252;840.0 
+96383-06-443-50-93221032;1493563279752;840.0 
+96383-06-443-50-93221032;1493563280253;0.0 
+96383-06-443-50-93221032;1493563280752;0.0 
+96383-06-443-50-93221032;1493563281243;848.4848484848485 
+96383-06-443-50-93221032;1493563281752;823.5294117647059 
+96383-06-443-50-93221032;1493563282252;0.0 
+96383-06-443-50-93221032;1493563282753;0.0 
+96383-06-443-50-93221032;1493563283252;840.0 
+96383-06-443-50-93221032;1493563283753;0.0 
+96383-06-443-50-93221032;1493563284252;0.0 
+96383-06-443-50-93221032;1493563284753;831.6831683168316 
+96383-06-443-50-93221032;1493563285253;840.0 
+96383-06-443-50-93221032;1493563285753;831.6831683168316 
+96383-06-443-50-93221032;1493563286253;831.6831683168316 
+96383-06-443-50-93221032;1493563286752;0.0 
+96383-06-443-50-93221032;1493563287253;840.0 
+96383-06-443-50-93221032;1493563287742;0.0 
+96383-06-443-50-93221032;1493563288253;0.0 
+96383-06-443-50-93221032;1493563288752;840.0 
+96383-06-443-50-93221032;1493563289252;0.0 
+96383-06-443-50-93221032;1493563289752;831.6831683168316 
+96383-06-443-50-93221032;1493563290253;840.0 
+96383-06-443-50-93221032;1493563290752;0.0 
+96383-06-443-50-93221032;1493563291252;0.0 
+96383-06-443-50-93221032;1493563291752;0.0 
+96383-06-443-50-93221032;1493563292252;0.0 
+96383-06-443-50-93221032;1493563292753;0.0 
+96383-06-443-50-93221032;1493563293252;831.6831683168316 
+96383-06-443-50-93221032;1493563293752;0.0 
+96383-06-443-50-93221032;1493563294252;840.0 
+96383-06-443-50-93221032;1493563294752;0.0 
+96383-06-443-50-93221032;1493563295252;0.0 
+96383-06-443-50-93221032;1493563295752;0.0 
+96383-06-443-50-93221032;1493563296253;840.0 
+96383-06-443-50-93221032;1493563296752;0.0 
+96383-06-443-50-93221032;1493563297252;0.0 
+96383-06-443-50-93221032;1493563297752;840.0 
+96383-06-443-50-93221032;1493563298252;0.0 
+96383-06-443-50-93221032;1493563298753;0.0 
+96383-06-443-50-93221032;1493563299253;831.6831683168316 
+96383-06-443-50-93221032;1493563299752;831.6831683168316 
+96383-06-443-50-93221032;1493563300252;0.0 
+96383-06-443-50-93221032;1493563300752;0.0 
+96383-06-443-50-93221032;1493563301253;0.0 
+96383-06-443-50-93221032;1493563301752;0.0 
+96383-06-443-50-93221032;1493563302252;0.0 
+96383-06-443-50-93221032;1493563302752;0.0 
+96383-06-443-50-93221032;1493563303253;831.6831683168316 
+96383-06-443-50-93221032;1493563303752;0.0 
+96383-06-443-50-93221032;1493563304252;1647.0588235294117 
+96383-06-443-50-93221032;1493563304752;0.0 
+96383-06-443-50-93221032;1493563305252;0.0 
+96383-06-443-50-93221032;1493563305752;0.0 
+96383-06-443-50-93221032;1493563306252;0.0 
+96383-06-443-50-93221032;1493563306752;840.0 
+96383-06-443-50-93221032;1493563307253;0.0 
+96383-06-443-50-93221032;1493563307753;831.6831683168316 
+96383-06-443-50-93221032;1493563308252;0.0 
+96383-06-443-50-93221032;1493563308752;0.0 
+96383-06-443-50-93221032;1493563309253;0.0 
+96383-06-443-50-93221032;1493563309752;840.0 
+96383-06-443-50-93221032;1493563310252;0.0 
+96383-06-443-50-93221032;1493563310753;0.0 
+96383-06-443-50-93221032;1493563311252;831.6831683168316 
+96383-06-443-50-93221032;1493563311753;0.0 
+96383-06-443-50-93221032;1493563312252;840.0 
+96383-06-443-50-93221032;1493563312753;0.0 
+96383-06-443-50-93221032;1493563313252;831.6831683168316 
+96383-06-443-50-93221032;1493563313753;840.0 
+96383-06-443-50-93221032;1493563314253;0.0 
+96383-06-443-50-93221032;1493563314753;840.0 
+96383-06-443-50-93221032;1493563315252;0.0 
+96383-06-443-50-93221032;1493563315752;840.0 
+96383-06-443-50-93221032;1493563316252;0.0 
+96383-06-443-50-93221032;1493563316752;0.0 
+96383-06-443-50-93221032;1493563317252;0.0 
+96383-06-443-50-93221032;1493563317752;0.0 
+96383-06-443-50-93221032;1493563318252;840.0 
+96383-06-443-50-93221032;1493563318752;0.0 
+96383-06-443-50-93221032;1493563319252;1680.0 
+96383-06-443-50-93221032;1493563319752;0.0 
+96383-06-443-50-93221032;1493563320253;831.6831683168316 
+96383-06-443-50-93221032;1493563320752;0.0 
+96383-06-443-50-93221032;1493563321253;0.0 
+96383-06-443-50-93221032;1493563321753;840.0 
+96383-06-443-50-93221032;1493563322253;0.0 
+96383-06-443-50-93221032;1493563322753;0.0 
+96383-06-443-50-93221032;1493563323253;0.0 
+96383-06-443-50-93221032;1493563323752;840.0 
+96383-06-443-50-93221032;1493563324252;0.0 
+96383-06-443-50-93221032;1493563324752;0.0 
+96383-06-443-50-93221032;1493563325253;840.0 
+96383-06-443-50-93221032;1493563325753;831.6831683168316 
+96383-06-443-50-93221032;1493563326252;0.0 
+96383-06-443-50-93221032;1493563326752;0.0 
+96383-06-443-50-93221032;1493563327252;0.0 
+96383-06-443-50-93221032;1493563327752;0.0 
+96383-06-443-50-93221032;1493563328252;0.0 
+96383-06-443-50-93221032;1493563328752;1647.0588235294117 
+96383-06-443-50-93221032;1493563329253;0.0 
+96383-06-443-50-93221032;1493563329752;0.0 
+96383-06-443-50-93221032;1493563330252;840.0 
+96383-06-443-50-93221032;1493563330752;0.0 
+96383-06-443-50-93221032;1493563331252;0.0 
+96383-06-443-50-93221032;1493563331752;0.0 
+96383-06-443-50-93221032;1493563332252;0.0 
+96383-06-443-50-93221032;1493563332753;0.0 
+96383-06-443-50-93221032;1493563333252;840.0 
+96383-06-443-50-93221032;1493563333753;0.0 
+96383-06-443-50-93221032;1493563334252;831.6831683168316 
+96383-06-443-50-93221032;1493563334752;0.0 
+96383-06-443-50-93221032;1493563335252;0.0 
+96383-06-443-50-93221032;1493563335753;0.0 
+96383-06-443-50-93221032;1493563336252;840.0 
+96383-06-443-50-93221032;1493563336752;0.0 
+96383-06-443-50-93221032;1493563337252;831.6831683168316 
+96383-06-443-50-93221032;1493563337753;0.0 
+96383-06-443-50-93221032;1493563338252;0.0 
+96383-06-443-50-93221032;1493563338753;0.0 
+96383-06-443-50-93221032;1493563339252;0.0 
+96383-06-443-50-93221032;1493563339753;0.0 
+96383-06-443-50-93221032;1493563340252;840.0 
+96383-06-443-50-93221032;1493563340752;0.0 
+96383-06-443-50-93221032;1493563341252;840.0 
+96383-06-443-50-93221032;1493563341752;0.0 
+96383-06-443-50-93221032;1493563342252;840.0 
+96383-06-443-50-93221032;1493563342752;0.0 
+96383-06-443-50-93221032;1493563343253;0.0 
+96383-06-443-50-93221032;1493563343752;840.0 
+96383-06-443-50-93221032;1493563344252;0.0 
+96383-06-443-50-93221032;1493563344752;0.0 
+96383-06-443-50-93221032;1493563345252;0.0 
+96383-06-443-50-93221032;1493563345752;0.0 
+96383-06-443-50-93221032;1493563346253;840.0 
+96383-06-443-50-93221032;1493563346752;0.0 
+96383-06-443-50-93221032;1493563347253;0.0 
+96383-06-443-50-93221032;1493563347752;840.0 
+96383-06-443-50-93221032;1493563348252;840.0 
+96383-06-443-50-93221032;1493563348752;0.0 
+96383-06-443-50-93221032;1493563349252;0.0 
+96383-06-443-50-93221032;1493563349753;0.0 
+96383-06-443-50-93221032;1493563350252;831.6831683168316 
+96383-06-443-50-93221032;1493563350753;0.0 
+96383-06-443-50-93221032;1493563351242;857.1428571428571 
+96383-06-443-50-93221032;1493563351742;0.0 
+96383-06-443-50-93221032;1493563352253;823.5294117647059 
+96383-06-443-50-93221032;1493563352752;0.0 
+96383-06-443-50-93221032;1493563353242;0.0 
+96383-06-443-50-93221032;1493563353752;0.0 
+96383-06-443-50-93221032;1493563354242;0.0 
+96383-06-443-50-93221032;1493563354753;0.0 
+96383-06-443-50-93221032;1493563355252;840.0 
+96383-06-443-50-93221032;1493563355752;0.0 
+96383-06-443-50-93221032;1493563356253;0.0 
+96383-06-443-50-93221032;1493563356752;0.0 
+96383-06-443-50-93221032;1493563357252;840.0 
+96383-06-443-50-93221032;1493563357752;0.0 
+96383-06-443-50-93221032;1493563358252;0.0 
+96383-06-443-50-93221032;1493563358752;0.0 
+96383-06-443-50-93221032;1493563359252;0.0 
+96383-06-443-50-93221032;1493563359752;0.0 
+96383-06-443-50-93221032;1493563360252;840.0 
+96383-06-443-50-93221032;1493563360752;0.0 
+96383-06-443-50-93221032;1493563361252;0.0 
+96383-06-443-50-93221032;1493563361753;0.0 
+96383-06-443-50-93221032;1493563362253;0.0 
+96383-06-443-50-93221032;1493563362753;831.6831683168316 
+96383-06-443-50-93221032;1493563363253;0.0 
+96383-06-443-50-93221032;1493563363752;840.0 
+96383-06-443-50-93221032;1493563364253;0.0 
+96383-06-443-50-93221032;1493563364753;0.0 
+96383-06-443-50-93221032;1493563365252;0.0 
+96383-06-443-50-93221032;1493563365752;1663.3663366336632 
+96383-06-443-50-93221032;1493563366252;0.0 
+96383-06-443-50-93221032;1493563366752;0.0 
+96383-06-443-50-93221032;1493563367252;0.0 
+96383-06-443-50-93221032;1493563367752;0.0 
+96383-06-443-50-93221032;1493563368252;0.0 
+96383-06-443-50-93221032;1493563368752;0.0 
+96383-06-443-50-93221032;1493563369252;0.0 
+96383-06-443-50-93221032;1493563369752;0.0 
+96383-06-443-50-93221032;1493563370252;0.0 
+96383-06-443-50-93221032;1493563370752;0.0 
+96383-06-443-50-93221032;1493563371252;0.0 
+96383-06-443-50-93221032;1493563371753;0.0 
+96383-06-443-50-93221032;1493563372252;1663.3663366336632 
+96383-06-443-50-93221032;1493563372753;0.0 
+96383-06-443-50-93221032;1493563373252;840.0 
+96383-06-443-50-93221032;1493563373753;0.0 
+96383-06-443-50-93221032;1493563374252;0.0 
+96383-06-443-50-93221032;1493563374753;0.0 
+96383-06-443-50-93221032;1493563375252;1663.3663366336632 
+96383-06-443-50-93221032;1493563375752;0.0 
+96383-06-443-50-93221032;1493563376252;0.0 
+96383-06-443-50-93221032;1493563376753;0.0 
+96383-06-443-50-93221032;1493563377252;0.0 
+96383-06-443-50-93221032;1493563377753;0.0 
+96383-06-443-50-93221032;1493563378252;840.0 
+96383-06-443-50-93221032;1493563378753;0.0 
+96383-06-443-50-93221032;1493563379253;0.0 
+96383-06-443-50-93221032;1493563379752;831.6831683168316 
+96383-06-443-50-93221032;1493563380253;0.0 
+96383-06-443-50-93221032;1493563380753;0.0 
+96383-06-443-50-93221032;1493563381253;840.0 
+96383-06-443-50-93221032;1493563381753;831.6831683168316 
+96383-06-443-50-93221032;1493563382252;0.0 
+96383-06-443-50-93221032;1493563382752;0.0 
+96383-06-443-50-93221032;1493563383252;0.0 
+96383-06-443-50-93221032;1493563383752;0.0 
+96383-06-443-50-93221032;1493563384252;1647.0588235294117 
+96383-06-443-50-93221032;1493563384752;840.0 
+96383-06-443-50-93221032;1493563385252;0.0 
+96383-06-443-50-93221032;1493563385753;840.0 
+96383-06-443-50-93221032;1493563386253;0.0 
+96383-06-443-50-93221032;1493563386752;0.0 
+96383-06-443-50-93221032;1493563387252;0.0 
+96383-06-443-50-93221032;1493563387753;0.0 
+96383-06-443-50-93221032;1493563388252;831.6831683168316 
+96383-06-443-50-93221032;1493563388753;0.0 
+96383-06-443-50-93221032;1493563389252;0.0 
+96383-06-443-50-93221032;1493563389752;0.0 
+96383-06-443-50-93221032;1493563390253;0.0 
+96383-06-443-50-93221032;1493563390752;0.0 
+96383-06-443-50-93221032;1493563391253;0.0 
+96383-06-443-50-93221032;1493563391752;0.0 
+96383-06-443-50-93221032;1493563392253;0.0 
+96383-06-443-50-93221032;1493563392752;0.0 
+96383-06-443-50-93221032;1493563393252;840.0 
+96383-06-443-50-93221032;1493563393752;0.0 
+96383-06-443-50-93221032;1493563394253;0.0 
+96383-06-443-50-93221032;1493563394752;831.6831683168316 
+96383-06-443-50-93221032;1493563395253;0.0 
+96383-06-443-50-93221032;1493563395752;0.0 
+96383-06-443-50-93221032;1493563396252;0.0 
+96383-06-443-50-93221032;1493563396752;0.0 
+96383-06-443-50-93221032;1493563397253;0.0 
+96383-06-443-50-93221032;1493563397752;1663.3663366336632 
+96383-06-443-50-93221032;1493563398252;0.0 
+96383-06-443-50-93221032;1493563398752;0.0 
+96383-06-443-50-93221032;1493563399253;0.0 
+96383-06-443-50-93221032;1493563399752;0.0 
+96383-06-443-50-93221032;1493563400253;0.0 
+96383-06-443-50-93221032;1493563400752;840.0 
+96383-06-443-50-93221032;1493563401252;0.0 
+96383-06-443-50-93221032;1493563401753;0.0 
+96383-06-443-50-93221032;1493563402253;0.0 
+96383-06-443-50-93221032;1493563402752;0.0 
+96383-06-443-50-93221032;1493563403252;0.0 
+96383-06-443-50-93221032;1493563403753;0.0 
+96383-06-443-50-93221032;1493563404252;0.0 
+96383-06-443-50-93221032;1493563404753;0.0 
+96383-06-443-50-93221032;1493563405253;1663.3663366336632 
+96383-06-443-50-93221032;1493563405752;0.0 
+96383-06-443-50-93221032;1493563406252;0.0 
+96383-06-443-50-93221032;1493563406752;0.0 
+96383-06-443-50-93221032;1493563407253;840.0 
+96383-06-443-50-93221032;1493563407752;840.0 
+96383-06-443-50-93221032;1493563408253;831.6831683168316 
+96383-06-443-50-93221032;1493563408752;0.0 
+96383-06-443-50-93221032;1493563409253;0.0 
+96383-06-443-50-93221032;1493563409752;0.0 
+96383-06-443-50-93221032;1493563410253;0.0 
+96383-06-443-50-93221032;1493563410752;840.0 
+96383-06-443-50-93221032;1493563411252;0.0 
+96383-06-443-50-93221032;1493563411753;0.0 
+96383-06-443-50-93221032;1493563412252;831.6831683168316 
+96383-06-443-50-93221032;1493563412752;0.0 
+96383-06-443-50-93221032;1493563413253;0.0 
+96383-06-443-50-93221032;1493563413752;1663.3663366336632 
+96383-06-443-50-93221032;1493563414253;0.0 
+96383-06-443-50-93221032;1493563414752;840.0 
+96383-06-443-50-93221032;1493563415252;0.0 
+96383-06-443-50-93221032;1493563415753;831.6831683168316 
+96383-06-443-50-93221032;1493563416252;840.0 
+96383-06-443-50-93221032;1493563416753;0.0 
+96383-06-443-50-93221032;1493563417252;0.0 
+96383-06-443-50-93221032;1493563417752;0.0 
+96383-06-443-50-93221032;1493563418252;0.0 
+96383-06-443-50-93221032;1493563418752;0.0 
+96383-06-443-50-93221032;1493563419252;0.0 
+96383-06-443-50-93221032;1493563419753;0.0 
+96383-06-443-50-93221032;1493563420252;0.0 
+96383-06-443-50-93221032;1493563420752;0.0 
+96383-06-443-50-93221032;1493563421252;0.0 
+96383-06-443-50-93221032;1493563421752;0.0 
+96383-06-443-50-93221032;1493563422252;0.0 
+96383-06-443-50-93221032;1493563422752;0.0 
+96383-06-443-50-93221032;1493563423253;0.0 
+96383-06-443-50-93221032;1493563423752;0.0 
+96383-06-443-50-93221032;1493563424253;0.0 
+96383-06-443-50-93221032;1493563424752;0.0 
+96383-06-443-50-93221032;1493563425252;0.0 
+96383-06-443-50-93221032;1493563425752;0.0 
+96383-06-443-50-93221032;1493563426252;0.0 
+96383-06-443-50-93221032;1493563426752;0.0 
+96383-06-443-50-93221032;1493563427252;0.0 
+96383-06-443-50-93221032;1493563427752;0.0 
+96383-06-443-50-93221032;1493563428252;0.0 
